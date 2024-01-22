@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+:root{
+    --Background  :#2B2B2B
+}
+:root{
+    --Call-to-Action : #A259FF
+}
+:root{
+    --White :#FFF
+}
+:root{
+    --The-color-jasmine :#A259FF
+}
+:root{
+    --Background-Secondary :#3B3B3B
+}
+body{
+    background-color: var(--Background);
+}
