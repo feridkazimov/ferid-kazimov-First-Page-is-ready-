@@ -135,9 +135,10 @@
     font-size: 16px;
     text-align: center;
 }
-.GetStartedRocket i{
+
+.GetStartedRocket i {
     color: var(--White);
-   
+
 }
 
 .navbar_number {
@@ -298,6 +299,7 @@
     margin-top: 0.4%;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 
 .DSGN1025 {
@@ -374,6 +376,7 @@
     align-items: center;
     padding: 0px 16px 0px 34px;
     margin-left: 2%;
+    cursor: pointer;
 }
 
 .DSGN1025-1 p {
@@ -435,35 +438,770 @@
     gap: 10px;
     margin-left: 32%;
 }
-.ViewRankings a{
+
+.ViewRankings a {
     color: var(--White);
     font-family: "Work Sans";
     font-size: 16px;
     font-weight: 500;
     text-align: center;
 }
-.ViewRankings i{
+
+.ViewRankings i {
     color: var(--The-color-jasmine);
 }
 
-/* .ViewRankings {
-  
-    border-radius: 20px;
+/* 1 cii sekil ------------------------------------------------------------- */
+.Keepitreal {
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    width: 240px;
+    height: 238px;
+    background-color: var(--Top-Creators);
+    border-radius: 20px;
+    position: relative;
     justify-content: center;
-    background-color: var(--Call-to-Action);
-    margin-top: 35px;
+    margin-right: 70px;
 }
 
-.ViewRankings a {
+.KeepitrealPicture {
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+}
+
+.KeepitrealPicture p {
     color: var(--White);
-    font-size: 16px;
+    font-size: 22px;
+    font-weight: 500;
+    font-family: "Work Sans";
+
+}
+
+.KeepitrealPicture img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+
+}
+
+.number1 {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    background-color: var(--Number-color);
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 18px;
     text-align: center;
 }
 
- */
+.number1 p {
+    color: var(--Nuber1-color);
+    position: absolute;
+    left: 11px;
+    top: 6px;
+
+}
+
+.KeepitrealDigiLab {
+    display: flex;
+}
+
+.GravityJuanie {
+    display: flex;
+}
+
+.KeepitrealKeep {
+    margin-top: 20px;
+    margin-left: 25%;
+}
+
+.TotalSalesETH {
+    display: flex;
+    margin: auto;
+    gap: 10px;
+    margin-top: 7px;
+}
+
+.TotalSales p {
+    color: var(--Nuber1-color);
+    font-family: "Work Sans";
+    font-size: 17px;
+    margin-top: 1%;
+}
+
+.ETH p {
+    color: var(--White);
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.ContainerTopCreators1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+
+
+/* 1 ci sekil son  --------------------------------------------------------------- */
+
+
+/* 2  ci setr sekil-------------------------------------- */
+
+/* 5 ci sekil---------------- */
+.BlueWhale {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 238px;
+    background-color: var(--Top-Creators);
+    border-radius: 20px;
+    position: relative;
+    justify-content: center;
+    margin-right: 70px;
+    cursor: pointer;
+}
+
+.number4 {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    background-color: var(--Number-color);
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 18px;
+    text-align: center;
+}
+
+.number4 p {
+    color: var(--Nuber1-color);
+    position: absolute;
+    left: 11px;
+    top: 6px;
+
+}
+
+.BlueWhalePicture {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.BlueWhalePicture img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+
+}
+
+.BlueWhaleBlue {
+    margin-top: 20px;
+    color: var(--White);
+    font-size: 22px;
+    font-family: "Work Sans";
+    font-weight: 500;
+    margin-left: 17%;
+}
+
+.TotalSalesETH1 {
+    display: flex;
+    margin: auto;
+    gap: 10px;
+    margin-top: 7px;
+}
+
+.TotalSales1 p {
+    color: var(--Nuber1-color);
+    font-family: "Work Sans";
+    font-size: 17px;
+    margin-top: 1%;
+}
+
+.ETH1 p {
+    color: var(--White);
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* 5 ci sekil-------------------- */
+
+/* 6 ci sekil ------------------------ */
+.FoxWithGlasses {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 238px;
+    background-color: var(--Top-Creators);
+    border-radius: 20px;
+    position: relative;
+    justify-content: center;
+    margin-right: 70px;
+    cursor: pointer;
+}
+
+.number6 {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    background-color: var(--Number-color);
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 18px;
+    text-align: center;
+}
+
+.number6 p {
+    color: var(--Nuber1-color);
+    position: absolute;
+    left: 11px;
+    top: 6px;
+}
+
+.FoxWithGlassesPicture {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.FoxWithGlassesPicture img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+
+}
+
+.FoxWithGlassesFox {
+    margin-top: 20px;
+    color: var(--White);
+    font-size: 22px;
+    font-family: "Work Sans";
+    font-weight: 500;
+    margin-left: 29%;
+}
+
+.TotalSalesETH2 {
+    display: flex;
+    margin: auto;
+    gap: 10px;
+    margin-top: 7px;
+}
+
+.TotalSales2 p {
+    color: var(--Nuber1-color);
+    font-family: "Work Sans";
+    font-size: 17px;
+    margin-top: 1%;
+}
+
+.ETH2 p {
+    color: var(--White);
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* 6 ci sekil------------ */
+
+/* 7 ci sekil ----------------- */
+
+.Shroomie {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 238px;
+    background-color: var(--Top-Creators);
+    border-radius: 20px;
+    position: relative;
+    justify-content: center;
+    margin-right: 58px;
+    cursor: pointer;
+}
+
+.number7 {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    background-color: var(--Number-color);
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 18px;
+    text-align: center;
+}
+
+.number7 p {
+    color: var(--Nuber1-color);
+    position: absolute;
+    left: 11px;
+    top: 6px;
+}
+
+.ShroomiePicture {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ShroomiePicture img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+
+}
+
+.ShroomieShor {
+    margin-top: 20px;
+    color: var(--White);
+    font-size: 22px;
+    font-family: "Work Sans";
+    font-weight: 500;
+    margin-left: 29%;
+}
+
+.TotalSalesETH3 {
+    display: flex;
+    margin: auto;
+    gap: 10px;
+    margin-top: 7px;
+}
+
+.TotalSales3 p {
+    color: var(--Nuber1-color);
+    font-family: "Work Sans";
+    font-size: 17px;
+    margin-top: 1%;
+}
+
+.ETH3 p {
+    color: var(--White);
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* 7 ci sekil ----------------- */
+
+
+/*  8 ci sekil --------------- */
+
+.Robotica {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 238px;
+    background-color: var(--Top-Creators);
+    border-radius: 20px;
+    position: relative;
+    justify-content: center;
+    margin-right: 70px;
+    cursor: pointer;
+}
+
+.number8 {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    background-color: var(--Number-color);
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 18px;
+    text-align: center;
+}
+
+.number8 p {
+    color: var(--Nuber1-color);
+    position: absolute;
+    left: 11px;
+    top: 6px;
+}
+
+.RoboticaPicture {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.RoboticaPicture img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+
+}
+
+.RoboticaRobo {
+    margin-top: 20px;
+    color: var(--White);
+    font-size: 22px;
+    font-family: "Work Sans";
+    font-weight: 500;
+    margin-left: 29%;
+}
+
+.TotalSalesETH4 {
+    display: flex;
+    margin: auto;
+    gap: 10px;
+    margin-top: 7px;
+}
+
+.TotalSales4 p {
+    color: var(--Nuber1-color);
+    font-family: "Work Sans";
+    font-size: 17px;
+    margin-top: 1%;
+}
+
+.ETH4 p {
+    color: var(--White);
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/*  8 ci sekil --------------- */
+.ContainerTopCreators2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+}
+
+
+/* 9 cu sekil ------------ */
+.RustyRobot {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 238px;
+    background-color: var(--Top-Creators);
+    border-radius: 20px;
+    position: relative;
+    justify-content: center;
+    margin-right: 70px;
+    cursor: pointer;
+}
+
+.number9 {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    background-color: var(--Number-color);
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 18px;
+    text-align: center;
+}
+
+.number9 p {
+    color: var(--Nuber1-color);
+    position: absolute;
+    left: 11px;
+    top: 6px;
+}
+
+.RustyRobotPicture {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.RustyRobotPicture img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+
+}
+
+.RustyRobotRus {
+    margin-top: 20px;
+    color: var(--White);
+    font-size: 22px;
+    font-family: "Work Sans";
+    font-weight: 500;
+    margin-left: 16%;
+}
+
+.TotalSalesETH5 {
+    display: flex;
+    margin: auto;
+    gap: 10px;
+    margin-top: 7px;
+}
+
+.TotalSales5 p {
+    color: var(--Nuber1-color);
+    font-family: "Work Sans";
+    font-size: 17px;
+    margin-top: 1%;
+}
+
+.ETH5 p {
+    color: var(--White);
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* 9 cu sekil ------------ */
+
+
+
+/* 10 cu sekil ---------- */
+
+.AnimakidWithGlasses {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 238px;
+    background-color: var(--Top-Creators);
+    border-radius: 20px;
+    position: relative;
+    justify-content: center;
+    margin-right: 70px;
+    cursor: pointer;
+}
+
+.number10 {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    background-color: var(--Number-color);
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 18px;
+    text-align: center;
+}
+
+.number10 p {
+    color: var(--Nuber1-color);
+    position: absolute;
+    left: 7px;
+    top: 6px;
+}
+
+.AnimakidWithGlassesRustyRobotPicture {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.AnimakidWithGlassesRustyRobotPicture img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+
+}
+
+.AnimakidWithGlassesAnima {
+    margin-top: 20px;
+    color: var(--White);
+    font-size: 22px;
+    font-family: "Work Sans";
+    font-weight: 500;
+    margin-left: 23%;
+}
+
+.TotalSalesETH6 {
+    display: flex;
+    margin: auto;
+    gap: 10px;
+    margin-top: 7px;
+}
+
+.TotalSales6 p {
+    color: var(--Nuber1-color);
+    font-family: "Work Sans";
+    font-size: 17px;
+    margin-top: 1%;
+}
+
+.ETH6 p {
+    color: var(--White);
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* 10 cu sekil ---------- */
+
+/* 11 ci seil --------- */
+
+.Dotgu {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 238px;
+    background-color: var(--Top-Creators);
+    border-radius: 20px;
+    position: relative;
+    justify-content: center;
+    margin-right: 70px;
+    cursor: pointer;
+}
+
+.number11 {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    background-color: var(--Number-color);
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 18px;
+    text-align: center;
+}
+
+.number11 p {
+    color: var(--Nuber1-color);
+    position: absolute;
+    left: 7px;
+    top: 6px;
+}
+
+.DotguPicture {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.DotguPicture img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+
+}
+
+.DotguDot {
+    margin-top: 20px;
+    color: var(--White);
+    font-size: 22px;
+    font-family: "Work Sans";
+    font-weight: 500;
+    margin-left: 34%;
+}
+
+.TotalSalesETH7 {
+    display: flex;
+    margin: auto;
+    gap: 10px;
+    margin-top: 7px;
+}
+
+.TotalSales7 p {
+    color: var(--Nuber1-color);
+    font-family: "Work Sans";
+    font-size: 17px;
+    margin-top: 1%;
+}
+
+.ETH7 p {
+    color: var(--White);
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* 11 ci seil --------- */
+
+/* 12 ci sekil -------- */
+
+.Ghiblier {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 238px;
+    background-color: var(--Top-Creators);
+    border-radius: 20px;
+    position: relative;
+    justify-content: center;
+    margin-right: 70px;
+    cursor: pointer;
+}
+
+.number12 {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    background-color: var(--Number-color);
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 18px;
+    text-align: center;
+}
+
+.number12 p {
+    color: var(--Nuber1-color);
+    position: absolute;
+    left: 7px;
+    top: 6px;
+}
+
+.GhiblierPicture {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.GhiblierPicture img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+
+}
+
+.GhiblierGhib {
+    margin-top: 20px;
+    color: var(--White);
+    font-size: 22px;
+    font-family: "Work Sans";
+    font-weight: 500;
+    margin-left: 29%;
+}
+
+.TotalSalesETH8 {
+    display: flex;
+    margin: auto;
+    gap: 10px;
+    margin-top: 7px;
+}
+
+.TotalSales8 p {
+    color: var(--Nuber1-color);
+    font-family: "Work Sans";
+    font-size: 17px;
+    margin-top: 1%;
+}
+
+.ETH8 p {
+    color: var(--White);
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* 12 ci sekil -------- */
+.ContainerTopCreators3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+}
+/* 2 ci setr sekil --------------------------------------- */
+
+
+/* 3 cu setr sekil--------------------------------- */
 
 
 
@@ -472,5 +1210,11 @@
 
 
 
+
+
+
+
+
+/* 3 cu setr sekil ---------------------------------------- */
 
 /* 3 cu seyfe bitish ---------------------------------------- */

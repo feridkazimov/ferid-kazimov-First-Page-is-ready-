@@ -204,6 +204,26 @@
         padding: 0px 0px;
     }
 
+    .Keepitreal {
+        width: 330px;
+        height: 100px;
+
+    }
+
+    .KeepitrealPicture {
+        flex-direction: row;
+    }
+
+    .KeepitrealPicture img {
+        width: 60px;
+        height: 60px;
+        margin-left: 10%;
+    }
+
+    .KeepitTotal {
+        margin-left: 6%;
+    }
+
     /* 2 ci seyfe bitis ------------------------------------*/
 
 
@@ -225,10 +245,71 @@
         margin-right: 10%;
     }
 
+    .ContainerTopCreators1 {
+        width: 110%;
+        margin-top: 5%;
+        flex-direction: column;
+    }
 
+    .KeepitrealDigiLab {
+        display: flex;
+        margin-right: 1%;
+    }
 
+    .GravityJuanie {
+        display: flex;
+        margin-top: 3%;
+        margin-right: 1%;
+    }
 
+    .Shroomie {
+        display: none;
+    }
 
+    .Robotica {
+        display: none;
+    }
+
+    .BlueWhalePicture {
+        flex-direction: row;
+    }
+
+    .BlueWhalePicture img {
+        width: 60px;
+        height: 60px;
+        margin-left: 10%;
+    }
+
+    .BlueWhale {
+        width: 330px;
+        height: 100px;
+
+    }
+
+    .FoxWithGlasses {
+        width: 330px;
+        height: 100px;
+
+    }
+
+    .FoxWithGlassesPicture {
+        flex-direction: row;
+    }
+
+    .FoxWithGlassesPicture img {
+        width: 60px;
+        height: 60px;
+        margin-left: 10%;
+    }
+
+    .ContainerTopCreators2 {
+        margin-top: 3%;
+        margin-right: -12%
+    }
+
+    .ContainerTopCreators3 {
+        display: none;
+    }
 
     /* 3 cu seyfe bitish *-------------------------------*/
 
@@ -324,13 +405,42 @@
 
     /* 3 cu seyfe basliq ------------------------------- */
 
-.ViewRankings {
-    display: none;
-}
+    .ViewRankings {
+        display: none;
+    }
 
+    .Keepitreal {
+        margin: auto;
+        margin-top: 3%;
+    }
 
+    .ContainerTopCreators1 {
+        width: 99%;
+        margin-top: 0;
+    }
 
+    .KeepitrealDigiLab {
+        flex-direction: column;
+        width: 310px;
+    }
 
+    .GravityJuanie {
+        margin-top: 0;
+        flex-direction: column;
+        margin-left: 5%;
+    }
+
+    .FoxWithGlasses {
+        display: none;
+    }
+
+    .BlueWhale {
+        margin-right: 3%;
+    }
+
+    .ContainerTopCreators3 {
+        display: none;
+    }
 
     /* 3 cu seyfe bitish --------------------------------- */
 }
@@ -425,12 +535,31 @@
 
 
 
-/* 3 cu seyfe basliq --------------------------------------- */
+    /* 3 cu seyfe basliq --------------------------------------- */
 
     .ViewRankings {
         display: none;
     }
 
+    .Keepitreal {
+        width: 290px;
+    }
+
+    .GravityJuanie {
+        margin-left: 1%;
+    }
+
+    .BlueWhale {
+        width: 290px;
+    }
+
+    .BlueWhale {
+        margin-right: 5%;
+    }
+
+    .ContainerTopCreators3 {
+        display: none;
+    }
 
     /* 3 cu seyfe bistish ----------------------------- */
 }

@@ -24,6 +24,15 @@ li{
 :root{
     --Background-Secondary :#3B3B3B
 }
+:root{
+    --Top-Creators :#3B3B3B
+}
+:root{
+    --Number-color :#2B2B2B
+}
+:root{
+    --Nuber1-color :#858584
+}
 body{
     background-color: var(--Background);
 }
