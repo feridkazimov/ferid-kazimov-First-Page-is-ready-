@@ -1,0 +1,441 @@
+@media only screen and (max-width:1441px) {
+    .NavBar {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .NFT_Marketplace p {
+        width: max-content;
+    }
+
+    .MRC_Bar {
+        width: max-content;
+    }
+
+}
+
+@media only screen and (min-width:1345px) {
+    .NavBar {
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+/* Taplet STart------------------------------------------------ */
+
+
+@media only screen and (max-width:835px) {
+
+    /* NAVBAR Basliq */
+    .MRC_Bar {
+        display: none;
+
+    }
+
+    .USER_Sign_Up {
+        display: none;
+    }
+
+    #NavBar {
+        justify-content: flex-start;
+        padding: 0px 20px;
+    }
+
+    .list_media {
+        display: flex;
+        color: #fff;
+        margin-top: 39px;
+        padding: 0px 20px;
+    }
+
+    .list_media1 {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    /* NAVBAR Bitish */
+
+
+
+
+
+    /* 1 - ci Seyfe basliq */
+
+    .DiscoverDigital p {
+        font-size: 38px;
+    }
+
+    .NFTs p {
+        font-size: 16px;
+        font-family: "Work Sans";
+        width: 402px;
+    }
+
+    .navbar_number1 {
+        margin-right: 60px;
+    }
+
+    .navbar_number1 p {
+        font-size: 22px;
+    }
+
+    .navbar_number1 span {
+        font-size: 16px;
+    }
+
+    .navbar_number2 {
+        margin-right: 60px;
+    }
+
+    .navbar_number2 p {
+        font-size: 22px;
+    }
+
+    .navbar_number2 span {
+        font-size: 16px;
+    }
+
+    .navbar_number3 {
+        margin-right: 60px;
+    }
+
+    .navbar_number3 p {
+        font-size: 22px;
+    }
+
+    .navbar_number3 span {
+        font-size: 16px;
+    }
+
+    .Cosmonaut>img {
+        width: 90%;
+    }
+
+    .Animakid {
+        border-radius: 0px 0px 20px 20px;
+        padding: 30px 0px 0px 10px;
+        height: 109px;
+        width: 90%;
+        background-color: var(--Background-Secondary);
+
+    }
+
+    #Space_Walking {
+        padding: 0px 20px 105px 0px;
+    }
+
+    /* 1 - ci Seyfe bitish */
+
+    /* 2 ci seyfe basliq */
+    .CheckoutCollection p {
+        font-size: 16px;
+    }
+
+    .Trending p {
+        font-size: 28px;
+    }
+
+    .DSGNMagicDisco {
+        margin-right: 6%;
+    }
+
+    .DSGNMagicDisco img {
+        height: 340px;
+        margin-left: 6%;
+    }
+
+    .Robot {
+        display: none;
+    }
+
+    .Dog>img {
+        padding: 0px 15px;
+    }
+
+    .Cat {
+        padding: 0px;
+    }
+
+    .Cat img {
+        height: 100px;
+
+    }
+
+    .Bear img {
+        height: 100px;
+    }
+
+    .DSGN1025 {
+        height: 100px;
+        margin-left: 2%;
+    }
+
+    .DSGN {
+        margin-left: 13%;
+    }
+
+    .Fox {
+        display: flex;
+        gap: 10px;
+        margin-left: 12.5%;
+        margin-top: 3%;
+    }
+
+    .MrFox p {
+        color: var(--White);
+        font-family: "Work Sans";
+        font-size: 16px;
+        font-weight: 300;
+
+    }
+
+    .avatarFox {
+        display: flex;
+
+    }
+
+    .avatarFox img {
+        width: 24px;
+        height: 24px;
+
+    }
+
+    .mushroom>img {
+        padding: 0px 0px;
+    }
+
+    /* 2 ci seyfe bitis ------------------------------------*/
+
+
+
+    /* 3 cu seyfe basliq *--------------------------------*/
+
+
+    .TopCreators p {
+        font-size: 28px;
+    }
+
+    .CheckoutTopRated p {
+        font-size: 16px;
+    }
+
+    .ViewRankings {
+        border: 2px solid var(--The-color-jasmine);
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+
+
+
+
+
+    /* 3 cu seyfe bitish *-------------------------------*/
+
+
+}
+
+
+
+
+
+
+
+
+
+/* Taplet END ------------------------------------------------------ */
+
+
+/* Mobile start --------------------------------------- */
+
+
+@media only screen and (max-width:415px) {
+
+    /* 1 ci seyfe basliq */
+    #ColorFirstPageFlex {
+        display: none;
+    }
+
+    .NFT_Marketplace p {
+        font-size: 23px;
+    }
+
+    .NFT_Marketplace i {
+        font-size: 24px;
+    }
+
+    .list_media {
+        font-size: 24px;
+        margin-top: 33px;
+    }
+
+    /* 1 ci seyfe bitish */
+
+
+    /* 2 ci seyfe basliq */
+    .Trending p {
+        font-size: 28px;
+    }
+
+    .CheckoutCollection p {
+        margin-top: 2%;
+    }
+
+    .mushroom {
+        display: none;
+
+    }
+
+    .Robot {
+        display: none;
+    }
+
+    .Dog img {
+        height: 360px;
+        margin-left: 3%;
+    }
+
+    .DSGNAnimals {
+        display: flex;
+        margin-left: 50px;
+    }
+
+    .Cat img {
+        height: 95px;
+    }
+
+    .Bear img {
+        height: 95px;
+    }
+
+    .DSGN1025 {
+        height: 94px;
+    }
+
+    .avatarFox img {
+        width: 24px;
+        height: 24px;
+
+    }
+
+    /* 2 ci seyfe bitish */
+
+
+
+    /* 3 cu seyfe basliq ------------------------------- */
+
+.ViewRankings {
+    display: none;
+}
+
+
+
+
+
+    /* 3 cu seyfe bitish --------------------------------- */
+}
+
+
+
+
+
+@media only screen and (max-width:375px) {
+
+    /* 1 - ci seyf basliq */
+    #ColorFirstPageFlex {
+        display: none;
+    }
+
+    .NFT_Marketplace p {
+        font-size: 23px;
+    }
+
+    .NFT_Marketplace i {
+        font-size: 24px;
+    }
+
+    .list_media {
+        font-size: 24px;
+        margin-top: 33px;
+    }
+
+    /* 1 - ci seyfe bitis */
+
+
+
+    /* 2 - ci seyfe basliq */
+    .Trending p {
+        font-size: 28px;
+    }
+
+    .CheckoutCollection p {
+        margin-top: 2%;
+    }
+
+    .mushroom {
+        display: none;
+
+    }
+
+    .Robot {
+        display: none;
+    }
+
+    .Dog img {
+        height: 280px;
+        margin-left: 3%;
+    }
+
+    .DSGNAnimals {
+        display: flex;
+        margin-left: 40px;
+    }
+
+    .Cat {
+        padding: 0;
+    }
+
+    .Cat img {
+        height: 80px;
+
+    }
+
+    .Bear img {
+        height: 80px;
+
+    }
+
+    .DSGN1025 {
+        height: 79px;
+        margin-right: 7%;
+    }
+
+    .DSGN1025 p {
+        font-size: 16px;
+
+    }
+
+    .avatarFox img {
+        width: 24px;
+        height: 24px;
+
+    }
+
+    /* 2 - ci seyfe bitis ----------------------------------*/
+
+
+
+/* 3 cu seyfe basliq --------------------------------------- */
+
+    .ViewRankings {
+        display: none;
+    }
+
+
+    /* 3 cu seyfe bistish ----------------------------- */
+}
+
+
+
+
+/* Mobile END ----------------------------------------------- */
