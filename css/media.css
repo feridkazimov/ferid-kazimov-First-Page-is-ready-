@@ -204,6 +204,7 @@
         padding: 0px 0px;
     }
 
+    /*  1 ci sekil ----------- */
     .Keepitreal {
         width: 330px;
         height: 100px;
@@ -224,6 +225,138 @@
         margin-left: 6%;
     }
 
+    .KeepitrealTotal {
+        margin-left: 6%;
+    }
+
+    .KeepitrealKeep p {
+        margin-left: -20%;
+    }
+
+    /*  1 ci sekil ----------- */
+
+
+    /*  2 ci sekil --------- */
+    .DigiLab {
+        width: 330px;
+        height: 100px;
+
+    }
+
+    .DigiLabPicture {
+        flex-direction: row;
+    }
+
+    .DigiLabPicture img {
+        width: 60px;
+        height: 60px;
+        margin-left: 10%;
+    }
+
+    .DigiLabTotal {
+        margin-left: 6%;
+    }
+
+    .ContainerTopCreators1-1 {
+        display: flex;
+    }
+
+    .DigiLabDig p {
+        margin-left: -20%;
+    }
+
+    /*  2 ci sekil --------- */
+
+
+    /* 3 cu sekil ----- */
+    .GravityOne {
+        width: 330px;
+        height: 100px;
+
+    }
+
+    .GravityOnePicture {
+        flex-direction: row;
+    }
+
+    .GravityOnePicture img {
+        width: 60px;
+        height: 60px;
+        margin-left: 10%;
+    }
+
+    .GravityOneTotal {
+        margin-left: 6%;
+    }
+
+    .GravityOneGrav p {
+        margin-left: -20%;
+    }
+
+    /* 3 cu sekil ----- */
+
+
+    /* 4 cu sekil------- */
+
+
+    .Juanie {
+        width: 330px;
+        height: 100px;
+
+    }
+
+    .JuaniePicture {
+        flex-direction: row;
+    }
+
+    .JuaniePicture img {
+        width: 60px;
+        height: 60px;
+        margin-left: 10%;
+    }
+
+    .JuanieTotal {
+        margin-left: 6%;
+    }
+
+
+
+    .ContainerTopCreators1-2 {
+        display: flex;
+        margin-top: 3%;
+    }
+
+    .JuanieJuan p {
+        margin-left: -20%;
+    }
+
+    /* 4 cu sekil------- */
+
+
+
+
+    /* 5 ci sekil------ */
+    .BlueWhaleTotal {
+        margin-left: 6%;
+    }
+
+    .BlueWhaleBlue p {
+        margin-left: -20%;
+    }
+
+    /* 5 ci sekil ------ */
+    /* 6 ci sekil ------ */
+
+
+    .FoxWithGlassesTotal {
+        margin-left: 6%;
+    }
+
+    .FoxWithGlassesFox p {
+        margin-left: -40%;
+    }
+
+    /* 6 ci sekil ------- */
     /* 2 ci seyfe bitis ------------------------------------*/
 
 
@@ -442,7 +575,143 @@
         display: none;
     }
 
+    .ContainerTopCreators1-1 {
+        flex-direction: column;
+    }
+
+    .ContainerTopCreators1-2 {
+        flex-direction: column;
+        margin-left: 18.5%;
+    }
+
+    .DigiLab {
+        margin-left: 8.5%;
+        margin-top: 3%;
+    }
+
+    .Juanie {
+        margin-top: 3%;
+    }
+
+    .BlueWhale {
+        margin-right: 6%;
+    }
+
+    
     /* 3 cu seyfe bitish --------------------------------- */
+
+    /* 1 ci seyfe mobile */
+
+    .ViewRankings_mibile {
+        width: 315px;
+        height: 50px;
+        display: flex;
+        border: 2px solid var(--The-color-jasmine);
+        border-radius: 20px;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        margin-left: 7%;
+        margin-top: 10%;
+    }
+
+    .ViewRankings_mibile a {
+        color: var(--White);
+        font-family: "Work Sans";
+        font-size: 16px;
+        font-weight: 500;
+        text-align: center;
+    }
+
+    .ViewRankings_mibile i {
+        color: var(--The-color-jasmine);
+    }
+
+    #ColorFirstPageFlex_media {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .Animakid p:first-child {
+        font-size: 22px;
+    }
+
+    .Animakid p:last-child {
+        font-size: 16px;
+        font-weight: 400;
+    }
+
+    .DiscoverDigital>p {
+        font-size: 28px;
+        margin-top: 20%;
+        margin-left: 10%;
+    }
+
+    .NFTs p {
+        font-size: 16px;
+        margin-left: 10%;
+    }
+
+    #Space_Walking {
+        padding: 0px;
+        margin-left: -15%;
+    }
+
+    .GetStartedRocket {
+        width: 315px;
+        margin-left: 10%;
+    }
+
+    .navbar_number {
+        margin-top: 40px;
+        margin-left: 9%;
+    }
+
+    .Cosmonaut>img {
+        width: 86%;
+    }
+
+    .Animakid {
+        width: 86%;
+    }
+
+    /* 1 ci  seyfe mobile */
+
+
+
+    /* 4 cu seyfe basliq -------------------------------- */
+
+    .BrowseCategories {
+        margin-top: 80px;
+    }
+
+    .BrowseCategories p {
+        font-size: 28px;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* 4 cu seyfe bitis -------------------------------- */
+
+
+
 }
 
 
@@ -562,6 +831,68 @@
     }
 
     /* 3 cu seyfe bistish ----------------------------- */
+
+
+    /* 1 ci seyfe --- */
+    /* .ViewRankings_mibile{
+    width: 290px;
+    margin-left: 5%;
+}
+#Space_Walking{
+    margin-right: 19%;
+    margin-left: -12%;
+}
+.Animakid p:first-child{
+    font-size: 22px;
+}
+.Animakid p:last-child{
+    font-size: 16px;
+    font-weight: 400;
+}
+.DiscoverDigital > p{
+    font-size: 26px;
+    margin-top: 20%;
+    margin-left: 6%;
+}
+.NFTs p{
+    font-size: 13px;
+    margin-left: 7.1%;
+}
+
+.GetStartedRocket{
+    width: 270px;
+    margin-left: 6%;
+}
+/*  */
+    .navbar_number1 p {
+        font-size: 17px;
+    }
+
+    .navbar_number1 span {
+        font-size: 12px;
+    }
+
+    .navbar_number2 p {
+        font-size: 17px;
+    }
+
+    .navbar_number2 span {
+        font-size: 12px;
+    }
+
+    .navbar_number3 p {
+        font-size: 17px;
+    }
+
+    .navbar_number3 span {
+        font-size: 12px;
+    }
+
+
+    /* 1 ci seyfe --- */
+
+
+
 }
 
 

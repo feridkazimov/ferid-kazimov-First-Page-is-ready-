@@ -24,6 +24,7 @@
     gap: 10px;
     font-size: 28px;
     margin-top: 2.2px;
+    cursor: pointer;
 }
 
 .NFT_Marketplace p {
@@ -76,6 +77,7 @@
     color: var(--White);
     font-size: 16px;
     text-align: center;
+    font-family: "Work Sans";
 }
 
 .USER_Sign_Up i {
@@ -134,10 +136,12 @@
     color: var(--White);
     font-size: 16px;
     text-align: center;
+    font-family: "Work Sans";
 }
 
 .GetStartedRocket i {
     color: var(--White);
+    cursor: pointer;
 
 }
 
@@ -517,6 +521,11 @@
 .KeepitrealKeep {
     margin-top: 20px;
     margin-left: 25%;
+
+}
+
+.KeepitrealKeep p {
+    margin-left: 6%;
 }
 
 .TotalSalesETH {
@@ -553,6 +562,364 @@
 
 /* 2  ci setr sekil-------------------------------------- */
 
+/* 1 ci  sekil------ */
+.Keepitreal {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 238px;
+    background-color: var(--Top-Creators);
+    border-radius: 20px;
+    position: relative;
+    justify-content: center;
+    margin-right: 70px;
+    cursor: pointer;
+}
+
+.number0 {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    background-color: var(--Number-color);
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 18px;
+    text-align: center;
+}
+
+.number0 p {
+    color: var(--Nuber1-color);
+    position: absolute;
+    left: 11px;
+    top: 6px;
+
+}
+
+.KeepitrealPicture {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.KeepitrealPicture img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+
+}
+
+.KeepitrealKeep {
+    margin-top: 20px;
+    color: var(--White);
+    font-size: 22px;
+    font-family: "Work Sans";
+    font-weight: 500;
+    margin-left: 17%;
+}
+
+.TotalSalesETH-1 {
+    display: flex;
+    margin: auto;
+    gap: 10px;
+    margin-top: 7px;
+}
+
+.TotalSales-1 p {
+    color: var(--Nuber1-color);
+    font-family: "Work Sans";
+    font-size: 17px;
+    margin-top: 1%;
+}
+
+.ETH-1 p {
+    color: var(--White);
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+
+/* 1 ci sekil------- */
+
+
+
+
+/* 2 ci sekil ------- */
+
+.DigiLab {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 238px;
+    background-color: var(--Top-Creators);
+    border-radius: 20px;
+    position: relative;
+    justify-content: center;
+    margin-right: 70px;
+    cursor: pointer;
+}
+
+.number1 {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    background-color: var(--Number-color);
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 18px;
+    text-align: center;
+}
+
+.number1 p {
+    color: var(--Nuber1-color);
+    position: absolute;
+    left: 11px;
+    top: 6px;
+
+}
+
+.DigiLabPicture {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.DigiLabPicture img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+
+}
+
+.DigiLabDig {
+    margin-top: 20px;
+    color: var(--White);
+    font-size: 22px;
+    font-family: "Work Sans";
+    font-weight: 500;
+    margin-left: 17%;
+}
+
+.DigiLabDig p {
+    margin-left: 16%;
+}
+
+.TotalSalesETH-2 {
+    display: flex;
+    margin: auto;
+    gap: 10px;
+    margin-top: 7px;
+}
+
+.TotalSales-2 p {
+    color: var(--Nuber1-color);
+    font-family: "Work Sans";
+    font-size: 17px;
+    margin-top: 1%;
+}
+
+.ETH-2 p {
+    color: var(--White);
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+
+/* 2 ci sekil ------- */
+
+
+/* 3 cu sekil ---------- */
+
+.GravityOne {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 238px;
+    background-color: var(--Top-Creators);
+    border-radius: 20px;
+    position: relative;
+    justify-content: center;
+    margin-right: 70px;
+    cursor: pointer;
+}
+
+.number2 {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    background-color: var(--Number-color);
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 18px;
+    text-align: center;
+}
+
+.number2 p {
+    color: var(--Nuber1-color);
+    position: absolute;
+    left: 11px;
+    top: 6px;
+
+}
+
+.GravityOnePicture {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.GravityOnePicture img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+
+}
+
+.GravityOneGrav {
+    margin-top: 20px;
+    color: var(--White);
+    font-size: 22px;
+    font-family: "Work Sans";
+    font-weight: 500;
+    margin-left: 17%;
+}
+
+.GravityOneGrav p {
+    margin-left: 3%;
+}
+
+.TotalSalesETH-3 {
+    display: flex;
+    margin: auto;
+    gap: 10px;
+    margin-top: 7px;
+}
+
+.TotalSales-3 p {
+    color: var(--Nuber1-color);
+    font-family: "Work Sans";
+    font-size: 17px;
+    margin-top: 1%;
+}
+
+.ETH-3 p {
+    color: var(--White);
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+/* 3 cu sekil ---------- */
+
+
+/* 4 cu sekil --------- */
+
+
+
+.Juanie {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 238px;
+    background-color: var(--Top-Creators);
+    border-radius: 20px;
+    position: relative;
+    justify-content: center;
+    margin-right: 70px;
+    cursor: pointer;
+}
+
+.number3 {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    background-color: var(--Number-color);
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 18px;
+    text-align: center;
+}
+
+.number3 p {
+    color: var(--Nuber1-color);
+    position: absolute;
+    left: 11px;
+    top: 6px;
+
+}
+
+.JuaniePicture {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.JuaniePicture img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+
+}
+
+.JuanieJuan {
+    margin-top: 20px;
+    color: var(--White);
+    font-size: 22px;
+    font-family: "Work Sans";
+    font-weight: 500;
+    margin-left: 17%;
+}
+
+.JuanieJuan p {
+    margin-left: 18%;
+}
+
+.TotalSalesETH-4 {
+    display: flex;
+    margin: auto;
+    gap: 10px;
+    margin-top: 7px;
+}
+
+.TotalSales-4 p {
+    color: var(--Nuber1-color);
+    font-family: "Work Sans";
+    font-size: 17px;
+    margin-top: 1%;
+}
+
+.ETH-4 p {
+    color: var(--White);
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+.ContainerTopCreators1-1 {
+    display: flex;
+}
+
+.ContainerTopCreators1-2 {
+    display: flex;
+}
+
+
+
+
+
+
+
+
+/* 4 cu sekil --------- */
 /* 5 ci sekil---------------- */
 .BlueWhale {
     display: flex;
@@ -607,6 +974,10 @@
     font-family: "Work Sans";
     font-weight: 500;
     margin-left: 17%;
+}
+
+.BlueWhaleBlue p {
+    margin-left: 4%;
 }
 
 .TotalSalesETH1 {
@@ -685,6 +1056,10 @@
     font-family: "Work Sans";
     font-weight: 500;
     margin-left: 29%;
+}
+
+.FoxWithGlassesFox p {
+    margin-left: 4%;
 }
 
 .TotalSalesETH2 {
@@ -766,6 +1141,10 @@
     margin-left: 29%;
 }
 
+.ShroomieShor p {
+    margin-left: -8%;
+}
+
 .TotalSalesETH3 {
     display: flex;
     margin: auto;
@@ -844,6 +1223,10 @@
     font-family: "Work Sans";
     font-weight: 500;
     margin-left: 29%;
+}
+
+.RoboticaRobo p {
+    margin-left: -4%;
 }
 
 .TotalSalesETH4 {
@@ -1198,23 +1581,278 @@
     align-items: center;
     margin-top: 3%;
 }
+
 /* 2 ci setr sekil --------------------------------------- */
 
 
 /* 3 cu setr sekil--------------------------------- */
 
 
-
-
-
-
-
-
-
-
-
-
-
 /* 3 cu setr sekil ---------------------------------------- */
 
 /* 3 cu seyfe bitish ---------------------------------------- */
+
+
+
+
+/* 1 ci seyfe mobile--------- */
+
+
+.ViewRankings_mibile {
+    display: none;
+}
+
+#ColorFirstPageFlex_media {
+    display: none;
+}
+
+
+
+/* 1 ci seyfe mobile --------------- */
+
+/* 4 cu seyfe basliq ----------------------------- */
+
+
+/* 4 cu seyfe baslqi----------------- */
+.BrowseCategories {
+    margin-top: 7%;
+    margin-left: 6.5%;
+}
+
+.BrowseCategories p {
+    color: var(--White);
+    font-size: 38px;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-family: "Work Sans";
+
+}
+
+
+/* 4 cu seyfe basliq------------ */
+
+
+.BrowseCategories8 img {
+    width: 240px;
+    height: 240px;
+
+}
+
+/* ------------------------------------------------ */
+/*  1 ci ---------------- */
+.oneBrowseCategories {
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    margin-top: 2%;
+    margin: 0px 6%;
+}
+
+.Art {
+    
+    display: flex;
+    border-radius: 0px 0px 20px 20px;
+    width: 240px;
+    height: 76px;
+    background-color: var(--Background-Secondary);
+}
+
+.dolphin img {
+ 
+    filter: blur(7.5px);
+    border-radius: 20px 20px 0px 0px;
+    display: flex;
+}
+
+/* 1 ci -------------- */
+
+
+/* 2 ci ----------------- */
+
+.Collectibles {
+    
+    display: flex;
+    border-radius: 0px 0px 20px 20px;
+    width: 240px;
+    height: 76px;
+    background-color: var(--Background-Secondary);
+}
+
+
+.monkey{
+    overflow: hidden;
+    border: 1px solid var(--);
+    border-radius: 20px 20px 0px 0px;
+}
+.monkey img {
+   
+    filter: blur(7.5px);
+    display: flex;
+}
+
+
+
+/* 2 ci ----------------- */
+
+
+/* 3 cu ------------- */
+
+.MusicM {
+
+    display: flex;
+    border-radius: 0px 0px 20px 20px;
+    width: 240px;
+    height: 76px;
+    background-color: var(--Background-Secondary);
+}
+
+
+.music img {
+    /* filter: blur(7.5px); */
+    border-radius: 20px 20px 0px 0px;
+    display: flex;
+}
+
+/* 3 cu -------------- */
+
+/*  4 cu --------------- */
+
+.PhotographyPhoto {
+   
+    display: flex;
+    border-radius: 0px 0px 20px 20px;
+    width: 240px;
+    height: 76px;
+    background-color: var(--Background-Secondary);
+}
+
+
+.photographer img {
+ 
+    /* filter: blur(7.5px); */
+    border-radius: 20px 20px 0px 0px;
+    display: flex;
+}
+
+/* 4 cu ----------- */
+/* --------------------------------------------------- */
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------------- */
+
+
+
+
+.twoBrowseCategories {
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    margin-top: 10%;
+}
+
+/* 1 ci ---------- */
+
+.Video {
+    margin-left: -58%;
+    display: flex;
+    border-radius: 0px 0px 20px 20px;
+    width: 240px;
+    height: 76px;
+    background-color: var(--Background-Secondary);
+}
+
+
+.video-player img {
+    display: flex;
+    margin-left: -58%;
+    filter: blur(7.5px);
+    border-radius: 20px 20px 0px 0px;
+}
+
+/* 1 ci --------- */ 
+
+/* 2 ci ----------- */
+
+
+.UtilityUtil {
+    margin-left: -27%;
+    display: flex;
+    border-radius: 0px 0px 20px 20px;
+    width: 240px;
+    height: 76px;
+    background-color: var(--Background-Secondary);
+}
+
+
+.Utility img {
+    display: flex;
+    margin-left: -27%;
+    filter: blur(7.5px);
+    border-radius: 20px 20px 0px 0px;
+}
+
+/* 2 ci ------------ */
+
+
+/* 3 cu ---------- */
+
+.SportSpor {
+    margin-left: 0;
+    display: flex;
+    border-radius: 0px 0px 20px 20px;
+    width: 240px;
+    height: 76px;
+    background-color: var(--Background-Secondary);
+}
+
+.Sport img {
+    display: flex;
+    filter: blur(7.5px);
+    border-radius: 20px 20px 0px 0px;
+}
+
+/* 3 cu ------------ */
+
+
+/* 4 cu ------------ */
+
+
+.VirtualWorlds {
+    margin-left: 0;
+    display: flex;
+    border-radius: 0px 0px 20px 20px;
+    width: 240px;
+    height: 76px;
+    background-color: var(--Background-Secondary);
+    margin-left: 28%;
+
+}
+
+
+.Virtual-Worlds img {
+    display: flex;
+    margin-left: 28%;
+    filter: blur(7.5px);
+    border-radius: 20px 20px 0px 0px;
+}
+
+/* 4 cu --------------- */
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------------- */
+/* 4 cu seyfe bitish ----------------------------- */
