@@ -447,6 +447,279 @@
     /* 3 cu seyfe bitish *-------------------------------*/
 
 
+    /* 4 cu seyfe basliq ------------------------------ */
+
+
+    .oneBrowseCategories {
+        display: flex;
+        justify-content: space-between;
+        overflow: hidden;
+        margin-top: 2%;
+        margin: 30px 9%;
+    }
+
+    /* 1 ci ---------------------- */
+    .dolphin img:first-child {
+        width: 150px;
+        height: 142px;
+    }
+
+    .dolphin img:nth-child(2) {
+        position: absolute;
+        width: 80px;
+        height: 80px;
+        top: 50px;
+        left: 50px;
+        transform: translate(-25%, -25%);
+
+    }
+
+    .Art p {
+        font-family: "Work Sans";
+        font-size: 16px;
+        font-weight: 600;
+        color: var(--White);
+        display: flex;
+        margin-left: 12%;
+        margin-top: 12%;
+    }
+
+
+    /* 1 ci ------------------------------------- */
+
+    /* 2 ci ------------------------------------ */
+    .monkey img:first-child {
+        width: 150px;
+        height: 142px;
+    }
+
+    .monkey img:nth-child(2) {
+        position: absolute;
+        width: 80px;
+        height: 80px;
+        top: 50px;
+        left: 50px;
+        transform: translate(-25%, -25%);
+
+    }
+
+    .Collectibles p {
+        font-family: "Work Sans";
+        font-size: 16px;
+        font-weight: 600;
+        color: var(--White);
+        display: flex;
+        margin-left: 12%;
+        margin-top: 12%;
+    }
+
+
+    /* 2 ci -------------------------------------- */
+
+    /* 3 cu ----------------------------- */
+    .music img:first-child {
+        width: 150px;
+        height: 142px;
+    }
+
+    .music img:nth-child(2) {
+        position: absolute;
+        width: 80px;
+        height: 80px;
+        top: 50px;
+        left: 50px;
+        transform: translate(-25%, -25%);
+    }
+
+    .MusicM p {
+        font-family: "Work Sans";
+        font-size: 16px;
+        font-weight: 600;
+        color: var(--White);
+        display: flex;
+        margin-left: 12%;
+        margin-top: 12%;
+    }
+
+
+    /* 3 cu ---------------------------- */
+
+    /* 4 cu ---------------------------- */
+    .photographer img:first-child {
+        width: 150px;
+        height: 142px;
+    }
+
+    .photographer img:nth-child(2) {
+        position: absolute;
+        width: 80px;
+        height: 80px;
+        top: 50px;
+        left: 50px;
+        transform: translate(-25%, -25%);
+
+    }
+
+    .PhotographyPhoto p {
+        font-family: "Work Sans";
+        font-size: 16px;
+        font-weight: 600;
+        color: var(--White);
+        display: flex;
+        margin-left: 12%;
+        margin-top: 12%;
+    }
+
+
+    /* 4 cu ----------------------------- */
+
+
+
+    /* 5 ci --------------------------- */
+
+
+
+    .video-player img:first-child {
+        width: 150px;
+        height: 142px;
+    }
+
+    .video-player img:nth-child(2) {
+        position: absolute;
+        width: 80px;
+        height: 80px;
+        top: 50px;
+        left: 50px;
+        transform: translate(-25%, -25%);
+
+    }
+
+    .Video p {
+        font-family: "Work Sans";
+        font-size: 16px;
+        font-weight: 600;
+        color: var(--White);
+        display: flex;
+        margin-left: 12%;
+        margin-top: 12%;
+    }
+
+
+
+
+    /* 5 ci --------------------------- */
+
+
+
+
+    /* 6 ci ------------------------------------- */
+
+    .Utility img:first-child {
+        width: 150px;
+        height: 142px;
+    }
+
+    .Utility img:nth-child(2) {
+        position: absolute;
+        width: 80px;
+        height: 80px;
+        top: 50px;
+        left: 50px;
+        transform: translate(-25%, -25%);
+
+    }
+
+    .UtilityUtil p {
+        font-family: "Work Sans";
+        font-size: 16px;
+        font-weight: 600;
+        color: var(--White);
+        display: flex;
+        margin-left: 12%;
+        margin-top: 12%;
+    }
+
+
+    /* 6 ci ----------------------------------- */
+
+    /* 7 ci ------------------------------ */
+
+    .Sport img:first-child {
+        width: 150px;
+        height: 142px;
+    }
+
+    .Sport img:nth-child(2) {
+        position: absolute;
+        width: 80px;
+        height: 80px;
+        top: 50px;
+        left: 50px;
+        transform: translate(-25%, -25%);
+    }
+
+    .SportSpor p {
+        font-family: "Work Sans";
+        font-size: 16px;
+        font-weight: 600;
+        color: var(--White);
+        display: flex;
+        margin-left: 12%;
+        margin-top: 12%;
+    }
+
+
+    /* 7 ci ------------------------------------ */
+
+
+    /* 8 ci ------------------------------ */
+
+    .Virtual-Worlds img:first-child {
+        width: 150px;
+        height: 142px;
+    }
+
+    .Virtual-Worlds img:nth-child(2) {
+        position: absolute;
+        width: 80px;
+        height: 80px;
+        top: 50px;
+        left: 50px;
+        transform: translate(-25%, -25%);
+
+    }
+
+    .VirtualWorlds p {
+        font-family: "Work Sans";
+        font-size: 16px;
+        font-weight: 600;
+        color: var(--White);
+        display: flex;
+        margin-left: 12%;
+        margin-top: 12%;
+    }
+
+    /* 8 ci -------------------------------- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* 4 cu seyfe bitish ------------------------------ */
+
 }
 
 
@@ -597,7 +870,7 @@
         margin-right: 6%;
     }
 
-    
+
     /* 3 cu seyfe bitish --------------------------------- */
 
     /* 1 ci seyfe mobile */
@@ -689,23 +962,173 @@
         font-size: 28px;
 
     }
+.oneBrowseCategories{
+    margin: 30px 0%;
+}
+.oneBrowseCategories1-1{
+    width: 100%;
+    margin-left: 5%;
+}
+    /* 1 ci -------------------------------------------- */
+
+    .oneBrowseCategories {
+        flex-direction: column;
+    }
+
+    .dolphin img:nth-child(1) {
+        width: 148px;
+        height: 142px;
+    }
+    .dolphin img:nth-child(2) {
+        width: 80px;
+        height: 80px;
+    }
+    .Art{
+        width: 147.5px;
+        height: 67px;
+    }
+
+/* 1 ci ----------------------------------------------------- */
 
 
 
+/* 2 ci --------------------------------------------- */
+
+.monkey img:nth-child(1) {
+    width: 148px;
+    height: 142px;
+}
+.monkey img:nth-child(2) {
+    width: 80px;
+    height: 80px;
+}
+.Collectibles{
+    width: 147.5px;
+    height: 67px;
+}
+
+/* 2 ci --------------------------------------------- */
 
 
 
+.oneBrowseCategories1-2{
+    width: 100%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+/* 3 cu --------------------------------------- */
+
+.music img:nth-child(1) {
+    width: 148px;
+    height: 142px;
+}
+.music img:nth-child(2) {
+    width: 80px;
+    height: 80px;
+}
+.MusicM{
+    width: 147.5px;
+    height: 67px;
+}
+
+
+/* 3 cu -------------------------------------------- */
 
 
 
+/* 4 cu ----------------------------------------- */
+.photographer img:nth-child(1) {
+    width: 148px;
+    height: 142px;
+}
+.photographer img:nth-child(2) {
+    width: 80px;
+    height: 80px;
+}
+.PhotographyPhoto{
+    width: 147.5px;
+    height: 67px;
+}
 
 
+/* 4 cu ----------------------------------------- */
 
 
+.twoBrowseCategories{
+    flex-direction: column;
+}
+.twoBrowseCategories {
+    margin: 0;
+}
+
+/* 5 ci ----------------------- */
+.video-player img:nth-child(1) {
+    width: 148px;
+    height: 142px;
+}
+.video-player img:nth-child(2) {
+    width: 80px;
+    height: 80px;
+}
+.Video{
+    width: 147.5px;
+    height: 67px;
+}
+
+/* 5 ci ----------------------- */
 
 
+/* 6 ci ------------------------- */
+
+.Utility img:nth-child(1) {
+    width: 148px;
+    height: 142px;
+}
+.Utility img:nth-child(2) {
+    width: 80px;
+    height: 80px;
+}
+.UtilityUtil{
+    width: 147.5px;
+    height: 67px;
+}
 
 
+/* 6 ci ------------------------- */
+
+/* 7 c i -------------------------- */
+.Sport img:nth-child(1) {
+    width: 148px;
+    height: 142px;
+}
+.Sport img:nth-child(2) {
+    width: 80px;
+    height: 80px;
+}
+.SportSpor{
+    width: 147.5px;
+    height: 67px;
+}
+/* 7 c i -------------------------- */
+
+
+/* 8 ci ------------------- */
+.Virtual-Worlds img:nth-child(1) {
+    width: 148px;
+    height: 142px;
+}
+.Virtual-Worlds img:nth-child(2) {
+    width: 80px;
+    height: 80px;
+}
+.VirtualWorlds{
+    width: 147.5px;
+    height: 67px;
+}
+
+
+/* 8 ci ------------------- */
 
 
     /* 4 cu seyfe bitis -------------------------------- */

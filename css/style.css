@@ -1637,7 +1637,14 @@
     height: 240px;
 
 }
-
+.oneBrowseCategories1-1{
+    display: flex;
+    width: 45%;
+}
+.oneBrowseCategories1-2{
+    display: flex;
+    width: 50%;
+}
 /* ------------------------------------------------ */
 /*  1 ci ---------------- */
 .oneBrowseCategories {
@@ -1645,23 +1652,52 @@
     justify-content: space-between;
     overflow: hidden;
     margin-top: 2%;
-    margin: 0px 6%;
-}
+    margin: 30px 9%;
+}   
 
 .Art {
-    
     display: flex;
     border-radius: 0px 0px 20px 20px;
     width: 240px;
     height: 76px;
     background-color: var(--Background-Secondary);
+
 }
 
-.dolphin img {
- 
+.Art p {
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--White);
+    display: flex;
+    margin-left: 12%;
+    margin-top: 12%;
+}
+
+
+.dolphin {
+    overflow: hidden;
+    border: 1px solid var(--);
+    border-radius: 20px 20px 0px 0px;
+    position: relative;
+}
+
+.dolphin img:first-child {
+
     filter: blur(7.5px);
     border-radius: 20px 20px 0px 0px;
     display: flex;
+
+}
+
+.dolphin img:nth-child(2) {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 50px;
+    left: 50px;
+    transform: translate(25%, 25%);
+
 }
 
 /* 1 ci -------------- */
@@ -1670,7 +1706,7 @@
 /* 2 ci ----------------- */
 
 .Collectibles {
-    
+
     display: flex;
     border-radius: 0px 0px 20px 20px;
     width: 240px;
@@ -1678,19 +1714,41 @@
     background-color: var(--Background-Secondary);
 }
 
+.Collectibles p {
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--White);
+    display: flex;
+    margin-left: 12%;
+    margin-top: 12%;
+}
 
-.monkey{
+
+.monkey {
     overflow: hidden;
     border: 1px solid var(--);
     border-radius: 20px 20px 0px 0px;
+    position: relative;
+    margin-left: 12%;
 }
-.monkey img {
-   
+
+.monkey img:first-child {
+
     filter: blur(7.5px);
+    border-radius: 20px 20px 0px 0px;
     display: flex;
+
 }
 
-
+.monkey img:nth-child(2) {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 50px;
+    left: 50px;
+    transform: translate(25%, 25%);
+}
 
 /* 2 ci ----------------- */
 
@@ -1706,19 +1764,47 @@
     background-color: var(--Background-Secondary);
 }
 
+.MusicM p {
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--White);
+    display: flex;
+    margin-left: 12%;
+    margin-top: 12%;
+}
 
-.music img {
-    /* filter: blur(7.5px); */
+.music {
+    overflow: hidden;
+    border: 1px solid var(--);
+    border-radius: 20px 20px 0px 0px;
+    position: relative;
+}
+
+.music img:first-child {
+
+    filter: blur(7.5px);
     border-radius: 20px 20px 0px 0px;
     display: flex;
+
 }
+
+.music img:nth-child(2) {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 50px;
+    left: 50px;
+    transform: translate(25%, 25%);
+}
+
 
 /* 3 cu -------------- */
 
 /*  4 cu --------------- */
 
 .PhotographyPhoto {
-   
+
     display: flex;
     border-radius: 0px 0px 20px 20px;
     width: 240px;
@@ -1726,13 +1812,48 @@
     background-color: var(--Background-Secondary);
 }
 
+.PhotographyPhoto p {
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--White);
+    display: flex;
+    margin-left: 12%;
+    margin-top: 12%;
+}
 
-.photographer img {
- 
-    /* filter: blur(7.5px); */
+.photographer {
+    overflow: hidden;
+    border: 1px solid var(--);
+    border-radius: 20px 20px 0px 0px;
+    margin-right: 6%;
+    position: relative;
+    margin-left: 11%;
+}
+
+.photographer img:first-child {
+
+    filter: blur(7.5px);
     border-radius: 20px 20px 0px 0px;
     display: flex;
+
 }
+
+.photographer img:nth-child(2) {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 50px;
+    left: 50px;
+    transform: translate(25%, 25%);
+}
+
+/* .photographer img {
+
+    filter: blur(7.5px);
+    border-radius: 20px 20px 0px 0px;
+    display: flex;
+} */
 
 /* 4 cu ----------- */
 /* --------------------------------------------------- */
@@ -1752,15 +1873,16 @@
 
 .twoBrowseCategories {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     overflow: hidden;
-    margin-top: 10%;
+    margin-top: 2%;
+    margin: 40px 9%;
 }
 
 /* 1 ci ---------- */
 
 .Video {
-    margin-left: -58%;
+
     display: flex;
     border-radius: 0px 0px 20px 20px;
     width: 240px;
@@ -1768,21 +1890,47 @@
     background-color: var(--Background-Secondary);
 }
 
-
-.video-player img {
+.Video p {
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--White);
     display: flex;
-    margin-left: -58%;
-    filter: blur(7.5px);
-    border-radius: 20px 20px 0px 0px;
+    margin-left: 12%;
+    margin-top: 12%;
 }
 
-/* 1 ci --------- */ 
+.video-player {
+    overflow: hidden;
+    border-radius: 20px 20px 0px 0px;
+    position: relative;
+}
+
+.video-player img:first-child {
+
+    filter: blur(7.5px);
+    border-radius: 20px 20px 0px 0px;
+    display: flex;
+
+}
+
+.video-player img:nth-child(2) {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 50px;
+    left: 50px;
+    transform: translate(25%, 25%);
+}
+
+
+/* 1 ci --------- */
 
 /* 2 ci ----------- */
 
 
 .UtilityUtil {
-    margin-left: -27%;
+
     display: flex;
     border-radius: 0px 0px 20px 20px;
     width: 240px;
@@ -1790,13 +1938,41 @@
     background-color: var(--Background-Secondary);
 }
 
-
-.Utility img {
+.UtilityUtil p {
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--White);
     display: flex;
-    margin-left: -27%;
+    margin-left: 12%;
+    margin-top: 12%;
+}
+
+.Utility {
+    overflow: hidden;
+    border-radius: 20px 20px 0px 0px;
+    position: relative;
+    margin-left: 12%;
+}
+
+.Utility img:first-child {
+
     filter: blur(7.5px);
     border-radius: 20px 20px 0px 0px;
+    display: flex;
+
 }
+
+.Utility img:nth-child(2) {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 50px;
+    left: 50px;
+    transform: translate(25%, 25%);
+}
+
+
 
 /* 2 ci ------------ */
 
@@ -1804,7 +1980,7 @@
 /* 3 cu ---------- */
 
 .SportSpor {
-    margin-left: 0;
+
     display: flex;
     border-radius: 0px 0px 20px 20px;
     width: 240px;
@@ -1812,11 +1988,39 @@
     background-color: var(--Background-Secondary);
 }
 
-.Sport img {
+.SportSpor p {
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--White);
     display: flex;
+    margin-left: 12%;
+    margin-top: 12%;
+}
+
+.Sport {
+    overflow: hidden;
+    border-radius: 20px 20px 0px 0px;
+    position: relative;
+}
+.Sport img:first-child {
+
     filter: blur(7.5px);
     border-radius: 20px 20px 0px 0px;
+    display: flex;
+
 }
+
+.Sport img:nth-child(2) {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 50px;
+    left: 50px;
+    transform: translate(25%, 25%);
+}
+
+
 
 /* 3 cu ------------ */
 
@@ -1825,23 +2029,53 @@
 
 
 .VirtualWorlds {
-    margin-left: 0;
     display: flex;
     border-radius: 0px 0px 20px 20px;
     width: 240px;
     height: 76px;
     background-color: var(--Background-Secondary);
-    margin-left: 28%;
-
 }
 
-
-.Virtual-Worlds img {
+.VirtualWorlds p {
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--White);
     display: flex;
-    margin-left: 28%;
+    margin-left: 12%;
+    margin-top: 12%;
+}
+
+.Virtual-Worlds {
+    overflow: hidden;
+    border: 1px solid var(--);
+    border-radius: 20px 20px 0px 0px;
+    margin-right: 6%;
+    position: relative;
+    margin-left: 11%;
+}
+.Virtual-Worlds img:first-child {
+
     filter: blur(7.5px);
     border-radius: 20px 20px 0px 0px;
+    display: flex;
+
 }
+
+.Virtual-Worlds img:nth-child(2) {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 50px;
+    left: 50px;
+    transform: translate(25%, 25%);
+}
+
+/* .Virtual-Worlds img {
+    display: flex;
+    filter: blur(7.5px);
+    border-radius: 20px 20px 0px 0px;
+} */
 
 /* 4 cu --------------- */
 
