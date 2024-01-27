@@ -1637,14 +1637,17 @@
     height: 240px;
 
 }
-.oneBrowseCategories1-1{
+
+.oneBrowseCategories1-1 {
     display: flex;
     width: 45%;
 }
-.oneBrowseCategories1-2{
+
+.oneBrowseCategories1-2 {
     display: flex;
     width: 50%;
 }
+
 /* ------------------------------------------------ */
 /*  1 ci ---------------- */
 .oneBrowseCategories {
@@ -1653,7 +1656,7 @@
     overflow: hidden;
     margin-top: 2%;
     margin: 30px 9%;
-}   
+}
 
 .Art {
     display: flex;
@@ -2003,6 +2006,7 @@
     border-radius: 20px 20px 0px 0px;
     position: relative;
 }
+
 .Sport img:first-child {
 
     filter: blur(7.5px);
@@ -2054,6 +2058,7 @@
     position: relative;
     margin-left: 11%;
 }
+
 .Virtual-Worlds img:first-child {
 
     filter: blur(7.5px);
@@ -2079,14 +2084,402 @@
 
 /* 4 cu --------------- */
 
-
-
-
-
-
-
-
-
-
 /* ---------------------------------------------------- */
 /* 4 cu seyfe bitish ----------------------------- */
+
+
+
+
+/* 5 ci seyfe basliq ------------------------------------------------ */
+
+
+/* ------------------------------------------------------- */
+.Discover_more {
+    margin-top: 10%;
+    margin-left: 6.5%;
+}
+
+.Discover_more p {
+    font-size: 38px;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-family: "Work Sans";
+    color: var(--White);
+}
+
+.Explore_new {
+    display: flex;
+}
+
+.Explore_new p {
+    font-size: 22px;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-family: "Work Sans";
+    color: var(--White);
+    line-height: 160%;
+    margin-top: 1%;
+}
+
+.See-All {
+    width: 200px;
+    height: 50px;
+    display: flex;
+    border: 2px solid var(--The-color-jasmine);
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-left: 50%;
+}
+
+.See-All a {
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.See-All i {
+    color: var(--The-color-jasmine);
+}
+.See-All_Mobil{
+    display: none;
+}
+
+/* ----------------------------------------------------------- */
+
+
+.DistantLifeAstroFiction {
+    display: flex;
+}
+
+/* 1 ci sekil ------------------ */
+
+.DistantGalaxy {
+    justify-content: center;
+    align-items: center;
+    margin-left: 9%;
+    margin-top: 50px;
+    width: 500px;
+    height: 469px;
+}
+
+.DistantGalaxy img {
+    display: flex;
+    border-radius: 20px 20px 0px 0px;
+    width: 70%;
+    object-fit: cover;
+}
+
+.MoonDancer {
+    border-radius: 0px 0px 20px 20px;
+    padding: 15px 0px 0px 10px;
+    height: 150px;
+    width: 70%;
+    background-color: var(--Background-Secondary);
+    align-items: center;
+}
+
+.MoonDancer img {
+    width: 24px;
+    height: 24px;
+    border-radius: 120%;
+}
+
+.MoonDancer>p {
+
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.MoonDancer1 {
+    padding: 13px 0px 0px 0px;
+    display: flex;
+    gap: 12px;
+    margin-left: 10px;
+
+}
+
+.MoonDancer1 p {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    font-family: "Space Mono";
+    line-height: 140%;
+
+}
+
+.Price {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+
+.Price1 {
+    display: flex;
+    font-family: "Space Mono";
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--Nuber1-color);
+    margin-left: 4%;
+}
+
+.Highest {
+    display: flex;
+    font-family: "Space Mono";
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--Nuber1-color);
+    padding: 0px 30px 0px 0px;
+}
+
+.PriceHighestBid {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1%;
+}
+
+.ETHGalaxy {
+    display: flex;
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    margin-left: 3.5%;
+}
+
+.wETHGalaxy {
+    display: flex;
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    padding: 0px 30px 0px 0px
+}
+
+/* 1 ci sekil ------------------------------ */
+
+/* 2 ci sekil ---------------------------------- */
+.LifeOnEdena {
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 20%; */
+    margin-top: 50px;
+    width: 500px;
+    height: 469px;
+}
+
+.LifeOnEdena img {
+    display: flex;
+    border-radius: 20px 20px 0px 0px;
+    width: 70%;
+    object-fit: cover;
+}
+
+.NebulaKid {
+    border-radius: 0px 0px 20px 20px;
+    padding: 15px 0px 0px 10px;
+    height: 150px;
+    width: 70%;
+    background-color: var(--Background-Secondary);
+    align-items: center;
+}
+
+.NebulaKid img {
+    width: 24px;
+    height: 24px;
+    border-radius: 120%;
+}
+
+.NebulaKid>p {
+
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.NebulaKid2 {
+    padding: 13px 0px 0px 0px;
+    display: flex;
+    gap: 12px;
+    margin-left: 10px;
+
+}
+
+.NebulaKid2 p {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    font-family: "Space Mono";
+    line-height: 140%;
+
+}
+
+.PriceP {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+
+.Price2 {
+    display: flex;
+    font-family: "Space Mono";
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--Nuber1-color);
+    margin-left: 4%;
+}
+
+.Highest1 {
+    display: flex;
+    font-family: "Space Mono";
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--Nuber1-color);
+    padding: 0px 30px 0px 0px;
+}
+
+.PriceHighestBid1 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1%;
+}
+
+.ETHGalaxy1 {
+    display: flex;
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    margin-left: 3.5%;
+}
+
+.wETHGalaxy1 {
+    display: flex;
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    padding: 0px 30px 0px 0px
+}
+
+
+/* 2 ci sekil ---------------------------------- */
+
+
+/* 3 cu sekil -------------------------- */
+.AstroFiction {
+    justify-content: center;
+    align-items: center;
+    margin-right: 4%;
+    margin-top: 50px;
+    width: 500px;
+    height: 469px;
+}
+
+.AstroFiction img {
+    display: flex;
+    border-radius: 20px 20px 0px 0px;
+    width: 70%;
+    object-fit: cover;
+}
+
+.Spaceone {
+    border-radius: 0px 0px 20px 20px;
+    padding: 15px 0px 0px 10px;
+    height: 150px;
+    width: 70%;
+    background-color: var(--Background-Secondary);
+    align-items: center;
+}
+
+.Spaceone img {
+    width: 24px;
+    height: 24px;
+    border-radius: 120%;
+}
+
+.Spaceone>p {
+
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.Spaceone2 {
+    padding: 13px 0px 0px 0px;
+    display: flex;
+    gap: 12px;
+    margin-left: 10px;
+
+}
+
+.Spaceone2 p {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    font-family: "Space Mono";
+    line-height: 140%;
+
+}
+
+.PricePr {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+
+.Price3 {
+    display: flex;
+    font-family: "Space Mono";
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--Nuber1-color);
+    margin-left: 4%;
+}
+
+.Highest2 {
+    display: flex;
+    font-family: "Space Mono";
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--Nuber1-color);
+    padding: 0px 30px 0px 0px;
+}
+
+.PriceHighestBid2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1%;
+}
+
+.ETHGalaxy2 {
+    display: flex;
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    margin-left: 3.5%;
+}
+
+.wETHGalaxy2 {
+    display: flex;
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    padding: 0px 30px 0px 0px
+}
+
+/*  3 cu sekil --------------------------------- */
+
+/* 5 ci seyfebasliq ---------------------------------------------- */

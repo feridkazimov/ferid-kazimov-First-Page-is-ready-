@@ -703,22 +703,42 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     /* 4 cu seyfe bitish ------------------------------ */
+
+
+
+
+
+
+/* 5ci seyfe balangic ---------------------------------------- */
+
+.Discover_more p {
+    font-size: 28px;
+}
+.Explore_new p{
+    font-size: 16px;
+    font-weight: 300;
+}
+.See-All{
+    margin-left: 36%;
+}
+.AstroFiction{
+    display: none;
+}
+.DistantLifeAstroFiction {
+    margin-right: -2%;
+}
+
+/* 5 ci seyfe bsliq ------------*/
+
+/* 5 ci seyfe bsliq------------- */
+
+
+/* 5ci seyfe bitish ---------------------------------------- */
+
+
+
+
 
 }
 
@@ -1133,6 +1153,64 @@
 
     /* 4 cu seyfe bitis -------------------------------- */
 
+
+
+
+    /* 5 ci seyfe baslaangic-------------------- */
+
+.AstroFiction{
+    display:flex;
+    flex-direction: column;
+}
+.DistantLifeAstroFiction{
+    flex-direction: column;
+}
+.See-All{
+    display: none;
+}
+.Discover_more{
+    margin-top: 20%;
+
+}
+.DistantGalaxy{
+    margin-left: 5%;
+}
+.LifeOnEdena{
+    margin-left: 5%;
+}
+.AstroFiction{
+    margin-left: -14%;
+    margin-top: 59px;
+}
+
+.See-All_Mobil {
+    width: 340px;
+    height: 60px;
+    display: flex;
+    border: 2px solid var(--The-color-jasmine);
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-left: 6%;
+    margin-top: 15%;
+}
+.See-All_Mobil a {
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.See-All_Mobil i {
+    color: var(--The-color-jasmine);
+    
+}
+
+
+
+    /* 5 ci seyfe bitish-------------------- */
 
 
 }
