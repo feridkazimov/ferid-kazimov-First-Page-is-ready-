@@ -769,10 +769,102 @@
         margin-right: 4%;
         margin-top: 6%;
     }
-    
 
     /*  6 ci seyfe baslqi ------------------------------- */
 
+
+
+
+
+
+    /* 7 ci seyfe baslangic -------------------------------- */
+
+
+    /* ---------------------------------------- */
+    .How_works p {
+        font-size: 28px;
+    }
+
+    .Find_out p {
+        font-size: 16px;
+        font-weight: 300;
+    }
+
+    .How_works {
+        margin-left: 6%;
+    }
+
+    /* ---------------------------------------- */
+
+    /* 1 ci ---------------- */
+    .Setup {
+        width: 210px;
+        height: 320px;
+    }
+
+    .walletIcon img {
+        width: 160px;
+        height: 160px;
+    }
+
+    .SetupYourwallet >p {
+        font-size: 16px;
+    }
+
+    .SetupYourwallet1 {
+        font-size: 12px;
+    }
+
+    /* 1 ci ---------------------------------- */
+
+
+    /* 2 ci ------------------------------------- */
+    .Create {
+        width: 210px;
+        height: 320px;
+    }
+
+    .MusicIcon img {
+        width: 160px;
+        height: 160px;
+    }
+
+    .CreateCollection >p {
+        font-size: 16px;
+    }
+
+    .CreateCollection1 {
+        font-size: 12px;
+    }
+
+    /* 2 c------------------------- */
+
+    /* 3 cu ------------------------ */
+
+    .Start {
+        width: 210px;
+        height: 320px;
+    }
+
+    .pannierIcon img {
+        width: 160px;
+        height: 160px;
+    }
+
+    .StartEarning >p {
+        font-size: 16px;
+    }
+
+    .StartEarning1 {
+        font-size: 12px;
+    }
+
+
+
+    /* 3 cu ------------------------ */
+
+
+    /* 7 ci seyfe bitish -------------------------------- */
 
 }
 
@@ -986,7 +1078,7 @@
 
     .GetStartedRocket {
         width: 315px;
-        margin-left: 10%;
+        margin-left: 8%;
     }
 
     .navbar_number {
@@ -1323,7 +1415,7 @@
         padding: 0px;
     }
 
-    
+
 
     .MagicMushrooms p {
         width: 22px;
@@ -1342,7 +1434,7 @@
         justify-content: center;
     }
 
-   
+
     .hour {
         margin-left: 3%;
         width: 330px;
@@ -1357,7 +1449,101 @@
 
 
 
-    /* 6 ci seyfe basliq ----------------- */
+    /* 6 ci seyfe bitish ----------------- */
+
+
+    /* 7 ci seyfe basliq ----------------------- */
+
+
+.SetupCreateStart{
+    flex-direction: column;
+}
+/* 1 ci ---------------------------------- */
+.Setup {
+    display: flex;
+    width: 345px;
+    height: 130px;
+    margin-left: 6%;
+}
+.walletIcon{
+    margin-top: 5%;
+}
+.walletIcon img{
+    width: 100px;
+    height: 100px;
+}
+.SetupYourwallet > p {
+    margin-left: 5%;
+}
+.SetupYourwallet1 {
+    font-weight: 300;
+    text-align: justify;
+}
+/* 1 ci ---------------------------------- */
+
+/* 2 ci ---------------------------------- */
+.Create {
+    display: flex;
+    width: 345px;
+    height: 130px;
+    margin-left: 6%;
+    margin-top: 5%;
+}
+.MusicIcon{
+    margin-top: 5%;
+}
+.MusicIcon img{
+    width: 100px;
+    height: 100px;
+}
+.CreateCollection > p {
+    margin-left: 5%;
+}
+.CreateCollection1 {
+    font-weight: 300;
+    text-align: justify;
+}
+
+
+
+/* 2 ci ---------------------------------- */
+
+/* 3 cu ---------------------------------- */
+
+.Start {
+    display: flex;
+    width: 345px;
+    height: 130px;
+    margin-left: 6%;
+    margin-top: 5%;
+}
+.pannierIcon{
+    margin-top: 5%;
+}
+.pannierIcon img{
+    width: 100px;
+    height: 100px;
+}
+.StartEarning > p {
+    margin-left: 5%;
+}
+.StartEarning1 {
+    font-weight: 300;
+    text-align: justify;
+}
+
+
+
+
+/* 3 cu ---------------------------------- */
+
+
+    /* 7 ci seyfe basliq ----------------------- */
+
+
+
+
+
 
 }
 
