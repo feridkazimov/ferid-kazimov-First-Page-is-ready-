@@ -743,6 +743,36 @@
 
 
 
+    /*  6 ci seyfe baslqi ------------------------------- */
+
+    .fixet-desc {
+        /* justify-content: left;
+    padding: 0px; */
+    }
+
+    .fixet-desc {
+        padding: 0px;
+        width: 55%;
+    }
+
+    .fixet {
+        justify-content: flex-start;
+    }
+
+    .fixet1 {
+        padding: 0px 0px 30px 0px;
+        width: 59%;
+        margin-left: 4%;
+    }
+
+    .hour {
+        margin-right: 4%;
+        margin-top: 6%;
+    }
+    
+
+    /*  6 ci seyfe baslqi ------------------------------- */
+
 
 }
 
@@ -1010,7 +1040,7 @@
     .dolphin img:nth-child(2) {
         width: 80px;
         height: 80px;
-        transform: translate(-15% , -25%);
+        transform: translate(-15%, -25%);
     }
 
     .Art {
@@ -1032,7 +1062,7 @@
     .monkey img:nth-child(2) {
         width: 80px;
         height: 80px;
-        transform: translate(-15% , -25%);
+        transform: translate(-15%, -25%);
     }
 
     .Collectibles {
@@ -1081,7 +1111,7 @@
     .photographer img:nth-child(2) {
         width: 80px;
         height: 80px;
-        transform: translate(-15% , -25%);
+        transform: translate(-15%, -25%);
     }
 
     .PhotographyPhoto {
@@ -1247,6 +1277,87 @@
 
     /* 5 ci seyfe bitish-------------------- */
 
+
+
+
+    /* 6 ci seyfe basliq ----------------- */
+
+    .fixet-desc {
+        flex-direction: column;
+    }
+
+    .See-NFT {
+        display: none;
+    }
+
+    .See-NFT_media {
+        display: flex;
+    }
+
+    .See-NFT_media {
+        width: 200px;
+        height: 50px;
+        display: flex;
+        /* border: 2px solid var(--The-color-jasmine); */
+        border-radius: 20px;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+
+        background-color: var(--White);
+    }
+
+    .See-NFT_media a {
+        color: var(--Background-Secondary);
+        font-family: "Work Sans";
+        font-size: 16px;
+        font-weight: 600;
+        text-align: center;
+    }
+
+    .See-NFT_media i {
+        color: var(--The-color-jasmine);
+    }
+
+    .fixet1 {
+        padding: 0px;
+    }
+
+    
+
+    .MagicMushrooms p {
+        width: 22px;
+        font-size: 38px;
+    }
+
+    .See-NFT_media {
+        width: 293px;
+    }
+
+    .fixet {
+        align-items: normal;
+    }
+
+    .fixet-desc {
+        justify-content: center;
+    }
+
+   
+    .hour {
+        margin-left: 3%;
+        width: 330px;
+        margin-top: 5%;
+    }
+
+    .See-NFT_media {
+        margin-left: 3.5%;
+        margin-top: 3%;
+        width: 39%;
+    }
+
+
+
+    /* 6 ci seyfe basliq ----------------- */
 
 }
 

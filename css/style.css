@@ -2492,6 +2492,7 @@
 }
 
 .fixet {
+    margin-top: 5%;
     background-image: url(../Backgornd/backgroundImage.png);
     background-position: center;
     background-size: cover;
@@ -2501,13 +2502,24 @@
     width: 118.5%;
     color: #fff;
     display: flex;
+    justify-content: center;
+    align-items: end;
+
+
+}
+
+.fixet-desc {
+    padding: 0px 180px 80px 150px;
+    display: flex;
+    background: linear-gradient(180deg, rgba(162, 89, 255, 0.00) 0%, #A259FF 100%);
+    justify-content: space-between;
+    width: 100%;
+
 }
 
 /*  6 ci  seyfe ------------------------------------------ */
 
-.fixet {
-   
-}
+
 
 .Shroomie_fixet {
     width: 151px;
@@ -2518,6 +2530,7 @@
     gap: 12px;
     justify-content: center;
     padding: 11px;
+
 }
 
 .Shroomie_fixet p {
@@ -2568,18 +2581,67 @@
 }
 
 .hour {
-    display: flex;
-    flex-direction: column;
+
+    margin-top: 4%;
     background: rgba(59, 59, 59, 0.50);
     border-radius: 20px;
     width: 295px;
-    padding: 30px;
-    height: 144px 
+    /* padding: 30px; */
+    height: 144px
 }
-.Auction p{
-  width: 235px;
-  height: 14px;
-  font-family: "Work Sans";
-  font-size: 12px;
+
+.Auction {
+    margin-left: 6%;
+    margin-top: 6%;
 }
+
+.Auction p {
+    width: 235px;
+    height: 14px;
+    font-family: "Space Mono";
+    font-size: 12px;
+}
+
+.hourAuction {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Auction_ends p {
+    font-size: 38px;
+    font-weight: 700;
+    font-family: "Space Mono";
+    color: var(--White);
+}
+
+.Auction_ends span {
+    font-family: "Space Mono";
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--White);
+}
+
+.Auction_ends1 p {
+    font-size: 38px;
+    font-weight: 700;
+    font-family: "Space Mono";
+    color: var(--White);
+}
+
+.Auction_ends2 p {
+    font-size: 38px;
+    font-weight: 700;
+    font-family: "Space Mono";
+    color: var(--White);
+}
+
+.MagicMushrooms {
+    margin: 20px 0px;
+}
+
+.See-NFT_media {
+    display: none;
+}
+
 /* 6 ci seyfe -------------------------------------------- */
