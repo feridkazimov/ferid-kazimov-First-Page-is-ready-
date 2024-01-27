@@ -590,7 +590,7 @@
         height: 80px;
         top: 50px;
         left: 50px;
-        transform: translate(-25%, -25%);
+        transform: translate(-15%, -25%);
 
     }
 
@@ -625,7 +625,7 @@
         height: 80px;
         top: 50px;
         left: 50px;
-        transform: translate(-25%, -25%);
+        transform: translate(-15%, -25%);
 
     }
 
@@ -655,7 +655,7 @@
         height: 80px;
         top: 50px;
         left: 50px;
-        transform: translate(-25%, -25%);
+        transform: translate(-19%, -25%);
     }
 
     .SportSpor p {
@@ -685,7 +685,7 @@
         height: 80px;
         top: 50px;
         left: 50px;
-        transform: translate(-25%, -25%);
+        transform: translate(-15%, -25%);
 
     }
 
@@ -710,31 +710,35 @@
 
 
 
-/* 5ci seyfe balangic ---------------------------------------- */
+    /* 5ci seyfe balangic ---------------------------------------- */
 
-.Discover_more p {
-    font-size: 28px;
-}
-.Explore_new p{
-    font-size: 16px;
-    font-weight: 300;
-}
-.See-All{
-    margin-left: 36%;
-}
-.AstroFiction{
-    display: none;
-}
-.DistantLifeAstroFiction {
-    margin-right: -2%;
-}
+    .Discover_more p {
+        font-size: 28px;
+    }
 
-/* 5 ci seyfe bsliq ------------*/
+    .Explore_new p {
+        font-size: 16px;
+        font-weight: 300;
+    }
 
-/* 5 ci seyfe bsliq------------- */
+    .See-All {
+        margin-left: 36%;
+    }
+
+    .AstroFiction {
+        display: none;
+    }
+
+    .DistantLifeAstroFiction {
+        margin-right: -2%;
+    }
+
+    /* 5 ci seyfe bsliq ------------*/
+
+    /* 5 ci seyfe bsliq------------- */
 
 
-/* 5ci seyfe bitish ---------------------------------------- */
+    /* 5ci seyfe bitish ---------------------------------------- */
 
 
 
@@ -982,13 +986,16 @@
         font-size: 28px;
 
     }
-.oneBrowseCategories{
-    margin: 30px 0%;
-}
-.oneBrowseCategories1-1{
-    width: 100%;
-    margin-left: 5%;
-}
+
+    .oneBrowseCategories {
+        margin: 30px 0%;
+    }
+
+    .oneBrowseCategories1-1 {
+        width: 100%;
+        margin-left: 5%;
+    }
+
     /* 1 ci -------------------------------------------- */
 
     .oneBrowseCategories {
@@ -999,156 +1006,177 @@
         width: 148px;
         height: 142px;
     }
+
     .dolphin img:nth-child(2) {
         width: 80px;
         height: 80px;
+        transform: translate(-15% , -25%);
     }
-    .Art{
+
+    .Art {
         width: 147.5px;
         height: 67px;
     }
 
-/* 1 ci ----------------------------------------------------- */
+    /* 1 ci ----------------------------------------------------- */
 
 
 
-/* 2 ci --------------------------------------------- */
+    /* 2 ci --------------------------------------------- */
 
-.monkey img:nth-child(1) {
-    width: 148px;
-    height: 142px;
-}
-.monkey img:nth-child(2) {
-    width: 80px;
-    height: 80px;
-}
-.Collectibles{
-    width: 147.5px;
-    height: 67px;
-}
+    .monkey img:nth-child(1) {
+        width: 148px;
+        height: 142px;
+    }
 
-/* 2 ci --------------------------------------------- */
+    .monkey img:nth-child(2) {
+        width: 80px;
+        height: 80px;
+        transform: translate(-15% , -25%);
+    }
 
+    .Collectibles {
+        width: 147.5px;
+        height: 67px;
+    }
 
-
-.oneBrowseCategories1-2{
-    width: 100%;
-    margin-left: 5%;
-    margin-top: 5%;
-}
-
-/* 3 cu --------------------------------------- */
-
-.music img:nth-child(1) {
-    width: 148px;
-    height: 142px;
-}
-.music img:nth-child(2) {
-    width: 80px;
-    height: 80px;
-}
-.MusicM{
-    width: 147.5px;
-    height: 67px;
-}
-
-
-/* 3 cu -------------------------------------------- */
+    /* 2 ci --------------------------------------------- */
 
 
 
-/* 4 cu ----------------------------------------- */
-.photographer img:nth-child(1) {
-    width: 148px;
-    height: 142px;
-}
-.photographer img:nth-child(2) {
-    width: 80px;
-    height: 80px;
-}
-.PhotographyPhoto{
-    width: 147.5px;
-    height: 67px;
-}
+    .oneBrowseCategories1-2 {
+        width: 100%;
+        margin-left: 5%;
+        margin-top: 5%;
+    }
+
+    /* 3 cu --------------------------------------- */
+
+    .music img:nth-child(1) {
+        width: 148px;
+        height: 142px;
+    }
+
+    .music img:nth-child(2) {
+        width: 80px;
+        height: 80px;
+    }
+
+    .MusicM {
+        width: 147.5px;
+        height: 67px;
+    }
 
 
-/* 4 cu ----------------------------------------- */
+    /* 3 cu -------------------------------------------- */
 
 
-.twoBrowseCategories{
-    flex-direction: column;
-}
-.twoBrowseCategories {
-    margin: 0;
-}
 
-/* 5 ci ----------------------- */
-.video-player img:nth-child(1) {
-    width: 148px;
-    height: 142px;
-}
-.video-player img:nth-child(2) {
-    width: 80px;
-    height: 80px;
-}
-.Video{
-    width: 147.5px;
-    height: 67px;
-}
+    /* 4 cu ----------------------------------------- */
+    .photographer img:nth-child(1) {
+        width: 148px;
+        height: 142px;
+    }
 
-/* 5 ci ----------------------- */
+    .photographer img:nth-child(2) {
+        width: 80px;
+        height: 80px;
+        transform: translate(-15% , -25%);
+    }
+
+    .PhotographyPhoto {
+        width: 147.5px;
+        height: 67px;
+    }
 
 
-/* 6 ci ------------------------- */
-
-.Utility img:nth-child(1) {
-    width: 148px;
-    height: 142px;
-}
-.Utility img:nth-child(2) {
-    width: 80px;
-    height: 80px;
-}
-.UtilityUtil{
-    width: 147.5px;
-    height: 67px;
-}
+    /* 4 cu ----------------------------------------- */
 
 
-/* 6 ci ------------------------- */
+    .twoBrowseCategories {
+        flex-direction: column;
+    }
 
-/* 7 c i -------------------------- */
-.Sport img:nth-child(1) {
-    width: 148px;
-    height: 142px;
-}
-.Sport img:nth-child(2) {
-    width: 80px;
-    height: 80px;
-}
-.SportSpor{
-    width: 147.5px;
-    height: 67px;
-}
-/* 7 c i -------------------------- */
+    .twoBrowseCategories {
+        margin: 0;
+    }
 
+    /* 5 ci ----------------------- */
+    .video-player img:nth-child(1) {
+        width: 148px;
+        height: 142px;
+    }
 
-/* 8 ci ------------------- */
-.Virtual-Worlds img:nth-child(1) {
-    width: 148px;
-    height: 142px;
-}
-.Virtual-Worlds img:nth-child(2) {
-    width: 80px;
-    height: 80px;
-}
-.VirtualWorlds{
-    width: 147.5px;
-    height: 67px;
-}
+    .video-player img:nth-child(2) {
+        width: 80px;
+        height: 80px;
+    }
+
+    .Video {
+        width: 147.5px;
+        height: 67px;
+    }
+
+    /* 5 ci ----------------------- */
 
 
-/* 8 ci ------------------- */
+    /* 6 ci ------------------------- */
+
+    .Utility img:nth-child(1) {
+        width: 148px;
+        height: 142px;
+    }
+
+    .Utility img:nth-child(2) {
+        width: 80px;
+        height: 80px;
+    }
+
+    .UtilityUtil {
+        width: 147.5px;
+        height: 67px;
+    }
+
+
+    /* 6 ci ------------------------- */
+
+    /* 7 c i -------------------------- */
+    .Sport img:nth-child(1) {
+        width: 148px;
+        height: 142px;
+    }
+
+    .Sport img:nth-child(2) {
+        width: 80px;
+        height: 80px;
+    }
+
+    .SportSpor {
+        width: 147.5px;
+        height: 67px;
+    }
+
+    /* 7 c i -------------------------- */
+
+
+    /* 8 ci ------------------- */
+    .Virtual-Worlds img:nth-child(1) {
+        width: 148px;
+        height: 142px;
+    }
+
+    .Virtual-Worlds img:nth-child(2) {
+        width: 80px;
+        height: 80px;
+    }
+
+    .VirtualWorlds {
+        width: 147.5px;
+        height: 67px;
+    }
+
+
+    /* 8 ci ------------------- */
 
 
     /* 4 cu seyfe bitis -------------------------------- */
@@ -1158,55 +1186,62 @@
 
     /* 5 ci seyfe baslaangic-------------------- */
 
-.AstroFiction{
-    display:flex;
-    flex-direction: column;
-}
-.DistantLifeAstroFiction{
-    flex-direction: column;
-}
-.See-All{
-    display: none;
-}
-.Discover_more{
-    margin-top: 20%;
+    .AstroFiction {
+        display: flex;
+        flex-direction: column;
+    }
 
-}
-.DistantGalaxy{
-    margin-left: 5%;
-}
-.LifeOnEdena{
-    margin-left: 5%;
-}
-.AstroFiction{
-    margin-left: -14%;
-    margin-top: 59px;
-}
+    .DistantLifeAstroFiction {
+        flex-direction: column;
+    }
 
-.See-All_Mobil {
-    width: 340px;
-    height: 60px;
-    display: flex;
-    border: 2px solid var(--The-color-jasmine);
-    border-radius: 20px;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    margin-left: 6%;
-    margin-top: 15%;
-}
-.See-All_Mobil a {
-    color: var(--White);
-    font-family: "Work Sans";
-    font-size: 16px;
-    font-weight: 500;
-    text-align: center;
-}
+    .See-All {
+        display: none;
+    }
 
-.See-All_Mobil i {
-    color: var(--The-color-jasmine);
-    
-}
+    .Discover_more {
+        margin-top: 20%;
+
+    }
+
+    .DistantGalaxy {
+        margin-left: 5%;
+    }
+
+    .LifeOnEdena {
+        margin-left: 5%;
+    }
+
+    .AstroFiction {
+        margin-left: -14%;
+        margin-top: 59px;
+    }
+
+    .See-All_Mobil {
+        width: 340px;
+        height: 60px;
+        display: flex;
+        border: 2px solid var(--The-color-jasmine);
+        border-radius: 20px;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        margin-left: 6%;
+        margin-top: 15%;
+    }
+
+    .See-All_Mobil a {
+        color: var(--White);
+        font-family: "Work Sans";
+        font-size: 16px;
+        font-weight: 500;
+        text-align: center;
+    }
+
+    .See-All_Mobil i {
+        color: var(--The-color-jasmine);
+
+    }
 
 
 
