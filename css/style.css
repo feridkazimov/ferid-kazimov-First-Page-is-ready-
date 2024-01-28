@@ -2693,7 +2693,7 @@
     margin-left: 10%;
 }
 
-.SetupYourwallet > p{
+.SetupYourwallet>p {
     color: var(--White);
     font-family: "Work Sans";
     font-size: 22px;
@@ -2731,7 +2731,7 @@
     margin-left: 10%;
 }
 
-.CreateCollection > p {
+.CreateCollection>p {
     color: var(--White);
     font-family: "Work Sans";
     font-size: 22px;
@@ -2740,6 +2740,7 @@
     margin-left: 20%;
     margin-top: 7%
 }
+
 .CreateCollection1 {
     font-family: "Work Sans";
     font-size: 16px;
@@ -2769,7 +2770,7 @@
     margin-left: 10%;
 }
 
-.StartEarning >p {
+.StartEarning>p {
     color: var(--White);
     font-family: "Work Sans";
     font-size: 22px;
@@ -2778,6 +2779,7 @@
     margin-left: 25%;
     margin-top: 7%
 }
+
 .StartEarning1 {
     font-family: "Work Sans";
     font-size: 16px;
@@ -2788,21 +2790,311 @@
     margin-left: 5%;
     margin-top: 5%;
 }
+
 /* 3 cu --------------------------------- */
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*  7 ci seyfe bitish  --------------------------- */
+
+
+
+/* 8 ci seyfe balangic ------------------------------- */
+
+/* IMG------------------------------------------- */
+.cosmonaut_newspaper {
+    width: 1258px;
+    height: 430px;
+    background-color: var(--Background-Secondary);
+    border-radius: 20px;
+    margin-left: 8.6%;
+    margin-top: 10%;
+    display: flex;
+}
+
+.cosmonaut_newspaper_img {
+    margin-left: 8%;
+    margin-top: 4.3%;
+}
+
+.cosmonaut_newspaper_img img {
+    width: 455px;
+    height: 330px;
+    border-radius: 20px;
+    display: flex;
+}
+
+/* IMG------------------------------------------- */
+
+
+.JoinOurWeekly p {
+    font-family: "Work Sans";
+    font-size: 38px;
+    color: var(--White);
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+.exclusive_promotions p {
+    font-family: "Work Sans";
+    font-size: 22px;
+    color: var(--White);
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.Joindigest {
+    margin-left: 10%;
+    margin-top: 6%;
+}
+
+.exclusive_promotions {
+    margin-top: 4%;
+}
+
+
+/* -------------INput------------------- */
+.contact1 {
+    margin-top: 6%;
+}
+
+.contact1 form {
+    display: flex;
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+    height: 60px;
+    border: 1px solid var(--Background-Secondary);
+    border-radius: 20px;
+    align-items: center;
+}
+
+.contact1 input {
+    padding: 0px 50px;
+    width: 420px;
+    font-family: "Work Sans";
+    font-size: 14px;
+    border: 0px solid;
+
+}
+
+.contact1 input:focus {
+
+    outline: none;
+}
+
+.contact1 a {
+    background-color: #A259FF;
+    color: var(--White);
+    padding: 0px 50px;
+    align-items: center;
+    display: flex;
+    height: 60px;
+    border-radius: 20px;
+    gap: 10px;
+    font-family: "Work Sans";
+    font-weight: 600;
+}
+
+
+
+/* ------------INput---------------- */
+/* 8 ci  seyfe bitish -------------------------------- */
+
+
+/* 9 cu seyfe basliq ------------------------------------------- */
+footer {
+    width: 100%;
+    height: 334px;
+    background-color: var(--Background-Secondary);
+}
+
+.pageFight {
+    width: 100%;
+    height: 100%;
+    /* padding: 40px 195px; */
+
+    margin-top: 5%;
+    display: flex;
+    /* justify-content:space-around; */
+}
+
+.NFTJoinIcon {
+    margin-left: 8%;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    margin-bottom: 33px;
+    margin-top: 20%;
+}
+
+.heading i {
+    font-size: 32px;
+    color: #A259FF;
+    margin-right: 7px;
+}
+
+.heading p {
+    font-family: "Space Mono";
+    font-size: 22px;
+    color: #fff;
+    font-style: normal;
+    font-weight: 700;
+
+
+}
+
+.nft-desc {
+    margin-bottom: 20px;
+}
+
+.nft-desc p {
+    color: #CCC;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+.nft-join {
+    margin-bottom: 15px;
+}
+
+.nft-join p {
+    color: #CCC;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+.nft-socials i {
+    font-size: 32px;
+    color: #858584;
+}
+
+.Footer-Explore {
+    margin-left: 13%;
+}
+
+.exp-heading {
+    margin-bottom: 25px;
+    margin-top: 39%;
+}
+
+.exp-heading p {
+    font-family: "Space Mono";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+
+    color: var(--White);
+}
+
+.listing p {
+    color: #CCC;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+.mplace {
+    margin-bottom: 20px;
+}
+
+.rank {
+    margin-bottom: 20px;
+
+}
+
+.Footer-Join {
+    margin-left: 13%;
+}
+
+.join-heading {
+    font-family: "Space Mono";
+    font-size: 22px;
+    color: #fff;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 25px;
+    margin-top: 9%;
+}
+
+.join-desc {
+    color: #CCC;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+/* *************Input*********************** */
+.contact {
+    margin-top: 6%;
+}
+
+.contact form {
+    display: flex;
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+    height: 60px;
+    border: 1px solid var(--Background-Secondary);
+    border-radius: 20px;
+    align-items: center;
+}
+
+.contact input {
+    padding: 0px 50px;
+    width: 420px;
+    font-family: "Work Sans";
+    font-size: 14px;
+    border: 0px solid;
+
+}
+
+.contact input:focus {
+
+    outline: none;
+}
+
+.contact a {
+    background-color: #A259FF;
+    color: var(--White);
+    padding: 0px 50px;
+    align-items: center;
+    display: flex;
+    height: 60px;
+    border-radius: 20px;
+    gap: 10px;
+    font-family: "Work Sans";
+    font-weight: 600;
+}
+
+/* 9 cu seyfe basliq------------------------------------------- */
+
+
+.ENDline {
+
+    border: solid 1px #858584;
+    width: 100%;
+
+}
+
+.END_C{
+    font-family: "Work Sans";
+    font-size: 12px;
+    color: var(--White);
+    font-weight: 400;
+    justify-content: flex-end;
+    background-color: var(--Background-Secondary);
+}

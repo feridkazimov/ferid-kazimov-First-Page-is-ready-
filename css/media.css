@@ -807,7 +807,7 @@
         height: 160px;
     }
 
-    .SetupYourwallet >p {
+    .SetupYourwallet>p {
         font-size: 16px;
     }
 
@@ -829,7 +829,7 @@
         height: 160px;
     }
 
-    .CreateCollection >p {
+    .CreateCollection>p {
         font-size: 16px;
     }
 
@@ -851,7 +851,7 @@
         height: 160px;
     }
 
-    .StartEarning >p {
+    .StartEarning>p {
         font-size: 16px;
     }
 
@@ -865,6 +865,134 @@
 
 
     /* 7 ci seyfe bitish -------------------------------- */
+
+
+    /* 8 ci seyfe basliq *****************************/
+    .cosmonaut_newspaper_img {
+        margin-left: 4%;
+    }
+
+    .cosmonaut_newspaper_img img {
+        width: 300px;
+        height: 280px;
+
+    }
+
+    .JoinOurWeekly p {
+        font-size: 28px;
+    }
+
+    .exclusive_promotions p {
+        font-size: 16px;
+    }
+
+
+    .Joindigest {
+        margin-left: 8%;
+    }
+
+    .contact1 form {
+        display: block;
+    }
+
+    .contact1 a {
+        margin-top: 13%;
+    }
+
+    .cosmonaut_newspaper {
+        width: 88%;
+        margin-left: 6%;
+        height: 343px;
+    }
+
+    /* 8 ci seyfe bitish *******************************/
+
+
+
+
+    /* 9 ci seyfe basliq ****************************** */
+
+
+    .pageFight {
+        flex-direction: column;
+    }
+
+    .heading {
+        margin-top: 4%;
+        margin-bottom: 1%;
+    }
+
+    .nft-desc {
+        margin-top: 1%;
+        margin-bottom: 1%;
+    }
+
+    .nft-join {
+        margin-bottom: 10px;
+    }
+
+    .exp-heading {
+        margin-top: 5%;
+    }
+
+    .Footer-Explore {
+        margin-left: 8%;
+    }
+
+    .exp-heading {
+        margin-bottom: 10px;
+    }
+
+    .mplace {
+        margin-bottom: 10px;
+    }
+
+    .rank {
+        margin-bottom: 10px;
+    }
+
+    footer {
+        height: 535px;
+    }
+
+    .Footer-Join {
+        margin-left: 8%;
+    }
+
+    .join-heading {
+        margin-top: 5%;
+        margin-bottom: 10px;
+    }
+
+    .join-desc {
+        margin-bottom: 0px;
+    }
+
+    .contact {
+        margin-top: 2%;
+    }
+
+    .contact form {
+        width: 62%;
+    }
+
+    .END_C {
+        margin-left: 8%;
+        margin-top: 2%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    /* 9 ci seyfe bitih ******************************* */
 
 }
 
@@ -1455,95 +1583,148 @@
     /* 7 ci seyfe basliq ----------------------- */
 
 
-.SetupCreateStart{
-    flex-direction: column;
-}
-/* 1 ci ---------------------------------- */
-.Setup {
-    display: flex;
-    width: 345px;
-    height: 130px;
-    margin-left: 6%;
-}
-.walletIcon{
-    margin-top: 5%;
-}
-.walletIcon img{
-    width: 100px;
-    height: 100px;
-}
-.SetupYourwallet > p {
-    margin-left: 5%;
-}
-.SetupYourwallet1 {
-    font-weight: 300;
-    text-align: justify;
-}
-/* 1 ci ---------------------------------- */
+    .SetupCreateStart {
+        flex-direction: column;
+    }
 
-/* 2 ci ---------------------------------- */
-.Create {
-    display: flex;
-    width: 345px;
-    height: 130px;
-    margin-left: 6%;
-    margin-top: 5%;
-}
-.MusicIcon{
-    margin-top: 5%;
-}
-.MusicIcon img{
-    width: 100px;
-    height: 100px;
-}
-.CreateCollection > p {
-    margin-left: 5%;
-}
-.CreateCollection1 {
-    font-weight: 300;
-    text-align: justify;
-}
+    /* 1 ci ---------------------------------- */
+    .Setup {
+        display: flex;
+        width: 345px;
+        height: 130px;
+        margin-left: 6%;
+    }
 
+    .walletIcon {
+        margin-top: 5%;
+    }
 
+    .walletIcon img {
+        width: 100px;
+        height: 100px;
+    }
 
-/* 2 ci ---------------------------------- */
+    .SetupYourwallet>p {
+        margin-left: 5%;
+    }
 
-/* 3 cu ---------------------------------- */
+    .SetupYourwallet1 {
+        font-weight: 300;
+        text-align: justify;
+    }
 
-.Start {
-    display: flex;
-    width: 345px;
-    height: 130px;
-    margin-left: 6%;
-    margin-top: 5%;
-}
-.pannierIcon{
-    margin-top: 5%;
-}
-.pannierIcon img{
-    width: 100px;
-    height: 100px;
-}
-.StartEarning > p {
-    margin-left: 5%;
-}
-.StartEarning1 {
-    font-weight: 300;
-    text-align: justify;
-}
+    /* 1 ci ---------------------------------- */
+
+    /* 2 ci ---------------------------------- */
+    .Create {
+        display: flex;
+        width: 345px;
+        height: 130px;
+        margin-left: 6%;
+        margin-top: 5%;
+    }
+
+    .MusicIcon {
+        margin-top: 5%;
+    }
+
+    .MusicIcon img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .CreateCollection>p {
+        margin-left: 5%;
+    }
+
+    .CreateCollection1 {
+        font-weight: 300;
+        text-align: justify;
+    }
 
 
 
+    /* 2 ci ---------------------------------- */
 
-/* 3 cu ---------------------------------- */
+    /* 3 cu ---------------------------------- */
+
+    .Start {
+        display: flex;
+        width: 345px;
+        height: 130px;
+        margin-left: 6%;
+        margin-top: 5%;
+    }
+
+    .pannierIcon {
+        margin-top: 5%;
+    }
+
+    .pannierIcon img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .StartEarning>p {
+        margin-left: 5%;
+    }
+
+    .StartEarning1 {
+        font-weight: 300;
+        text-align: justify;
+    }
+
+
+
+
+    /* 3 cu ---------------------------------- */
 
 
     /* 7 ci seyfe basliq ----------------------- */
 
 
 
+    /* 8 ci seyfe basliq ********************************* */
 
-
+    .cosmonaut_newspaper_img {
+        width: 315px;
+        height: 255px;
+    }
+.cosmonaut_newspaper{
+    background-color: var(--Background);
+    display: block;
+}
+footer{
+    margin-top: 60%;
+}
+.JoinOurWeekly {
+    margin-top: 15%;
+}
+.heading{
+    margin-bottom: 5%;
+}
+.nft-desc{
+    margin-bottom: 5%;
+}
+.exp-heading{
+    margin-bottom: 15px;
+}
+.mplace{
+    margin-bottom: 15px;
+}
+.connect{
+    margin-bottom: 25px;
+}
+.join-desc{
+    margin-bottom: 20px;
+}
+.contact{
+    display: block;
+}
+.ENDline{
+    margin-top: 13%;
+}
+    /* 8 ci seyfe bitish*************************************** */
 
 }
 
