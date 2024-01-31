@@ -2870,7 +2870,7 @@
 }
 
 .contact1 input {
-    padding: 0px 50px;
+    padding: 0px 30px;
     width: 420px;
     font-family: "Work Sans";
     font-size: 14px;
@@ -2979,6 +2979,7 @@ footer {
 
 .Footer-Explore {
     margin-left: 13%;
+    margin-top: 1%;
 }
 
 .exp-heading {
@@ -3054,7 +3055,7 @@ footer {
 }
 
 .contact input {
-    padding: 0px 50px;
+    padding: 0px 30px;
     width: 420px;
     font-family: "Work Sans";
     font-size: 14px;
@@ -3086,15 +3087,1554 @@ footer {
 .ENDline {
 
     border: solid 1px #858584;
-    width: 100%;
+    width: 97%;
 
 }
 
-.END_C{
+.ENDline1 {
+    padding: 0px 8%;
+    background-color: var(--Background-Secondary);
+}
+
+.END_C {
+
+    color: #CCC;
     font-family: "Work Sans";
     font-size: 12px;
-    color: var(--White);
+    font-style: normal;
     font-weight: 400;
-    justify-content: flex-end;
+    line-height: 110%;
     background-color: var(--Background-Secondary);
+}
+
+.END_C p {
+    display: flex;
+    margin-top: 3%;
+
+}
+
+
+
+/* *****************CreateAccount********************* */
+
+.CreateAccount {
+    display: flex;
+    margin-top: 3%;
+}
+
+.fly_into_space {
+    width: 610px;
+    height: 669px;
+}
+
+.fly_into_space img {
+    width: 100%;
+    height: 111.3%;
+}
+
+.Create_account p {
+    font-family: "Work Sans";
+    font-size: 51px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 110%;
+    text-transform: capitalize;
+    color: var(--White);
+}
+
+.WelcomeEnter p {
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 160%;
+    text-transform: capitalize;
+    color: var(--White);
+}
+
+.CreateWelcome {
+    margin-left: 5%;
+    margin-top: 4%;
+}
+
+/* 1 ci input ***************************** */
+.Usernamecontact {
+    margin-top: 15px;
+}
+
+.Usernamecontact form {
+    display: flex;
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    width: 330px;
+    height: 46px;
+    border: 1px solid var(--Background-Secondary);
+    border-radius: 20px;
+    align-items: center;
+}
+
+.Usernamecontact input {
+
+    width: 420px;
+    font-family: "Work Sans";
+    font-size: 14px;
+    border: 0px solid;
+
+}
+
+.Usernamecontact input:focus {
+    outline: none;
+}
+
+form i {
+    margin-left: 10%;
+    padding: 5%;
+    color: #BDBDBD;
+    font-size: 20px;
+}
+
+form input::placeholder {
+    color: black;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+
+/* 1 ci input*************************************** */
+
+
+/* 2 ci input*****************************************  */
+.Usernamecontact1 {
+    margin-top: 15px;
+}
+
+.Usernamecontact1 form {
+    display: flex;
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    width: 330px;
+    height: 46px;
+    border: 1px solid var(--Background-Secondary);
+    border-radius: 20px;
+    align-items: center;
+}
+
+.Usernamecontact1 input {
+
+    width: 420px;
+    font-family: "Work Sans";
+    font-size: 14px;
+    border: 0px solid;
+
+}
+
+.Usernamecontact1 input:focus {
+    outline: none;
+}
+
+.Usernamecontact1 form i {
+    margin-left: 10%;
+    padding: 5%;
+    color: #BDBDBD;
+    font-size: 20px;
+}
+
+.Usernamecontact1 form input::placeholder {
+    color: black;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+
+/* 2 ci input*****************************************  */
+
+
+
+/* 3 cu input*************************************** */
+.Usernamecontact2 {
+    margin-top: 15px;
+}
+
+.Usernamecontact2 form {
+    display: flex;
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    width: 330px;
+    height: 46px;
+    border: 1px solid var(--Background-Secondary);
+    border-radius: 20px;
+    align-items: center;
+}
+
+.Usernamecontact2 input {
+
+    width: 420px;
+    font-family: "Work Sans";
+    font-size: 14px;
+    border: 0px solid;
+
+}
+
+.Usernamecontact2 input:focus {
+    outline: none;
+}
+
+.Usernamecontact2 form i {
+    margin-left: 10%;
+    padding: 5%;
+    color: #BDBDBD;
+    font-size: 20px;
+}
+
+.Usernamecontact2 form input::placeholder {
+    color: black;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+
+
+/* 3 cu input*************************************** */
+
+
+/* 4 cu input ************************************ */
+
+.Usernamecontact3 {
+    margin-top: 15px;
+}
+
+.Usernamecontact3 form {
+    display: flex;
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    width: 330px;
+    height: 46px;
+    border: 1px solid var(--Background-Secondary);
+    border-radius: 20px;
+    align-items: center;
+}
+
+.Usernamecontact3 input {
+
+    width: 420px;
+    font-family: "Work Sans";
+    font-size: 14px;
+    border: 0px solid;
+
+}
+
+.Usernamecontact3 input:focus {
+    outline: none;
+}
+
+.Usernamecontact3 form i {
+    margin-left: 10%;
+    padding: 5%;
+    color: #BDBDBD;
+    font-size: 20px;
+}
+
+.Usernamecontact3 form input::placeholder {
+    color: black;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+/* 4 cu input ************************************ */
+
+/* 5 ci input ******************************* */
+
+.Usernamecontact4 {
+    height: 46px;
+    background-color: #A259FF;
+    border-radius: 20px;
+    margin-top: 6%;
+    width: 330px;
+    text-align: center;
+}
+
+.Usernamecontact4 a {
+    color: #FFF;
+    text-align: center;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    margin-top: 1%;
+    display: flex;
+    margin-left: 28%;
+    padding: 4%;
+}
+
+/* ***************************************** */
+.contact_main {
+    margin-top: 6%;
+}
+
+.contact_main form {
+    display: flex;
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+    height: 60px;
+    border: 1px solid var(--Background-Secondary);
+    border-radius: 20px;
+    align-items: center;
+}
+
+.contact_main input {
+    padding: 0px 50px;
+    width: 420px;
+    font-family: "Work Sans";
+    font-size: 14px;
+    border: 0px solid;
+
+}
+
+.contact_main input:focus {
+
+    outline: none;
+}
+
+.contact_main a {
+    background-color: #A259FF;
+    color: var(--White);
+    padding: 0px 50px;
+    align-items: center;
+    display: flex;
+    height: 60px;
+    border-radius: 20px;
+    gap: 10px;
+    font-family: "Work Sans";
+    font-weight: 600;
+}
+
+/* *********************************************** */
+/* 5 ci input ******************************* */
+
+/* **********MAIN *********************** */
+
+
+
+
+/*? **************CONNECT **********************/
+
+
+
+
+/* ************IMG************************* */
+
+.CONNECTCreateAccount {
+    display: flex;
+    margin-top: 3%;
+}
+
+.CONNECT_fly_into_space {
+    width: 610px;
+    height: 669px;
+}
+
+.CONNECT_fly_into_space img {
+    width: 92%;
+    height: 111.3%;
+
+}
+
+.CONNECT_Create_account p {
+    font-family: "Work Sans";
+    font-size: 51px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 110%;
+    text-transform: capitalize;
+    color: var(--White);
+}
+
+.CONNECT_WelcomeEnter p {
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 160%;
+    text-transform: capitalize;
+    color: var(--White);
+}
+
+.CONNECT_CreateWelcome {
+    margin-left: 4%;
+    margin-top: 10%;
+}
+
+/* ******************IMG************************** */
+
+/* ************1c i****************************** */
+.Choose {
+    width: 320px;
+    height: 72px;
+    background-color: #3B3B3B;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    border: solid 1px #A259FF;
+}
+
+.FoxMetamask {
+    display: flex;
+    align-items: center;
+    margin-left: 13%;
+    margin-top: 4%;
+    gap: 10%;
+}
+
+.FoxMetamask img {
+    display: flex;
+    width: 40px;
+    height: 40px;
+}
+
+.Metamask p {
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+
+}
+
+/* ************ * **1ci****************************** */
+
+
+
+/* ***************** 2-ci ************************** */
+.Choose1 {
+    width: 320px;
+    height: 72px;
+    background-color: #3B3B3B;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    border: solid 1px #A259FF;
+}
+
+.Wallet_Connect {
+    display: flex;
+    align-items: center;
+    margin-left: 13%;
+    margin-top: 4%;
+    gap: 10%;
+}
+
+.Wallet_Connect img {
+    display: flex;
+    width: 40px;
+    height: 40px;
+}
+
+.Wallet p {
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+
+}
+
+/* ***************** 2-ci ************************** */
+
+/* *******************3 cu **************************** */
+
+
+.Choose2 {
+    width: 320px;
+    height: 72px;
+    background-color: #3B3B3B;
+    border-radius: 20px;
+    border: solid 1px #A259FF;
+}
+
+.Coinbase {
+    display: flex;
+    align-items: center;
+    margin-left: 13%;
+    margin-top: 4%;
+    gap: 10%;
+}
+
+.Coinbase img {
+    display: flex;
+    width: 40px;
+    height: 40px;
+}
+
+.Coinbase1 p {
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+
+}
+
+/*  ************3 cu ******************************* */
+
+/* ! **************CONNECT **********************/
+
+
+
+/* ? *****************MarketP ******************************/
+
+.BrowseMarketplace p {
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 51px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 110%;
+    text-transform: capitalize;
+}
+
+.Browse_through_more p {
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 160%;
+    margin-top: 2%;
+}
+
+.BrowseMarketplace_more {
+    margin-left: 7%;
+    margin-top: 7%;
+}
+
+.Search_favourite {
+    display: flex;
+    border: solid 1px #858584;
+    width: 1310px;
+    border-radius: 20px;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.Search_favourite input {
+    background-color: #2B2B2B;
+    border: solid 0px;
+    width: 960px;
+    padding: 10px;
+    border-radius: 20px;
+    font-family: "Work Sans";
+
+}
+
+.Search_favourite input ::placeholder {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+    width: 50%;
+}
+
+.Search_favourite input:focus {
+    outline: none;
+}
+
+.Search_favourite i {
+    font-size: 24px;
+    color: var(--White);
+    margin-top: 5px;
+}
+
+.Search_favourite {
+    margin-top: 2%;
+}
+
+.Browse_Marketplace_line {
+    width: 100%;
+    border: 1px solid #858584;
+    margin-top: 80px;
+    margin-bottom: 3%;
+}
+
+
+.NFTsCollections {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+/* *************1 ci reqem *************************** */
+.NFTs302 {
+    border-bottom: #858584 solid 1px;
+    width: 525px;
+    height: 60px;
+    margin-left: 10%;
+}
+
+.NFTsNF {
+    display: flex;
+    margin-left: 43%;
+
+}
+
+.NFTsNF p {
+    color: var(--White, #FFF);
+    text-align: center;
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    text-transform: capitalize;
+
+}
+
+.NFTsNF302 {
+    width: 50px;
+    height: 32px;
+    border-radius: 20px;
+    background: #858584;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.NFTsNF302 p {
+    color: #FFF;
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+/* 1  ci reqem ********************************************* */
+
+/* 2 ci reqem ***************************************** */
+.NFTsNF {
+    display: flex;
+}
+
+.NFTsNF {
+    gap: 16px;
+}
+
+.CollectionsCol {
+    display: flex;
+    gap: 16px;
+
+}
+
+.CollectionsCol p {
+    color: #858584;
+    text-align: center;
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    text-transform: capitalize;
+
+}
+
+.CollectionsCol67 {
+    width: 50px;
+    height: 32px;
+    border-radius: 20px;
+    background: #3B3B3B;
+    display: flex;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.CollectionsCol67 p {
+    color: #FFF;
+    font-family: "Space Mono";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.Collections67 {
+    display: flex;
+    width: 525px;
+    height: 60px;
+}
+
+/* 2 ci reqem ***************************************** */
+
+
+
+
+/* 1 ci sekil ************************************* */
+.Magic {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 400px;
+    height: 469px;
+}
+
+.Magic img {
+    display: flex;
+    border-radius: 20px 20px 0px 0px;
+    width: 70%;
+    object-fit: cover;
+}
+
+.MagicMushroom {
+    border-radius: 0px 0px 20px 20px;
+    padding: 15px 0px 0px 10px;
+    height: 150px;
+    width: 70%;
+    background-color: var(--Background);
+    align-items: center;
+}
+
+.MagicMushroom img {
+    width: 24px;
+    height: 24px;
+    border-radius: 120%;
+}
+
+.MagicMushroom>p {
+
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.Mushroom1 {
+    padding: 13px 0px 0px 0px;
+    display: flex;
+    gap: 12px;
+    margin-left: 10px;
+
+}
+
+.Mushroom1 p {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    font-family: "Space Mono";
+    line-height: 140%;
+
+}
+
+
+/* 1 ci sekil son *********************************************** */
+
+/* 2  ci sekil********************************************** */
+
+.HappyRobot032 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 400px;
+    height: 469px;
+}
+
+.HappyRobot032 img {
+    display: flex;
+    border-radius: 20px 20px 0px 0px;
+    width: 70%;
+    object-fit: cover;
+}
+
+.HappyRobot0322 {
+    border-radius: 0px 0px 20px 20px;
+    padding: 15px 0px 0px 10px;
+    height: 150px;
+    width: 70%;
+    background-color: var(--Background);
+    align-items: center;
+}
+
+.HappyRobot0322 img {
+    width: 24px;
+    height: 24px;
+    border-radius: 120%;
+}
+
+.HappyRobot0322>p {
+
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.HappyRobot1 {
+    padding: 13px 0px 0px 0px;
+    display: flex;
+    gap: 12px;
+    margin-left: 10px;
+
+}
+
+.HappyRobot1 p {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    font-family: "Space Mono";
+    line-height: 140%;
+
+}
+
+/* 2  ci sekil son********************************************** */
+
+
+/* 3  cu sekil *********************************** */
+.HappyRobot024 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 400px;
+    height: 469px;
+}
+
+.HappyRobot024 img {
+    display: flex;
+    border-radius: 20px 20px 0px 0px;
+    width: 70%;
+    object-fit: cover;
+}
+
+.HappyRobot0244 {
+    border-radius: 0px 0px 20px 20px;
+    padding: 15px 0px 0px 10px;
+    height: 150px;
+    width: 70%;
+    background-color: var(--Background);
+    align-items: center;
+}
+
+.HappyRobot0244 img {
+    width: 24px;
+    height: 24px;
+    border-radius: 120%;
+}
+
+.HappyRobot0244>p {
+
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.HappyRobot11 {
+    padding: 13px 0px 0px 0px;
+    display: flex;
+    gap: 12px;
+    margin-left: 10px;
+
+}
+
+.HappyRobot11 p {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    font-family: "Space Mono";
+    line-height: 140%;
+
+}
+
+
+/* 3  cu sekil *********************************** */
+
+
+/* **************************************** */
+.pictures_of_the_first_part {
+    display: flex;
+    justify-content: center;
+    background-color: var(--Background-Secondary);
+}
+
+/* ********************************************* */
+
+
+/* 4 cu sekili ********************************************* */
+
+.Designer_Bear {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 400px;
+    height: 469px;
+}
+
+.Designer_Bear img {
+    display: flex;
+    border-radius: 20px 20px 0px 0px;
+    width: 70%;
+    object-fit: cover;
+}
+
+.Designer_Bear_Des {
+    border-radius: 0px 0px 20px 20px;
+    padding: 15px 0px 0px 10px;
+    height: 150px;
+    width: 70%;
+    background-color: var(--Background);
+    align-items: center;
+}
+
+.Designer_Bear_Des img {
+    width: 24px;
+    height: 24px;
+    border-radius: 120%;
+}
+
+.Designer_Bear_Des>p {
+
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.Designer_Bear_Desinger {
+    padding: 13px 0px 0px 0px;
+    display: flex;
+    gap: 12px;
+    margin-left: 10px;
+
+}
+
+.Designer_Bear_Desinger p {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    font-family: "Space Mono";
+    line-height: 140%;
+
+}
+
+/* 4 cu sekili ********************************************* */
+
+/* 5 ci sekil ***************************************** */
+
+.Colorful_Dog_0356 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 400px;
+    height: 469px;
+}
+
+.Colorful_Dog_0356 img {
+    display: flex;
+    border-radius: 20px 20px 0px 0px;
+    width: 70%;
+    object-fit: cover;
+}
+
+.Colorful_Dog {
+    border-radius: 0px 0px 20px 20px;
+    padding: 15px 0px 0px 10px;
+    height: 150px;
+    width: 70%;
+    background-color: var(--Background);
+    align-items: center;
+}
+
+.Colorful_Dog img {
+    width: 24px;
+    height: 24px;
+    border-radius: 120%;
+}
+
+.Colorful_Dog>p {
+
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.Colorful_Dog_Coll {
+    padding: 13px 0px 0px 0px;
+    display: flex;
+    gap: 12px;
+    margin-left: 10px;
+
+}
+
+.Colorful_Dog_Coll p {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    font-family: "Space Mono";
+    line-height: 140%;
+
+}
+
+/* 5 ci sekil ***************************************** */
+
+
+/* 6 ci sekil ****************************************** */
+.Dancing_Robot_0312 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 400px;
+    height: 469px;
+}
+
+.Dancing_Robot_0312 img {
+    display: flex;
+    border-radius: 20px 20px 0px 0px;
+    width: 70%;
+    object-fit: cover;
+}
+
+.Dancing_Robot_Danc {
+    border-radius: 0px 0px 20px 20px;
+    padding: 15px 0px 0px 10px;
+    height: 150px;
+    width: 70%;
+    background-color: var(--Background);
+    align-items: center;
+}
+
+.Dancing_Robot_Danc img {
+    width: 24px;
+    height: 24px;
+    border-radius: 120%;
+}
+
+.Dancing_Robot_Danc>p {
+
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.Dancing_Robot_Robotica {
+    padding: 13px 0px 0px 0px;
+    display: flex;
+    gap: 12px;
+    margin-left: 10px;
+
+}
+
+.Dancing_Robot_Robotica p {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    font-family: "Space Mono";
+    line-height: 140%;
+
+}
+
+/* 6 ci sekil*************************************************************** */
+
+/* ********************************** */
+.pictures_of_the_second_part {
+    display: flex;
+    justify-content: center;
+    background-color: var(--Background-Secondary);
+}
+
+/* *************************************** */
+
+
+/* 7 ci ***************** */
+.Cherry_Blossom_Girl_035 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 400px;
+    height: 469px;
+}
+
+.Cherry_Blossom_Girl_035 img {
+    display: flex;
+    border-radius: 20px 20px 0px 0px;
+    width: 70%;
+    object-fit: cover;
+}
+
+.Cherry_Blossom_Girl {
+    border-radius: 0px 0px 20px 20px;
+    padding: 15px 0px 0px 10px;
+    height: 150px;
+    width: 70%;
+    background-color: var(--Background);
+    align-items: center;
+}
+
+.Cherry_Blossom_Girl img {
+    width: 24px;
+    height: 24px;
+    border-radius: 120%;
+}
+
+.Cherry_Blossom_Girl>p {
+
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 21px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.Cherry_Blossom {
+    padding: 13px 0px 0px 0px;
+    display: flex;
+    gap: 12px;
+    margin-left: 10px;
+
+}
+
+.Cherry_Blossom p {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    font-family: "Space Mono";
+    line-height: 140%;
+
+}
+
+/* 7 c i******************************* */
+
+/* 8 ci ****************************** */
+.SpaceTravel {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 400px;
+    height: 469px;
+}
+
+.SpaceTravel img {
+    display: flex;
+    border-radius: 20px 20px 0px 0px;
+    width: 70%;
+    object-fit: cover;
+}
+
+.SpaceTravelSpa {
+    border-radius: 0px 0px 20px 20px;
+    padding: 15px 0px 0px 10px;
+    height: 150px;
+    width: 70%;
+    background-color: var(--Background);
+    align-items: center;
+}
+
+.SpaceTravelSpa img {
+    width: 24px;
+    height: 24px;
+    border-radius: 120%;
+}
+
+.SpaceTravelSpa>p {
+
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 21px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.Space_Travel_Space {
+    padding: 13px 0px 0px 0px;
+    display: flex;
+    gap: 12px;
+    margin-left: 10px;
+
+}
+
+.Space_Travel_Space p {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    font-family: "Space Mono";
+    line-height: 140%;
+
+}
+
+/* 8 ci ************************************* */
+
+
+/* 9 cu *********************************** */
+.Sunset_Dimension {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 3.2%;
+    flex-direction: column;
+    width: 400px;
+    height: 469px;
+}
+
+.Sunset_Dimension img {
+    display: flex;
+    border-radius: 20px 20px 0px 0px;
+    width: 70%;
+    object-fit: cover;
+}
+
+.Sunset_Dimension_Sun {
+    border-radius: 0px 0px 20px 20px;
+    padding: 15px 0px 0px 10px;
+    height: 150px;
+    width: 70%;
+    background-color: var(--Background);
+    align-items: center;
+}
+
+.Sunset_Dimension_Sun img {
+    width: 24px;
+    height: 24px;
+    border-radius: 120%;
+}
+
+.Sunset_Dimension_Sun>p {
+
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 21px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.Sunset_Dimension_Sunset {
+    padding: 13px 0px 0px 0px;
+    display: flex;
+    gap: 12px;
+    margin-left: 10px;
+
+}
+
+.Sunset_Dimension_Sunset p {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    font-family: "Space Mono";
+    line-height: 140%;
+
+}
+
+/* 9 cu sekili ************************************* */
+
+/* ********************************** */
+.third_part_images {
+    display: flex;
+    justify-content: center;
+    background-color: var(--Background-Secondary);
+}
+
+/* *************************************** */
+
+/* 10 cu *************************** */
+.Desert_Walk {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 400px;
+    height: 469px;
+}
+
+.Desert_Walk img {
+    display: flex;
+    border-radius: 20px 20px 0px 0px;
+    width: 70%;
+    object-fit: cover;
+}
+
+.Desert_Walk_Des {
+    border-radius: 0px 0px 20px 20px;
+    padding: 15px 0px 0px 10px;
+    height: 150px;
+    width: 70%;
+    background-color: var(--Background);
+    align-items: center;
+}
+
+.Desert_Walk_Des img {
+    width: 24px;
+    height: 24px;
+    border-radius: 120%;
+}
+
+.Desert_Walk_Des>p {
+
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 21px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.Desert_Walk_Desert {
+    padding: 13px 0px 0px 0px;
+    display: flex;
+    gap: 12px;
+    margin-left: 10px;
+
+}
+
+.Desert_Walk_Desert p {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    font-family: "Space Mono";
+    line-height: 140%;
+
+}
+
+/* 10 cu ***************************************** */
+
+/* 11 ci ********************************** */
+
+.IceCream_Ape_0324 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 400px;
+    height: 469px;
+}
+
+.IceCream_Ape_0324 img {
+    display: flex;
+    border-radius: 20px 20px 0px 0px;
+    width: 70%;
+    object-fit: cover;
+}
+
+.IceCream_Ape_ {
+    border-radius: 0px 0px 20px 20px;
+    padding: 15px 0px 0px 10px;
+    height: 150px;
+    width: 70%;
+    background-color: var(--Background);
+    align-items: center;
+}
+
+.IceCream_Ape_ img {
+    width: 24px;
+    height: 24px;
+    border-radius: 120%;
+}
+
+.IceCream_Ape_>p {
+
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 21px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.IceCream_ {
+    padding: 13px 0px 0px 0px;
+    display: flex;
+    gap: 12px;
+    margin-left: 10px;
+
+}
+
+.IceCream_ p {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    font-family: "Space Mono";
+    line-height: 140%;
+
+}
+
+/* 11 ci ********************************** */
+
+/* 12 ci sekil ************************************ */
+
+.Colorful_Dog_0344 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 400px;
+    height: 469px;
+}
+
+.Colorful_Dog_0344 img {
+    display: flex;
+    border-radius: 20px 20px 0px 0px;
+    width: 70%;
+    object-fit: cover;
+}
+
+.Colorful_Dog_ {
+    border-radius: 0px 0px 20px 20px;
+    padding: 15px 0px 0px 10px;
+    height: 150px;
+    width: 70%;
+    background-color: var(--Background);
+    align-items: center;
+}
+
+.Colorful_Dog_ img {
+    width: 24px;
+    height: 24px;
+    border-radius: 120%;
+}
+
+.Colorful_Dog_>p {
+
+    color: var(--White);
+    font-family: "Work Sans";
+    font-size: 21px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.Colorful_ {
+    padding: 13px 0px 0px 0px;
+    display: flex;
+    gap: 12px;
+    margin-left: 10px;
+
+}
+
+.Colorful_ p {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--White);
+    font-family: "Space Mono";
+    line-height: 140%;
+
+}
+
+
+/* 12 ci sekil ************************************ */
+
+/* ************************ */
+.fourth_part_images {
+    display: flex;
+    justify-content: center;
+    background-color: var(--Background-Secondary);
+}
+
+/* ************************** */
+.pageFight_Marketplace {
+    width: 100%;
+    height: 100%;
+    /* padding: 40px 195px; */
+
+    display: flex;
+    /* justify-content:space-around; */
+
+}
+
+
+/* ! ******************Rankings**************************** */
+
+
+
+.TodayThisWeek {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+.Today{
+    border-bottom: #858584 solid 1px;
+    width: 175px;
+    height: 45px;
+}
+.Today p {
+    color: var(--White);
+    text-align: center;
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+   
+}
+
+.This_Week p {
+    color: var(--caption-label-text, #858584);
+    text-align: center;
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    text-transform: capitalize;
+}
+
+.This_Month p {
+    color: var(--caption-label-text, #858584);
+    text-align: center;
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    text-transform: capitalize;
+}
+
+.All_Time p {
+    color: var(--caption-label-text, #858584);
+    text-align: center;
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    text-transform: capitalize;
 }

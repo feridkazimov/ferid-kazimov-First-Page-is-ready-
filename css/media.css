@@ -983,16 +983,100 @@
 
 
 
-
-
-
-
-
-
-
-
-
     /* 9 ci seyfe bitih ******************************* */
+
+
+    /* ******************** Main ************************** */
+
+
+
+    .fly_into_space {
+        width: 379px;
+    }
+
+    .fly_into_space img {
+        width: 379px;
+        height: 615px;
+    }
+
+    .Create_account p {
+        color: var(--White);
+        font-family: "Work Sans";
+        font-size: 38px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 120%;
+        text-transform: capitalize;
+    }
+
+    .WelcomeEnter p {
+        color: var(--White);
+        font-family: "Work Sans";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 140%
+    }
+
+    .Usernamecontact form {
+        width: 325px;
+        height: 46px;
+    }
+
+    .Usernamecontact1 form {
+        width: 325px;
+        height: 46px;
+    }
+
+    .Usernamecontact2 form {
+        width: 325px;
+        height: 46px;
+    }
+
+    .Usernamecontact3 form {
+        height: 46px;
+    }
+
+    .Usernamecontact4 {
+        height: 46px;
+    }
+
+    .Usernamecontact4 a {
+        padding: 4%;
+    }
+
+    .CreateWelcome {
+
+        margin-top: 12%;
+    }
+
+    .END_C {
+        margin-left: 0px;
+    }
+
+    .fly_into_space {
+        height: 574px;
+    }
+    .CONNECT_fly_into_space {
+        width: 379px;
+        height: 492px 
+    }
+
+
+
+
+/*!################### *MARKeTPLACE*  *START* #######################**/
+
+
+
+.Search_favourite{
+    width: 680px;
+}
+.NFTsCollections{
+    gap: 10%;
+}
+
+
 
 }
 
@@ -1690,41 +1774,193 @@
         width: 315px;
         height: 255px;
     }
-.cosmonaut_newspaper{
-    background-color: var(--Background);
-    display: block;
-}
-footer{
-    margin-top: 60%;
-}
-.JoinOurWeekly {
-    margin-top: 15%;
-}
-.heading{
-    margin-bottom: 5%;
-}
-.nft-desc{
-    margin-bottom: 5%;
-}
-.exp-heading{
-    margin-bottom: 15px;
-}
-.mplace{
-    margin-bottom: 15px;
-}
-.connect{
-    margin-bottom: 25px;
-}
-.join-desc{
-    margin-bottom: 20px;
-}
-.contact{
-    display: block;
-}
-.ENDline{
-    margin-top: 13%;
-}
+
+    .cosmonaut_newspaper {
+        background-color: var(--Background);
+        display: block;
+    }
+
+    footer {
+        margin-top: 60%;
+    }
+
+    .JoinOurWeekly {
+        margin-top: 15%;
+    }
+
+    .heading {
+        margin-bottom: 5%;
+    }
+
+    .nft-desc {
+        margin-bottom: 5%;
+    }
+
+    .exp-heading {
+        margin-bottom: 15px;
+    }
+
+    .mplace {
+        margin-bottom: 15px;
+    }
+
+    .connect {
+        margin-bottom: 25px;
+    }
+
+    .join-desc {
+        margin-bottom: 20px;
+    }
+
+    .contact {
+        display: block;
+    }
+
+   
     /* 8 ci seyfe bitish*************************************** */
+
+
+
+
+    /* ***************MAIN************************* */
+    .fly_into_space img {
+        width: 392px;
+        height: 270px;
+    }
+
+    .fly_into_space {
+        width: 0;
+        height: 0;
+    }
+
+    .CreateAccount {
+        flex-direction: column;
+    }
+
+    .CreateWelcome {
+        margin-top: 75%;
+    }
+
+    .Create_account {
+        margin-left: 5%;
+        margin-top: 15px;
+    }
+
+    .WelcomeEnter {
+        margin-left: 6%;
+        margin-top: 20px;
+    }
+
+    .Usernamecontact {
+        margin-top: 30px;
+    }
+
+    .Usernamecontact form {
+        width: 315px;
+        margin-left: 6%;
+    }
+
+    .Usernamecontact1 form {
+        width: 315px;
+    }
+
+    .Usernamecontact1 {
+
+        margin-left: 6%;
+    }
+
+    .Usernamecontact2 form {
+        width: 315px;
+    }
+
+    .Usernamecontact2 {
+
+        margin-left: 6%;
+    }
+
+    .Usernamecontact3 form {
+        width: 315px;
+
+    }
+
+    .Usernamecontact3 {
+        margin-left: 6%;
+    }
+
+    .Usernamecontact4 {
+        margin-left: 6%;
+        width: 315px;
+    }
+
+    footer {
+        /* margin-top: 40px; */
+    }
+
+    .ENDline {
+   
+    }
+
+    .Footer_main {
+        margin-top: 30px;
+        height: 80vh;
+    }
+    
+    .contact_main form{
+        flex-direction: column;
+        background-color: var(--Background-Secondary );
+    }
+    .contact_main form input{
+        width: 275px;
+        height: 46px;
+        padding: 16px;
+        border-radius: 20px;
+        margin-top: 10%;
+    }
+    .contact_main form a{
+        width: 275px;
+        padding: 1px;
+        height: 46px;
+        gap: 0;
+        margin-top: 5%;
+        margin-bottom: 2%;
+    }
+    .contact_main form i{
+        margin-left: 22% ;
+    }
+   
+    .CONNECTCreateAccount{
+    flex-direction: column;
+    }
+    .CONNECT_fly_into_space {
+        width: 379px;
+        height: 230px;
+    }
+    .CONNECT_fly_into_space img {
+        width: 390px;
+        height: 240px;
+    }
+    .CONNECT_Create_account p{
+        font-size: 38px;
+    }
+    .CONNECT_WelcomeEnter p{
+        margin-top: 3%;
+    }
+    .CONNECT_WelcomeEnter p{
+        font-size: 16px;
+    }
+    .CONNECT_CreateWelcome {
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+    .connect_footer{
+        margin-top: 5%;
+    }
+    /* ******************Main************************ */
+
+
+
+
+
 
 }
 
