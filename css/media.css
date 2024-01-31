@@ -893,10 +893,15 @@
 
     .contact1 form {
         display: block;
+        width: 100%;
     }
 
     .contact1 a {
         margin-top: 13%;
+    }
+    .contact1 input{
+        width: 300px;
+        margin-top: 6%;
     }
 
     .cosmonaut_newspaper {
@@ -915,6 +920,7 @@
 
     .pageFight {
         flex-direction: column;
+        margin-top: 67%;
     }
 
     .heading {
@@ -971,11 +977,20 @@
     .contact {
         margin-top: 2%;
     }
-
-    .contact form {
-        width: 62%;
+    .contact input{
+        width: 320px;
+        margin-top: 7%;
     }
-
+    .contact form {
+        width: 93%;
+        display: block;
+    }
+    footer {
+        height: 635px;
+    }
+.contact form a{
+   margin-top: 8%;
+}
     .END_C {
         margin-left: 8%;
         margin-top: 2%;
