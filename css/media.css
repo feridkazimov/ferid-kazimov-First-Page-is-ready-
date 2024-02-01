@@ -148,6 +148,10 @@
         display: none;
     }
 
+    .Dog {
+        margin-right: 4%;
+    }
+
     .Dog>img {
         padding: 0px 15px;
     }
@@ -899,7 +903,8 @@
     .contact1 a {
         margin-top: 13%;
     }
-    .contact1 input{
+
+    .contact1 input {
         width: 300px;
         margin-top: 6%;
     }
@@ -917,10 +922,13 @@
 
     /* 9 ci seyfe basliq ****************************** */
 
+    .indexhtml {
+        height: 600px;
+    }
 
     .pageFight {
         flex-direction: column;
-        margin-top: 67%;
+
     }
 
     .heading {
@@ -974,23 +982,11 @@
         margin-bottom: 0px;
     }
 
-    .contact {
-        margin-top: 2%;
-    }
-    .contact input{
-        width: 320px;
-        margin-top: 7%;
-    }
-    .contact form {
-        width: 93%;
-        display: block;
-    }
+
     footer {
         height: 635px;
     }
-.contact form a{
-   margin-top: 8%;
-}
+
     .END_C {
         margin-left: 8%;
         margin-top: 2%;
@@ -1001,7 +997,7 @@
     /* 9 ci seyfe bitih ******************************* */
 
 
-    /* ******************** Main ************************** */
+    /*! ******************** Main ************************** */
 
 
 
@@ -1072,38 +1068,1007 @@
     .fly_into_space {
         height: 574px;
     }
+
     .CONNECT_fly_into_space {
         width: 379px;
-        height: 492px 
+        height: 492px
     }
 
 
 
 
-/*!################### *MARKeTPLACE*  *START* #######################**/
+    /*!################### *MARKeTPLACE*  *START* #######################**/
 
 
 
-.Search_favourite{
-    width: 680px;
+
+
+    /* ! ********************CONNECT************************** */
+    .Search_favourite {
+        width: 680px;
+    }
+
+    .NFTsCollections {
+        gap: 10%;
+    }
+
+    .Sunset_Dimension {
+        display: none;
+    }
+
+    .Desert_Walk {
+        display: none;
+    }
+
+    .IceCream_Ape_0324 {
+        display: none;
+    }
+
+    .Colorful_Dog_0344 {
+        display: none;
+    }
+
+    .HappyRobot024 {
+        display: none;
+    }
+
+    .Dancing_Robot_0312 {
+        display: none;
+    }
+
+    .pageFight_Marketplace {
+        flex-direction: column;
+    }
+
+
+
+
+    /* ! ****************** Rankings ********************** */
+
+    .BrowseMarketplace p {
+        font-size: 38px;
+    }
+
+    .Browse_through_more p {
+        font-size: 16px;
+    }
+
+    .Today p {
+        font-size: 16px;
+    }
+
+    .This_Week p {
+        font-size: 16px;
+    }
+
+    .This_Month p {
+        font-size: 16px;
+    }
+
+    .All_Time p {
+        font-size: 16px;
+    }
+
+    .ArtistChangeSoldVolume {
+        width: 720px;
+    }
+
+    .ChangeNFTsVolume li:nth-child(2) {
+        display: none;
+    }
+
+    .ChangeNFTsVolume {
+        margin-left: 38%;
+        width: 40%;
+        gap: 54px;
+    }
+
+    .ChangeNFTsVolume li:nth-child(1) {
+        margin-left: 8%;
+    }
+
+    .Artist {
+        margin-left: 5%;
+    }
+
+    /* ********************* 1 ****************************** */
+
+
+    .Jaydon_Ekstrom_Bothman {
+        width: 720px;
+        height: 60px;
+    }
+    
+    .Jaydon_Ekstrom_Bothman_1 {
+        background-color: var(--Background-Secondary);
+    }
+    
+    .Jaydon_Ekstrom_Bothman_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+    
+    .Jaydon_Ekstrom_Bothman_img img {
+        width: 24px;
+        height: 24px;
+    }
+    
+    .Jaydon_Ekstrom_Bothman_1 {
+        top: 15px;
+    }
+    
+    .Jaydon_Ekstrom_602 {
+        display: none;
+    }
+    
+    .Jaydon_Ekstrom_ {
+        margin-top: 13px;
+        width: 189px;
+    }
+    
+    
+    .Jaydon_Ekstrom_141 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+    
+    .Jaydon_Ekstrom_124 {
+        margin-top: 19px;
+    }
+    
+    
+    /* 2 c i************************************************ */
+
+    .Ruben_Carder {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Ruben_Carder_1 {
+        background-color: var(--Background-Secondary);
+    }
+
+    .Ruben_Carder_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Ruben_Carder_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+    .Ruben_Carder_1 {
+        top: 15px;
+    }
+
+    .Ruben_Carder_4 {
+        display: none;
+    }
+
+    .Ruben_Carder_2 {
+        margin-top: 13px;
+    }
+
+
+    .Ruben_Carder_3 {
+        margin-top: 19px;
+        margin-left: 29%;
+    }
+
+    .Ruben_Carder_5 {
+        margin-top: 19px;
+    }
+
+
+    /* ****************3 cu ************** */
+    .Alfredo_Septimus {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Alfredo_Septimus_1 {
+        background-color: var(--Background-Secondary);
+    }
+
+    .Alfredo_Septimus_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Alfredo_Septimus_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+    .Alfredo_Septimus_1 {
+        top: 15px;
+    }
+
+    .Alfredo_Septimus_4 {
+        display: none;
+    }
+
+    .Alfredo_Septimus_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
+
+    .Alfredo_Septimus_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+
+    .Alfredo_Septimus_5 {
+        margin-top: 19px;
+    }
+/* *****4 cu ********************** */
+.Davis_Franci {
+    width: 720px;
+    height: 60px;
 }
-.NFTsCollections{
-    gap: 10%;
+
+.Davis_Franci_1 {
+    background-color: var(--Background-Secondary);
+}
+
+.Davis_Franci_img {
+    width: 24px;
+    height: 24px;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.Davis_Franci_img img {
+    width: 24px;
+    height: 24px;
+}
+
+.Davis_Franci_1 {
+    top: 15px;
+}
+
+.Davis_Franci_4 {
+    display: none;
+}
+
+.Davis_Franci_2 {
+    margin-top: 13px;
+    width: 189px;
+}
+
+
+.Davis_Franci_3 {
+    margin-top: 19px;
+    margin-left: 23.5%;
+}
+
+.Davis_Franci_5 {
+    margin-top: 19px;
+}
+
+/* 5 ci *************************************** */
+.Livia_Rosser {
+    width: 720px;
+    height: 60px;
+}
+
+.Livia_Rosser_1 {
+    background-color: var(--Background-Secondary);
+}
+
+.Livia_Rosser_img {
+    width: 24px;
+    height: 24px;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.Livia_Rosser_img img {
+    width: 24px;
+    height: 24px;
+}
+
+.Livia_Rosser_1 {
+    top: 15px;
+}
+
+.Livia_Rosser_4 {
+    display: none;
+}
+
+.Livia_Rosser_2 {
+    margin-top: 13px;
+    width: 189px;
+}
+
+
+.Livia_Rosser_3 {
+    margin-top: 19px;
+    margin-left: 23.5%;
+}
+
+.Livia_Rosser_5 {
+    margin-top: 19px;
+}
+
+/* 6 ci ******************************* */
+
+.Kianna_Donin {
+    width: 720px;
+    height: 60px;
+}
+
+.Kianna_Donin_1 {
+    background-color: var(--Background-Secondary);
+}
+
+.Kianna_Donin_img {
+    width: 24px;
+    height: 24px;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.Kianna_Donin_img img {
+    width: 24px;
+    height: 24px;
+}
+
+.Kianna_Donin_1 {
+    top: 15px;
+}
+
+.Kianna_Donin_4 {
+    display: none;
+}
+
+.Kianna_Donin_2 {
+    margin-top: 13px;
+    width: 189px;
+}
+
+
+.Kianna_Donin_3 {
+    margin-top: 19px;
+    margin-left: 23.5%;
+}
+
+.Kianna_Donin_5 {
+    margin-top: 19px;
+}
+
+/* 7 ci ************************************* */
+
+.Phillip_Lipshutz {
+    width: 720px;
+    height: 60px;
+}
+
+.Phillip_Lipshutz_1 {
+    background-color: var(--Background-Secondary);
+    top: 15px;
+}
+
+.Phillip_Lipshutz_img {
+    width: 24px;
+    height: 24px;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.Phillip_Lipshutz_img img {
+    width: 24px;
+    height: 24px;
+}
+
+
+.Phillip_Lipshutz_4 {
+    display: none;
+}
+
+.Phillip_Lipshutz_2 {
+    margin-top: 13px;
+    width: 189px;
+}
+
+
+.Phillip_Lipshutz_3 {
+    margin-top: 19px;
+    margin-left: 23.5%;
+}
+
+.Phillip_Lipshutz_5 {
+    margin-top: 19px;
+}
+
+/* 8 ci ************************************** */
+
+.Maria_Rosser {
+    width: 720px;
+    height: 60px;
+}
+
+.Maria_Rosser_1 {
+    background-color: var(--Background-Secondary);
+    top: 15px;
+}
+
+.Maria_Rosser_img {
+    width: 24px;
+    height: 24px;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.Maria_Rosser_img img {
+    width: 24px;
+    height: 24px;
+}
+
+
+.Maria_Rosser_4 {
+    display: none;
+}
+
+.Maria_Rosser_2 {
+    margin-top: 13px;
+    width: 189px;
+}
+
+
+.Maria_Rosser_3 {
+    margin-top: 19px;
+    margin-left: 23.5%;
+}
+
+.Maria_Rosser_5 {
+    margin-top: 19px;
+}
+
+/* 9 cu ********************************* */
+
+.Kianna_Stanton {
+    width: 720px;
+    height: 60px;
+}
+
+.Kianna_Stanton_1 {
+    background-color: var(--Background-Secondary);
+    top: 15px;
+}
+
+.Kianna_Stanton_img {
+    width: 24px;
+    height: 24px;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.Kianna_Stanton_img img {
+    width: 24px;
+    height: 24px;
+}
+
+
+.Kianna_Stanton_4 {
+    display: none;
+}
+
+.Kianna_Stanton_2 {
+    margin-top: 13px;
+    width: 189px;
+}
+
+
+.Kianna_Stanton_3 {
+    margin-top: 19px;
+    margin-left: 23.5%;
+}
+
+.Kianna_Stanton_5 {
+    margin-top: 19px;
+}
+/* 10 cu ***************************************** */
+.Angel_Lubin {
+    width: 720px;
+    height: 60px;
+}
+
+.Angel_Lubin_1 {
+    background-color: var(--Background-Secondary);
+    top: 15px;
+}
+
+.Angel_Lubin_img {
+    width: 24px;
+    height: 24px;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.Angel_Lubin_img img {
+    width: 24px;
+    height: 24px;
+}
+
+
+.Angel_Lubin_4 {
+    display: none;
+}
+
+.Angel_Lubin_2 {
+    margin-top: 13px;
+    width: 189px;
+}
+
+
+.Angel_Lubin_3 {
+    margin-top: 19px;
+    margin-left: 23.5%;
+}
+
+.Angel_Lubin_5 {
+    margin-top: 19px;
+}
+/* 11 ci ********************************** */
+
+.Allison_Torff {
+    width: 720px;
+    height: 60px;
+}
+
+.Allison_Torff_1 {
+    background-color: var(--Background-Secondary);
+    top: 15px;
+}
+
+.Allison_Torff_img {
+    width: 24px;
+    height: 24px;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.Allison_Torff_img img {
+    width: 24px;
+    height: 24px;
+}
+
+
+.Allison_Torff_4 {
+    display: none;
+}
+
+.Allison_Torff_2 {
+    margin-top: 13px;
+    width: 189px;
+}
+
+
+.Allison_Torff_3 {
+    margin-top: 19px;
+    margin-left: 23.5%;
+}
+
+.Allison_Torff_5 {
+    margin-top: 19px;
+}
+/* 12 ci ************************************* */
+.Davis_Workman {
+    width: 720px;
+    height: 60px;
+}
+
+.Davis_Workman_1 {
+    background-color: var(--Background-Secondary);
+    top: 15px;
+}
+
+.Davis_Workman_img {
+    width: 24px;
+    height: 24px;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.Davis_Workman_img img {
+    width: 24px;
+    height: 24px;
+}
+
+
+.Davis_Workman_4 {
+    display: none;
+}
+
+.Davis_Workman_2 {
+    margin-top: 13px;
+    width: 189px;
+}
+
+
+.Davis_Workman_3 {
+    margin-top: 19px;
+    margin-left: 23.5%;
+}
+
+.Davis_Workman_5 {
+    margin-top: 19px;
+}
+
+/* 13 cu ************************************* */
+.Lindsey_Lipshutz {
+    width: 720px;
+    height: 60px;
+}
+
+.Lindsey_Lipshutz_1 {
+    background-color: var(--Background-Secondary);
+    top: 15px;
+}
+
+.Lindsey_Lipshutz_img {
+    width: 24px;
+    height: 24px;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.Lindsey_Lipshutz_img img {
+    width: 24px;
+    height: 24px;
+}
+
+
+.Lindsey_Lipshutz_4 {
+    display: none;
+}
+
+.Lindsey_Lipshutz_2 {
+    margin-top: 13px;
+    width: 189px;
+}
+
+
+.Lindsey_Lipshutz_3 {
+    margin-top: 19px;
+    margin-left: 23.5%;
+}
+
+.Lindsey_Lipshutz_5 {
+    margin-top: 19px;
+}
+
+/* 14 cu ************************************* */
+
+.Randy_Carder {
+    width: 720px;
+    height: 60px;
+}
+
+.Randy_Carder_1 {
+    background-color: var(--Background-Secondary);
+    top: 15px;
+}
+
+.Randy_Carder_img {
+    width: 24px;
+    height: 24px;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.Randy_Carder_img img {
+    width: 24px;
+    height: 24px;
+}
+
+
+.Randy_Carder_4 {
+    display: none;
+}
+
+.Randy_Carder_2 {
+    margin-top: 13px;
+    width: 189px;
+}
+
+
+.Randy_Carder_3 {
+    margin-top: 19px;
+    margin-left: 23.5%;
+}
+
+.Randy_Carder_5 {
+    margin-top: 19px;
+}
+
+/* 15 ci ***************************** */
+
+.Lydia_Culhane {
+    width: 720px;
+    height: 60px;
+}
+
+.Lydia_Culhane_1 {
+    background-color: var(--Background-Secondary);
+    top: 15px;
+}
+
+.Lydia_Culhane_img {
+    width: 24px;
+    height: 24px;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.Lydia_Culhane_img img {
+    width: 24px;
+    height: 24px;
+}
+
+
+.Lydia_Culhane_4 {
+    display: none;
+}
+
+.Lydia_Culhane_2 {
+    margin-top: 13px;
+    width: 189px;
+}
+
+
+.Lydia_Culhane_3 {
+    margin-top: 19px;
+    margin-left: 23.5%;
+}
+
+.Lydia_Culhane_5 {
+    margin-top: 19px;
+}
+/* 16 ci *********************************** */
+
+.Rayna_Bator {
+    width: 720px;
+    height: 60px;
+}
+
+.Rayna_Bator_1 {
+    background-color: var(--Background-Secondary);
+    top: 15px;
+}
+
+.Rayna_Bator_img {
+    width: 24px;
+    height: 24px;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.Rayna_Bator_img img {
+    width: 24px;
+    height: 24px;
+}
+
+
+.Rayna_Bator_4 {
+    display: none;
+}
+
+.Rayna_Bator_2 {
+    margin-top: 13px;
+    width: 189px;
+}
+
+
+.Rayna_Bator_3 {
+    margin-top: 19px;
+    margin-left: 23.5%;
+}
+
+.Rayna_Bator_5 {
+    margin-top: 19px;
+}
+
+/* 17 ci ************************************ */
+
+.Jocelyn_Westervelt {
+    width: 720px;
+    height: 60px;
+}
+
+.Jocelyn_Westervelt_1 {
+    background-color: var(--Background-Secondary);
+    top: 15px;
+}
+
+.Jocelyn_Westervelt_img {
+    width: 24px;
+    height: 24px;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.Jocelyn_Westervelt_img img {
+    width: 24px;
+    height: 24px;
+}
+
+
+.Jocelyn_Westervelt_4 {
+    display: none;
+}
+
+.Jocelyn_Westervelt_2 {
+    margin-top: 13px;
+    width: 189px;
+}
+
+
+.Jocelyn_Westervelt_3 {
+    margin-top: 19px;
+    margin-left: 23.5%;
+}
+
+.Jocelyn_Westervelt_5 {
+    margin-top: 19px;
+}
+/* 18 ci ************************************* */
+
+.Marilyn_Torff {
+    width: 720px;
+    height: 60px;
+}
+
+.Marilyn_Torff_1 {
+    background-color: var(--Background-Secondary);
+    top: 15px;
+}
+
+.Marilyn_Torff_img {
+    width: 24px;
+    height: 24px;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.Marilyn_Torff_img img {
+    width: 24px;
+    height: 24px;
+}
+
+
+.Marilyn_Torff_4 {
+    display: none;
+}
+
+.Marilyn_Torff_2 {
+    margin-top: 13px;
+    width: 189px;
+}
+
+
+.Marilyn_Torff_3 {
+    margin-top: 19px;
+    margin-left: 23.5%;
+}
+
+.Marilyn_Torff_5 {
+    margin-top: 19px;
+}
+/* 19 cu ***************************** */
+
+.Skylar_Levin {
+    width: 720px;
+    height: 60px;
+}
+
+.Skylar_Levin_1 {
+    background-color: var(--Background-Secondary);
+    top: 15px;
+}
+
+.Skylar_Levin_img {
+    width: 24px;
+    height: 24px;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.Skylar_Levin_img img {
+    width: 24px;
+    height: 24px;
+}
+
+
+.Skylar_Levin_4 {
+    display: none;
+}
+
+.Skylar_Levin_2 {
+    margin-top: 13px;
+    width: 189px;
+}
+
+
+.Skylar_Levin_3 {
+    margin-top: 19px;
+    margin-left: 23.5%;
+}
+
+.Skylar_Levin_5 {
+    margin-top: 19px;
+}
+/* 20 ci *************************************** */
+
+.Terry_Dorwart {
+    width: 720px;
+    height: 60px;
+}
+
+.Terry_Dorwart_1 {
+    background-color: var(--Background-Secondary);
+    top: 15px;
+}
+
+.Terry_Dorwart_img {
+    width: 24px;
+    height: 24px;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.Terry_Dorwart_img img {
+    width: 24px;
+    height: 24px;
+}
+
+
+.Terry_Dorwart_4 {
+    display: none;
+}
+
+.Terry_Dorwart_2 {
+    margin-top: 13px;
+    width: 189px;
+}
+
+
+.Terry_Dorwart_3 {
+    margin-top: 19px;
+    margin-left: 23.5%;
+}
+
+.Terry_Dorwart_5 {
+    margin-top: 19px;
 }
 
 
 
+
 }
-
-
-
-
 
 
 
 
 
 /* Taplet END ------------------------------------------------------ */
+
+
+
+
+
+
+
+
 
 
 /* Mobile start --------------------------------------- */
@@ -1827,11 +2792,33 @@
         margin-bottom: 20px;
     }
 
-    .contact {
+    .contact form {
+        height: 46px;
         display: block;
+        width: 92%;
     }
 
-   
+    .contact a {
+        height: 46px;
+        margin-top: 6%;
+    }
+
+    .contact input {
+        width: 320px;
+        margin-top: 4%;
+        margin-left: 1%;
+    }
+
+    .indexhtml {
+        height: 580px;
+        margin-top: 70%;
+    }
+
+    .contact_main {
+        display: block;
+        width: 330px;
+    }
+
     /* 8 ci seyfe bitish*************************************** */
 
 
@@ -1911,27 +2898,27 @@
         /* margin-top: 40px; */
     }
 
-    .ENDline {
-   
-    }
+    .ENDline {}
 
     .Footer_main {
         margin-top: 30px;
         height: 80vh;
     }
-    
-    .contact_main form{
+
+    .contact_main form {
         flex-direction: column;
-        background-color: var(--Background-Secondary );
+        background-color: var(--Background-Secondary);
     }
-    .contact_main form input{
+
+    .contact_main form input {
         width: 275px;
         height: 46px;
         padding: 16px;
         border-radius: 20px;
         margin-top: 10%;
     }
-    .contact_main form a{
+
+    .contact_main form a {
         width: 275px;
         padding: 1px;
         height: 46px;
@@ -1939,38 +2926,737 @@
         margin-top: 5%;
         margin-bottom: 2%;
     }
-    .contact_main form i{
-        margin-left: 22% ;
+
+    .contact_main form i {
+        margin-left: 22%;
     }
-   
-    .CONNECTCreateAccount{
-    flex-direction: column;
+
+    .CONNECTCreateAccount {
+        flex-direction: column;
     }
+
     .CONNECT_fly_into_space {
         width: 379px;
         height: 230px;
     }
+
     .CONNECT_fly_into_space img {
         width: 390px;
         height: 240px;
     }
-    .CONNECT_Create_account p{
+
+    .CONNECT_Create_account p {
         font-size: 38px;
     }
-    .CONNECT_WelcomeEnter p{
+
+    .CONNECT_WelcomeEnter p {
         margin-top: 3%;
     }
-    .CONNECT_WelcomeEnter p{
+
+    .CONNECT_WelcomeEnter p {
         font-size: 16px;
     }
+
     .CONNECT_CreateWelcome {
         margin-left: 10%;
         margin-top: 10%;
     }
-    .connect_footer{
+
+    .connect_footer {
         margin-top: 5%;
     }
-    /* ******************Main************************ */
+
+    /*? ******************Main************************ */
+
+
+    /* ! **********************MARKETPLACE*************************** */
+
+    .BrowseMarketplace {
+        margin-top: 10%;
+    }
+
+    .BrowseMarketplace p {
+        font-size: 28px;
+    }
+
+    .Browse_through_more {
+        width: 90%;
+    }
+
+    .Browse_through_more p {
+        font-size: 16px;
+    }
+
+    .Search_favourite {
+        width: 330px;
+        margin-top: 10%;
+
+    }
+
+    .Magic {
+        margin-top: 0px;
+    }
+
+    .NFTsNF p {
+        font-size: 16px;
+    }
+
+    .NFTsNF302 {
+        display: none;
+    }
+
+    .CollectionsCol p {
+        font-size: 16px;
+    }
+
+    .CollectionsCol67 {
+        display: none;
+    }
+
+    .NFTsCollections {
+        margin-top: 7%;
+    }
+
+    .MagicAndHappyRobot032 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .HappyRobot032 {
+        margin-top: 0px;
+    }
+
+    .Colorful_Dog_0356 {
+        display: none;
+    }
+
+    .Designer_Bear {
+        margin-top: 0px;
+    }
+
+    .Cherry_Blossom_Girl_035_And_SpaceTravel {
+        flex-direction: column;
+        display: flex;
+    }
+
+    .Cherry_Blossom_Girl_035 {
+        margin-top: 0px;
+    }
+
+    .SpaceTravel {
+        margin-top: 0px;
+    }
+
+
+/* ! ******************* Rankings **************************** */
+
+.TodayThisWeek{
+    display: none;
+}
+.TodayThisWeek_media{
+    display: flex;
+}
+.TodayThisWeek_media .Today{
+    width: 80px;
+    margin-left: 5%;
+}
+.TodayThisWeek_media .This_Week{
+    margin-left: 10%;
+}
+.TodayThisWeek_media .This_Month{
+    margin-left: 10%;
+}
+.TodayThisWeek_media .All_Time{
+    margin-left: 10%;
+}
+.ChangeNFTsVolume li:nth-child(1){
+    display: none;
+}
+.ChangeNFTsVolume li:nth-child(3){
+    margin-left: 23%;
+}
+.ArtistChangeSoldVolume{
+    width: 338px;
+}
+.Artist {
+    margin-top: 3%;
+}
+.ChangeNFTsVolume {
+    margin-top: 3%;
+}
+
+/* 1 ci ******************************* */
+.Jaydon_Ekstrom_Bothman_1{
+    left: 4px;
+}
+.Jaydon_Ekstrom_Bothman{
+    width: 338px;
+}
+.Jaydon_Ekstrom_{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Jaydon_Ekstrom_ p{
+    font-size: 16px;
+}
+.Jaydon_Ekstrom_141{
+    display: none;
+}
+.Jaydon_Ekstrom_Bothman_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+.Jaydon_Ekstrom_124 p{
+    font-size: 12px;
+    width: 80px;
+}
+
+/* 2 ci ************************ */
+
+.Ruben_Carder_1{
+    left: 4px;
+}
+.Ruben_Carder{
+    width: 338px;
+}
+.Ruben_Carder_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Ruben_Carder_2 p{
+    font-size: 16px;
+}
+.Ruben_Carder_3{
+    display: none;
+}
+.Ruben_Carder_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Ruben_Carder_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 30px;
+}
+
+/* 3 cu *********************** */
+
+.Alfredo_Septimus_1{
+    left: 4px;
+}
+.Alfredo_Septimus{
+    width: 338px;
+}
+.Alfredo_Septimus_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Alfredo_Septimus_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Alfredo_Septimus_3{
+    display: none;
+}
+.Alfredo_Septimus_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Alfredo_Septimus_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+/* 4 cu ************************ */
+
+.Davis_Franci_1{
+    left: 4px;
+}
+.Davis_Franci{
+    width: 338px;
+}
+.Davis_Franci_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Davis_Franci_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Davis_Franci_3{
+    display: none;
+}
+.Davis_Franci_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Davis_Franci_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+/* 5 ci *************************************** */
+.Livia_Rosser_1{
+    left: 4px;
+}
+.Livia_Rosser{
+    width: 338px;
+}
+.Livia_Rosser_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Livia_Rosser_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Livia_Rosser_3{
+    display: none;
+}
+.Livia_Rosser_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Livia_Rosser_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+/* 6 ci ***************** */
+.Kianna_Donin_1{
+    left: 4px;
+}
+.Kianna_Donin{
+    width: 338px;
+}
+.Kianna_Donin_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Kianna_Donin_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Kianna_Donin_3{
+    display: none;
+}
+.Kianna_Donin_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Kianna_Donin_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+/* 7 ci ********************* */
+
+.Phillip_Lipshutz_1{
+    left: 4px;
+}
+.Phillip_Lipshutz{
+    width: 338px;
+}
+.Phillip_Lipshutz_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Phillip_Lipshutz_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Phillip_Lipshutz_3{
+    display: none;
+}
+.Phillip_Lipshutz_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Phillip_Lipshutz_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+
+/* 8 ci *************************** */
+
+
+.Maria_Rosser_1{
+    left: 4px;
+}
+.Maria_Rosser{
+    width: 338px;
+}
+.Maria_Rosser_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Maria_Rosser_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Maria_Rosser_3{
+    display: none;
+}
+.Maria_Rosser_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Maria_Rosser_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+/* 9 cu ****************************** */
+.Kianna_Stanton_1{
+    left: 4px;
+}
+.Kianna_Stanton{
+    width: 338px;
+}
+.Kianna_Stanton_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Kianna_Stanton_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Kianna_Stanton_3{
+    display: none;
+}
+.Kianna_Stanton_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Kianna_Stanton_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+/* 10 cu ************************** */
+.Angel_Lubin_1{
+    left: 4px;
+}
+.Angel_Lubin{
+    width: 338px;
+}
+.Angel_Lubin_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Angel_Lubin_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Angel_Lubin_3{
+    display: none;
+}
+.Angel_Lubin_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Angel_Lubin_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+/* 11 ci ********************** */
+.Allison_Torff_1{
+    left: 4px;
+}
+.Allison_Torff{
+    width: 338px;
+}
+.Allison_Torff_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Allison_Torff_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Allison_Torff_3{
+    display: none;
+}
+.Allison_Torff_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Allison_Torff_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+/* 12 ci ********************* */
+.Davis_Workman_1{
+    left: 4px;
+}
+.Davis_Workman{
+    width: 338px;
+}
+.Davis_Workman_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Davis_Workman_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Davis_Workman_3{
+    display: none;
+}
+.Davis_Workman_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Davis_Workman_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+
+/* 13 cu ************************************* */
+
+.Lindsey_Lipshutz_1{
+    left: 4px;
+}
+.Lindsey_Lipshutz{
+    width: 338px;
+}
+.Lindsey_Lipshutz_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Lindsey_Lipshutz_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Lindsey_Lipshutz_3{
+    display: none;
+}
+.Lindsey_Lipshutz_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Lindsey_Lipshutz_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+/* 14 cu *********************** */
+.Randy_Carder_1{
+    left: 4px;
+}
+.Randy_Carder{
+    width: 338px;
+}
+.Randy_Carder_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Randy_Carder_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Randy_Carder_3{
+    display: none;
+}
+.Randy_Carder_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Randy_Carder_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+/* 15 ci **************************** */
+.Lydia_Culhane_1{
+    left: 4px;
+}
+.Lydia_Culhane{
+    width: 338px;
+}
+.Lydia_Culhane_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Lydia_Culhane_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Lydia_Culhane_3{
+    display: none;
+}
+.Lydia_Culhane_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Lydia_Culhane_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+/* 16 ci *********************************** */
+.Rayna_Bator_1{
+    left: 4px;
+}
+.Rayna_Bator{
+    width: 338px;
+}
+.Rayna_Bator_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Rayna_Bator_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Rayna_Bator_3{
+    display: none;
+}
+.Rayna_Bator_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Rayna_Bator_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+
+/* 17 ci ********************************** */
+.Jocelyn_Westervelt_1{
+    left: 4px;
+}
+.Jocelyn_Westervelt{
+    width: 338px;
+}
+.Jocelyn_Westervelt_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Jocelyn_Westervelt_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Jocelyn_Westervelt_3{
+    display: none;
+}
+.Jocelyn_Westervelt_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Jocelyn_Westervelt_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+/* 18 ci ****************************** */
+
+.Marilyn_Torff_1{
+    left: 4px;
+}
+.Marilyn_Torff{
+    width: 338px;
+}
+.Marilyn_Torff_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Marilyn_Torff_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Marilyn_Torff_3{
+    display: none;
+}
+.Marilyn_Torff_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Marilyn_Torff_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+/* 19 cu ***************************** */
+.Skylar_Levin_1{
+    left: 4px;
+}
+.Skylar_Levin{
+    width: 338px;
+}
+.Skylar_Levin_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Skylar_Levin_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Skylar_Levin_3{
+    display: none;
+}
+.Skylar_Levin_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Skylar_Levin_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+/* 20 ci ************************** */
+
+.Terry_Dorwart_1{
+    left: 4px;
+}
+.Terry_Dorwart{
+    width: 338px;
+}
+.Terry_Dorwart_2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Terry_Dorwart_2 p{
+    font-size: 16px;
+    width: max-content;
+}
+.Terry_Dorwart_3{
+    display: none;
+}
+.Terry_Dorwart_img{
+    margin-top: 18px;
+    margin-left: 34px;
+}
+
+.Terry_Dorwart_5 p{
+    font-size: 12px;
+    width: 80px;
+    margin-left: 4px;
+}
+
+
 
 
 
@@ -1978,7 +3664,6 @@
 
 
 }
-
 
 
 

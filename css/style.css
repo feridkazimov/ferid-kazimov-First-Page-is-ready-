@@ -2905,7 +2905,7 @@
 
 
 /* 9 cu seyfe basliq ------------------------------------------- */
-footer {
+.indexhtml {
     width: 100%;
     height: 334px;
     background-color: var(--Background-Secondary);
@@ -3117,7 +3117,7 @@ footer {
 
 
 
-/* *****************CreateAccount********************* */
+/* ! *****************CreateAccount********************* */
 
 .CreateAccount {
     display: flex;
@@ -3428,7 +3428,9 @@ form input::placeholder {
     font-family: "Work Sans";
     font-weight: 600;
 }
-
+.Footer_main{
+    background-color: var(--Background-Secondary);
+}
 /* *********************************************** */
 /* 5 ci input ******************************* */
 
@@ -3439,7 +3441,9 @@ form input::placeholder {
 
 /*? **************CONNECT **********************/
 
-
+.connect_footer{
+    background-color: var(--Background-Secondary);
+}
 
 
 /* ************IMG************************* */
@@ -3913,7 +3917,9 @@ form input::placeholder {
 }
 
 /* 2  ci sekil son********************************************** */
-
+.MagicAndHappyRobot032{
+    display: flex;
+}
 
 /* 3  cu sekil *********************************** */
 .HappyRobot024 {
@@ -4180,7 +4186,9 @@ form input::placeholder {
     justify-content: center;
     background-color: var(--Background-Secondary);
 }
-
+.Cherry_Blossom_Girl_035_And_SpaceTravel{
+    display: flex;
+}
 /* *************************************** */
 
 
@@ -4759,7 +4767,7 @@ form input::placeholder {
     font-weight: 400;
     line-height: 140%;
     margin-top: 30px;
-    margin-left: 22%;
+    margin-left: 30%;
 }
 
 .Jaydon_Ekstrom_602 {
@@ -6241,7 +6249,7 @@ form input::placeholder {
     font-weight: 400;
     line-height: 140%;
     margin-top: 30px;
-    margin-left: 28%;
+    margin-left: 31.6%;
 }
 
 .Jocelyn_Westervelt_4 {
@@ -6544,4 +6552,8 @@ form input::placeholder {
     margin-left: 15%;
 }
 
+
+.TodayThisWeek_media{
+    display: none;
+}
 /* ! ************************************************************** */
