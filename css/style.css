@@ -4605,6 +4605,7 @@ form input::placeholder {
     border-bottom: #858584 solid 1px;
     width: 175px;
     height: 45px;
+    cursor: pointer;
 }
 
 .Today p {
@@ -4627,6 +4628,7 @@ form input::placeholder {
     font-weight: 600;
     line-height: 140%;
     text-transform: capitalize;
+    cursor: pointer;
 }
 
 .This_Month p {
@@ -4638,6 +4640,7 @@ form input::placeholder {
     font-weight: 600;
     line-height: 140%;
     text-transform: capitalize;
+    cursor: pointer;
 }
 
 .All_Time p {
@@ -4649,6 +4652,7 @@ form input::placeholder {
     font-weight: 600;
     line-height: 140%;
     text-transform: capitalize;
+    cursor: pointer;
 }
 
 .ArtistChangeSoldVolume {

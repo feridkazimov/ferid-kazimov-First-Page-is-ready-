@@ -296,7 +296,11 @@
     .GravityOneGrav p {
         margin-left: -20%;
     }
-
+.TotalSales-33{
+    display: flex;
+    gap: 10px;
+    margin-top: 7px;
+}
     /* 3 cu sekil ----- */
 
 
@@ -1132,7 +1136,7 @@
     .Browse_through_more p {
         font-size: 16px;
     }
-
+   
     .Today p {
         font-size: 16px;
     }
@@ -2117,7 +2121,7 @@
 
     .Dog img {
         height: 360px;
-        margin-left: 3%;
+        margin-left: 5%;
     }
 
     .DSGNAnimals {
@@ -2155,9 +2159,11 @@
 
     .Keepitreal {
         margin: auto;
-        margin-top: 3%;
+        margin-top: 10%;
     }
-
+.TopCreators{
+    margin-top: 20%;
+}
     .ContainerTopCreators1 {
         width: 99%;
         margin-top: 0;
@@ -2199,7 +2205,9 @@
         margin-left: 8.5%;
         margin-top: 3%;
     }
-
+    .CheckoutTopRated p {
+        margin-top: 5%;
+    }
     .Juanie {
         margin-top: 3%;
     }
@@ -2208,7 +2216,21 @@
         margin-right: 6%;
     }
 
-
+    .navbar_number1{
+        margin-right: 40px;
+    }
+    .navbar_number2{
+        margin-right: 50px;
+    }
+    .walletIcon{
+        margin-left: 3%;
+    }
+    .MusicIcon{
+        margin-left: 3%;
+    }
+    .pannierIcon{
+        margin-left: 3%;
+    }
     /* 3 cu seyfe bitish --------------------------------- */
 
     /* 1 ci seyfe mobile */
