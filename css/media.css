@@ -296,11 +296,13 @@
     .GravityOneGrav p {
         margin-left: -20%;
     }
-.TotalSales-33{
-    display: flex;
-    gap: 10px;
-    margin-top: 7px;
-}
+
+    .TotalSales-33 {
+        display: flex;
+        gap: 10px;
+        margin-top: 7px;
+    }
+
     /* 3 cu sekil ----- */
 
 
@@ -457,16 +459,19 @@
 
     /* 4 cu seyfe basliq ------------------------------ */
 
-
     .oneBrowseCategories {
         display: flex;
-        justify-content: space-between;
+
         overflow: hidden;
         margin-top: 2%;
-        margin: 30px 9%;
+        margin: 30px 55px;
     }
 
     /* 1 ci ---------------------- */
+    .dolphin {
+        border-radius: 20px 20px 20px 0px;
+    }
+
     .dolphin img:first-child {
         width: 150px;
         height: 142px;
@@ -480,6 +485,10 @@
         left: 50px;
         transform: translate(-25%, -25%);
 
+    }
+
+    .Art {
+        width: 225px;
     }
 
     .Art p {
@@ -496,6 +505,11 @@
     /* 1 ci ------------------------------------- */
 
     /* 2 ci ------------------------------------ */
+
+    .monkey {
+        border-radius: 20px 20px 20px 0px;
+    }
+
     .monkey img:first-child {
         width: 150px;
         height: 142px;
@@ -511,6 +525,10 @@
 
     }
 
+    .Collectibles {
+        width: 225px;
+    }
+
     .Collectibles p {
         font-family: "Work Sans";
         font-size: 16px;
@@ -524,7 +542,14 @@
 
     /* 2 ci -------------------------------------- */
 
+
+
     /* 3 cu ----------------------------- */
+    .music {
+        border-radius: 20px 20px 20px 0px;
+        width: 219px;
+    }
+
     .music img:first-child {
         width: 150px;
         height: 142px;
@@ -537,6 +562,10 @@
         top: 50px;
         left: 50px;
         transform: translate(-25%, -25%);
+    }
+
+    .MusicM {
+        width: 207px;
     }
 
     .MusicM p {
@@ -553,6 +582,12 @@
     /* 3 cu ---------------------------- */
 
     /* 4 cu ---------------------------- */
+    .photographer {
+        border-radius: 20px 20px 20px 0px;
+    }
+.PhotographyPhoto{
+    width: 220px;
+}
     .photographer img:first-child {
         width: 150px;
         height: 142px;
@@ -584,8 +619,13 @@
 
 
     /* 5 ci --------------------------- */
+    .twoBrowseCategories {
+        margin: 30px 55px;
+    }
 
-
+    .video-player {
+        border-radius: 20px 20px 20px 0px;
+    }
 
     .video-player img:first-child {
         width: 150px;
@@ -600,6 +640,10 @@
         left: 50px;
         transform: translate(-15%, -25%);
 
+    }
+
+    .Video {
+        width: 225px;
     }
 
     .Video p {
@@ -621,6 +665,11 @@
 
 
     /* 6 ci ------------------------------------- */
+
+    .Utility {
+        border-radius: 20px 20px 20px 0px;
+        width: 225px;
+    }
 
     .Utility img:first-child {
         width: 150px;
@@ -648,9 +697,14 @@
     }
 
 
+
     /* 6 ci ----------------------------------- */
 
     /* 7 ci ------------------------------ */
+
+    .Sport {
+        border-radius: 20px 20px 20px 0px;
+    }
 
     .Sport img:first-child {
         width: 150px;
@@ -664,6 +718,10 @@
         top: 50px;
         left: 50px;
         transform: translate(-19%, -25%);
+    }
+
+    .SportSpor {
+        width: 207px;
     }
 
     .SportSpor p {
@@ -681,6 +739,12 @@
 
 
     /* 8 ci ------------------------------ */
+    .Virtual-Worlds{
+        border-radius: 20px 20px 20px 0px;
+    }
+.VirtualWorlds{
+    width: 220px;
+}
 
     .Virtual-Worlds img:first-child {
         width: 150px;
@@ -1136,7 +1200,7 @@
     .Browse_through_more p {
         font-size: 16px;
     }
-   
+
     .Today p {
         font-size: 16px;
     }
@@ -1182,47 +1246,47 @@
         width: 720px;
         height: 60px;
     }
-    
+
     .Jaydon_Ekstrom_Bothman_1 {
         background-color: var(--Background-Secondary);
     }
-    
+
     .Jaydon_Ekstrom_Bothman_img {
         width: 24px;
         height: 24px;
         margin-left: 45px;
         margin-top: 17px;
     }
-    
+
     .Jaydon_Ekstrom_Bothman_img img {
         width: 24px;
         height: 24px;
     }
-    
+
     .Jaydon_Ekstrom_Bothman_1 {
         top: 15px;
     }
-    
+
     .Jaydon_Ekstrom_602 {
         display: none;
     }
-    
+
     .Jaydon_Ekstrom_ {
         margin-top: 13px;
         width: 189px;
     }
-    
-    
+
+
     .Jaydon_Ekstrom_141 {
         margin-top: 19px;
         margin-left: 23.5%;
     }
-    
+
     .Jaydon_Ekstrom_124 {
         margin-top: 19px;
     }
-    
-    
+
+
     /* 2 c i************************************************ */
 
     .Ruben_Carder {
@@ -1313,747 +1377,755 @@
     .Alfredo_Septimus_5 {
         margin-top: 19px;
     }
-/* *****4 cu ********************** */
-.Davis_Franci {
-    width: 720px;
-    height: 60px;
-}
-
-.Davis_Franci_1 {
-    background-color: var(--Background-Secondary);
-}
-
-.Davis_Franci_img {
-    width: 24px;
-    height: 24px;
-    margin-left: 45px;
-    margin-top: 17px;
-}
-
-.Davis_Franci_img img {
-    width: 24px;
-    height: 24px;
-}
-
-.Davis_Franci_1 {
-    top: 15px;
-}
-
-.Davis_Franci_4 {
-    display: none;
-}
-
-.Davis_Franci_2 {
-    margin-top: 13px;
-    width: 189px;
-}
-
-
-.Davis_Franci_3 {
-    margin-top: 19px;
-    margin-left: 23.5%;
-}
-
-.Davis_Franci_5 {
-    margin-top: 19px;
-}
-
-/* 5 ci *************************************** */
-.Livia_Rosser {
-    width: 720px;
-    height: 60px;
-}
-
-.Livia_Rosser_1 {
-    background-color: var(--Background-Secondary);
-}
-
-.Livia_Rosser_img {
-    width: 24px;
-    height: 24px;
-    margin-left: 45px;
-    margin-top: 17px;
-}
-
-.Livia_Rosser_img img {
-    width: 24px;
-    height: 24px;
-}
-
-.Livia_Rosser_1 {
-    top: 15px;
-}
-
-.Livia_Rosser_4 {
-    display: none;
-}
-
-.Livia_Rosser_2 {
-    margin-top: 13px;
-    width: 189px;
-}
-
-
-.Livia_Rosser_3 {
-    margin-top: 19px;
-    margin-left: 23.5%;
-}
-
-.Livia_Rosser_5 {
-    margin-top: 19px;
-}
-
-/* 6 ci ******************************* */
-
-.Kianna_Donin {
-    width: 720px;
-    height: 60px;
-}
-
-.Kianna_Donin_1 {
-    background-color: var(--Background-Secondary);
-}
-
-.Kianna_Donin_img {
-    width: 24px;
-    height: 24px;
-    margin-left: 45px;
-    margin-top: 17px;
-}
-
-.Kianna_Donin_img img {
-    width: 24px;
-    height: 24px;
-}
-
-.Kianna_Donin_1 {
-    top: 15px;
-}
 
-.Kianna_Donin_4 {
-    display: none;
-}
+    /* *****4 cu ********************** */
+    .Davis_Franci {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Davis_Franci_1 {
+        background-color: var(--Background-Secondary);
+    }
+
+    .Davis_Franci_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Davis_Franci_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+    .Davis_Franci_1 {
+        top: 15px;
+    }
+
+    .Davis_Franci_4 {
+        display: none;
+    }
+
+    .Davis_Franci_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
+
+    .Davis_Franci_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+
+    .Davis_Franci_5 {
+        margin-top: 19px;
+    }
+
+    /* 5 ci *************************************** */
+    .Livia_Rosser {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Livia_Rosser_1 {
+        background-color: var(--Background-Secondary);
+    }
+
+    .Livia_Rosser_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Livia_Rosser_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+    .Livia_Rosser_1 {
+        top: 15px;
+    }
+
+    .Livia_Rosser_4 {
+        display: none;
+    }
+
+    .Livia_Rosser_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
+
+    .Livia_Rosser_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+
+    .Livia_Rosser_5 {
+        margin-top: 19px;
+    }
+
+    /* 6 ci ******************************* */
+
+    .Kianna_Donin {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Kianna_Donin_1 {
+        background-color: var(--Background-Secondary);
+    }
+
+    .Kianna_Donin_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Kianna_Donin_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+    .Kianna_Donin_1 {
+        top: 15px;
+    }
+
+    .Kianna_Donin_4 {
+        display: none;
+    }
+
+    .Kianna_Donin_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
 
-.Kianna_Donin_2 {
-    margin-top: 13px;
-    width: 189px;
-}
-
+    .Kianna_Donin_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
 
-.Kianna_Donin_3 {
-    margin-top: 19px;
-    margin-left: 23.5%;
-}
+    .Kianna_Donin_5 {
+        margin-top: 19px;
+    }
+
+    /* 7 ci ************************************* */
+
+    .Phillip_Lipshutz {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Phillip_Lipshutz_1 {
+        background-color: var(--Background-Secondary);
+        top: 15px;
+    }
+
+    .Phillip_Lipshutz_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Phillip_Lipshutz_img img {
+        width: 24px;
+        height: 24px;
+    }
 
-.Kianna_Donin_5 {
-    margin-top: 19px;
-}
-
-/* 7 ci ************************************* */
-
-.Phillip_Lipshutz {
-    width: 720px;
-    height: 60px;
-}
-
-.Phillip_Lipshutz_1 {
-    background-color: var(--Background-Secondary);
-    top: 15px;
-}
-
-.Phillip_Lipshutz_img {
-    width: 24px;
-    height: 24px;
-    margin-left: 45px;
-    margin-top: 17px;
-}
-
-.Phillip_Lipshutz_img img {
-    width: 24px;
-    height: 24px;
-}
-
-
-.Phillip_Lipshutz_4 {
-    display: none;
-}
-
-.Phillip_Lipshutz_2 {
-    margin-top: 13px;
-    width: 189px;
-}
-
-
-.Phillip_Lipshutz_3 {
-    margin-top: 19px;
-    margin-left: 23.5%;
-}
-
-.Phillip_Lipshutz_5 {
-    margin-top: 19px;
-}
-
-/* 8 ci ************************************** */
-
-.Maria_Rosser {
-    width: 720px;
-    height: 60px;
-}
-
-.Maria_Rosser_1 {
-    background-color: var(--Background-Secondary);
-    top: 15px;
-}
-
-.Maria_Rosser_img {
-    width: 24px;
-    height: 24px;
-    margin-left: 45px;
-    margin-top: 17px;
-}
-
-.Maria_Rosser_img img {
-    width: 24px;
-    height: 24px;
-}
-
-
-.Maria_Rosser_4 {
-    display: none;
-}
-
-.Maria_Rosser_2 {
-    margin-top: 13px;
-    width: 189px;
-}
-
-
-.Maria_Rosser_3 {
-    margin-top: 19px;
-    margin-left: 23.5%;
-}
-
-.Maria_Rosser_5 {
-    margin-top: 19px;
-}
-
-/* 9 cu ********************************* */
-
-.Kianna_Stanton {
-    width: 720px;
-    height: 60px;
-}
-
-.Kianna_Stanton_1 {
-    background-color: var(--Background-Secondary);
-    top: 15px;
-}
-
-.Kianna_Stanton_img {
-    width: 24px;
-    height: 24px;
-    margin-left: 45px;
-    margin-top: 17px;
-}
-
-.Kianna_Stanton_img img {
-    width: 24px;
-    height: 24px;
-}
-
-
-.Kianna_Stanton_4 {
-    display: none;
-}
-
-.Kianna_Stanton_2 {
-    margin-top: 13px;
-    width: 189px;
-}
-
-
-.Kianna_Stanton_3 {
-    margin-top: 19px;
-    margin-left: 23.5%;
-}
-
-.Kianna_Stanton_5 {
-    margin-top: 19px;
-}
-/* 10 cu ***************************************** */
-.Angel_Lubin {
-    width: 720px;
-    height: 60px;
-}
-
-.Angel_Lubin_1 {
-    background-color: var(--Background-Secondary);
-    top: 15px;
-}
-
-.Angel_Lubin_img {
-    width: 24px;
-    height: 24px;
-    margin-left: 45px;
-    margin-top: 17px;
-}
-
-.Angel_Lubin_img img {
-    width: 24px;
-    height: 24px;
-}
-
-
-.Angel_Lubin_4 {
-    display: none;
-}
-
-.Angel_Lubin_2 {
-    margin-top: 13px;
-    width: 189px;
-}
-
-
-.Angel_Lubin_3 {
-    margin-top: 19px;
-    margin-left: 23.5%;
-}
-
-.Angel_Lubin_5 {
-    margin-top: 19px;
-}
-/* 11 ci ********************************** */
-
-.Allison_Torff {
-    width: 720px;
-    height: 60px;
-}
-
-.Allison_Torff_1 {
-    background-color: var(--Background-Secondary);
-    top: 15px;
-}
-
-.Allison_Torff_img {
-    width: 24px;
-    height: 24px;
-    margin-left: 45px;
-    margin-top: 17px;
-}
-
-.Allison_Torff_img img {
-    width: 24px;
-    height: 24px;
-}
-
-
-.Allison_Torff_4 {
-    display: none;
-}
-
-.Allison_Torff_2 {
-    margin-top: 13px;
-    width: 189px;
-}
-
-
-.Allison_Torff_3 {
-    margin-top: 19px;
-    margin-left: 23.5%;
-}
-
-.Allison_Torff_5 {
-    margin-top: 19px;
-}
-/* 12 ci ************************************* */
-.Davis_Workman {
-    width: 720px;
-    height: 60px;
-}
-
-.Davis_Workman_1 {
-    background-color: var(--Background-Secondary);
-    top: 15px;
-}
-
-.Davis_Workman_img {
-    width: 24px;
-    height: 24px;
-    margin-left: 45px;
-    margin-top: 17px;
-}
-
-.Davis_Workman_img img {
-    width: 24px;
-    height: 24px;
-}
-
-
-.Davis_Workman_4 {
-    display: none;
-}
-
-.Davis_Workman_2 {
-    margin-top: 13px;
-    width: 189px;
-}
-
-
-.Davis_Workman_3 {
-    margin-top: 19px;
-    margin-left: 23.5%;
-}
-
-.Davis_Workman_5 {
-    margin-top: 19px;
-}
-
-/* 13 cu ************************************* */
-.Lindsey_Lipshutz {
-    width: 720px;
-    height: 60px;
-}
-
-.Lindsey_Lipshutz_1 {
-    background-color: var(--Background-Secondary);
-    top: 15px;
-}
-
-.Lindsey_Lipshutz_img {
-    width: 24px;
-    height: 24px;
-    margin-left: 45px;
-    margin-top: 17px;
-}
-
-.Lindsey_Lipshutz_img img {
-    width: 24px;
-    height: 24px;
-}
-
-
-.Lindsey_Lipshutz_4 {
-    display: none;
-}
-
-.Lindsey_Lipshutz_2 {
-    margin-top: 13px;
-    width: 189px;
-}
-
-
-.Lindsey_Lipshutz_3 {
-    margin-top: 19px;
-    margin-left: 23.5%;
-}
-
-.Lindsey_Lipshutz_5 {
-    margin-top: 19px;
-}
-
-/* 14 cu ************************************* */
-
-.Randy_Carder {
-    width: 720px;
-    height: 60px;
-}
-
-.Randy_Carder_1 {
-    background-color: var(--Background-Secondary);
-    top: 15px;
-}
-
-.Randy_Carder_img {
-    width: 24px;
-    height: 24px;
-    margin-left: 45px;
-    margin-top: 17px;
-}
-
-.Randy_Carder_img img {
-    width: 24px;
-    height: 24px;
-}
-
-
-.Randy_Carder_4 {
-    display: none;
-}
-
-.Randy_Carder_2 {
-    margin-top: 13px;
-    width: 189px;
-}
-
-
-.Randy_Carder_3 {
-    margin-top: 19px;
-    margin-left: 23.5%;
-}
-
-.Randy_Carder_5 {
-    margin-top: 19px;
-}
-
-/* 15 ci ***************************** */
-
-.Lydia_Culhane {
-    width: 720px;
-    height: 60px;
-}
-
-.Lydia_Culhane_1 {
-    background-color: var(--Background-Secondary);
-    top: 15px;
-}
-
-.Lydia_Culhane_img {
-    width: 24px;
-    height: 24px;
-    margin-left: 45px;
-    margin-top: 17px;
-}
-
-.Lydia_Culhane_img img {
-    width: 24px;
-    height: 24px;
-}
-
-
-.Lydia_Culhane_4 {
-    display: none;
-}
-
-.Lydia_Culhane_2 {
-    margin-top: 13px;
-    width: 189px;
-}
-
-
-.Lydia_Culhane_3 {
-    margin-top: 19px;
-    margin-left: 23.5%;
-}
-
-.Lydia_Culhane_5 {
-    margin-top: 19px;
-}
-/* 16 ci *********************************** */
-
-.Rayna_Bator {
-    width: 720px;
-    height: 60px;
-}
-
-.Rayna_Bator_1 {
-    background-color: var(--Background-Secondary);
-    top: 15px;
-}
-
-.Rayna_Bator_img {
-    width: 24px;
-    height: 24px;
-    margin-left: 45px;
-    margin-top: 17px;
-}
-
-.Rayna_Bator_img img {
-    width: 24px;
-    height: 24px;
-}
-
-
-.Rayna_Bator_4 {
-    display: none;
-}
-
-.Rayna_Bator_2 {
-    margin-top: 13px;
-    width: 189px;
-}
-
-
-.Rayna_Bator_3 {
-    margin-top: 19px;
-    margin-left: 23.5%;
-}
-
-.Rayna_Bator_5 {
-    margin-top: 19px;
-}
-
-/* 17 ci ************************************ */
-
-.Jocelyn_Westervelt {
-    width: 720px;
-    height: 60px;
-}
-
-.Jocelyn_Westervelt_1 {
-    background-color: var(--Background-Secondary);
-    top: 15px;
-}
-
-.Jocelyn_Westervelt_img {
-    width: 24px;
-    height: 24px;
-    margin-left: 45px;
-    margin-top: 17px;
-}
-
-.Jocelyn_Westervelt_img img {
-    width: 24px;
-    height: 24px;
-}
-
-
-.Jocelyn_Westervelt_4 {
-    display: none;
-}
-
-.Jocelyn_Westervelt_2 {
-    margin-top: 13px;
-    width: 189px;
-}
-
-
-.Jocelyn_Westervelt_3 {
-    margin-top: 19px;
-    margin-left: 23.5%;
-}
-
-.Jocelyn_Westervelt_5 {
-    margin-top: 19px;
-}
-/* 18 ci ************************************* */
-
-.Marilyn_Torff {
-    width: 720px;
-    height: 60px;
-}
-
-.Marilyn_Torff_1 {
-    background-color: var(--Background-Secondary);
-    top: 15px;
-}
-
-.Marilyn_Torff_img {
-    width: 24px;
-    height: 24px;
-    margin-left: 45px;
-    margin-top: 17px;
-}
-
-.Marilyn_Torff_img img {
-    width: 24px;
-    height: 24px;
-}
-
-
-.Marilyn_Torff_4 {
-    display: none;
-}
-
-.Marilyn_Torff_2 {
-    margin-top: 13px;
-    width: 189px;
-}
-
-
-.Marilyn_Torff_3 {
-    margin-top: 19px;
-    margin-left: 23.5%;
-}
-
-.Marilyn_Torff_5 {
-    margin-top: 19px;
-}
-/* 19 cu ***************************** */
-
-.Skylar_Levin {
-    width: 720px;
-    height: 60px;
-}
-
-.Skylar_Levin_1 {
-    background-color: var(--Background-Secondary);
-    top: 15px;
-}
-
-.Skylar_Levin_img {
-    width: 24px;
-    height: 24px;
-    margin-left: 45px;
-    margin-top: 17px;
-}
-
-.Skylar_Levin_img img {
-    width: 24px;
-    height: 24px;
-}
-
-
-.Skylar_Levin_4 {
-    display: none;
-}
-
-.Skylar_Levin_2 {
-    margin-top: 13px;
-    width: 189px;
-}
-
-
-.Skylar_Levin_3 {
-    margin-top: 19px;
-    margin-left: 23.5%;
-}
-
-.Skylar_Levin_5 {
-    margin-top: 19px;
-}
-/* 20 ci *************************************** */
-
-.Terry_Dorwart {
-    width: 720px;
-    height: 60px;
-}
-
-.Terry_Dorwart_1 {
-    background-color: var(--Background-Secondary);
-    top: 15px;
-}
-
-.Terry_Dorwart_img {
-    width: 24px;
-    height: 24px;
-    margin-left: 45px;
-    margin-top: 17px;
-}
-
-.Terry_Dorwart_img img {
-    width: 24px;
-    height: 24px;
-}
-
-
-.Terry_Dorwart_4 {
-    display: none;
-}
-
-.Terry_Dorwart_2 {
-    margin-top: 13px;
-    width: 189px;
-}
-
-
-.Terry_Dorwart_3 {
-    margin-top: 19px;
-    margin-left: 23.5%;
-}
-
-.Terry_Dorwart_5 {
-    margin-top: 19px;
-}
+
+    .Phillip_Lipshutz_4 {
+        display: none;
+    }
+
+    .Phillip_Lipshutz_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
+
+    .Phillip_Lipshutz_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+
+    .Phillip_Lipshutz_5 {
+        margin-top: 19px;
+    }
+
+    /* 8 ci ************************************** */
+
+    .Maria_Rosser {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Maria_Rosser_1 {
+        background-color: var(--Background-Secondary);
+        top: 15px;
+    }
+
+    .Maria_Rosser_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Maria_Rosser_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+
+    .Maria_Rosser_4 {
+        display: none;
+    }
+
+    .Maria_Rosser_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
+
+    .Maria_Rosser_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+
+    .Maria_Rosser_5 {
+        margin-top: 19px;
+    }
+
+    /* 9 cu ********************************* */
+
+    .Kianna_Stanton {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Kianna_Stanton_1 {
+        background-color: var(--Background-Secondary);
+        top: 15px;
+    }
+
+    .Kianna_Stanton_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Kianna_Stanton_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+
+    .Kianna_Stanton_4 {
+        display: none;
+    }
+
+    .Kianna_Stanton_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
+
+    .Kianna_Stanton_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+
+    .Kianna_Stanton_5 {
+        margin-top: 19px;
+    }
+
+    /* 10 cu ***************************************** */
+    .Angel_Lubin {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Angel_Lubin_1 {
+        background-color: var(--Background-Secondary);
+        top: 15px;
+    }
+
+    .Angel_Lubin_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Angel_Lubin_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+
+    .Angel_Lubin_4 {
+        display: none;
+    }
+
+    .Angel_Lubin_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
+
+    .Angel_Lubin_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+
+    .Angel_Lubin_5 {
+        margin-top: 19px;
+    }
+
+    /* 11 ci ********************************** */
+
+    .Allison_Torff {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Allison_Torff_1 {
+        background-color: var(--Background-Secondary);
+        top: 15px;
+    }
+
+    .Allison_Torff_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Allison_Torff_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+
+    .Allison_Torff_4 {
+        display: none;
+    }
+
+    .Allison_Torff_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
+
+    .Allison_Torff_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+
+    .Allison_Torff_5 {
+        margin-top: 19px;
+    }
+
+    /* 12 ci ************************************* */
+    .Davis_Workman {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Davis_Workman_1 {
+        background-color: var(--Background-Secondary);
+        top: 15px;
+    }
+
+    .Davis_Workman_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Davis_Workman_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+
+    .Davis_Workman_4 {
+        display: none;
+    }
+
+    .Davis_Workman_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
+
+    .Davis_Workman_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+
+    .Davis_Workman_5 {
+        margin-top: 19px;
+    }
+
+    /* 13 cu ************************************* */
+    .Lindsey_Lipshutz {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Lindsey_Lipshutz_1 {
+        background-color: var(--Background-Secondary);
+        top: 15px;
+    }
+
+    .Lindsey_Lipshutz_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Lindsey_Lipshutz_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+
+    .Lindsey_Lipshutz_4 {
+        display: none;
+    }
+
+    .Lindsey_Lipshutz_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
+
+    .Lindsey_Lipshutz_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+
+    .Lindsey_Lipshutz_5 {
+        margin-top: 19px;
+    }
+
+    /* 14 cu ************************************* */
+
+    .Randy_Carder {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Randy_Carder_1 {
+        background-color: var(--Background-Secondary);
+        top: 15px;
+    }
+
+    .Randy_Carder_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Randy_Carder_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+
+    .Randy_Carder_4 {
+        display: none;
+    }
+
+    .Randy_Carder_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
+
+    .Randy_Carder_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+
+    .Randy_Carder_5 {
+        margin-top: 19px;
+    }
+
+    /* 15 ci ***************************** */
+
+    .Lydia_Culhane {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Lydia_Culhane_1 {
+        background-color: var(--Background-Secondary);
+        top: 15px;
+    }
+
+    .Lydia_Culhane_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Lydia_Culhane_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+
+    .Lydia_Culhane_4 {
+        display: none;
+    }
+
+    .Lydia_Culhane_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
+
+    .Lydia_Culhane_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+
+    .Lydia_Culhane_5 {
+        margin-top: 19px;
+    }
+
+    /* 16 ci *********************************** */
+
+    .Rayna_Bator {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Rayna_Bator_1 {
+        background-color: var(--Background-Secondary);
+        top: 15px;
+    }
+
+    .Rayna_Bator_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Rayna_Bator_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+
+    .Rayna_Bator_4 {
+        display: none;
+    }
+
+    .Rayna_Bator_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
+
+    .Rayna_Bator_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+
+    .Rayna_Bator_5 {
+        margin-top: 19px;
+    }
+
+    /* 17 ci ************************************ */
+
+    .Jocelyn_Westervelt {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Jocelyn_Westervelt_1 {
+        background-color: var(--Background-Secondary);
+        top: 15px;
+    }
+
+    .Jocelyn_Westervelt_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Jocelyn_Westervelt_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+
+    .Jocelyn_Westervelt_4 {
+        display: none;
+    }
+
+    .Jocelyn_Westervelt_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
+
+    .Jocelyn_Westervelt_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+
+    .Jocelyn_Westervelt_5 {
+        margin-top: 19px;
+    }
+
+    /* 18 ci ************************************* */
+
+    .Marilyn_Torff {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Marilyn_Torff_1 {
+        background-color: var(--Background-Secondary);
+        top: 15px;
+    }
+
+    .Marilyn_Torff_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Marilyn_Torff_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+
+    .Marilyn_Torff_4 {
+        display: none;
+    }
+
+    .Marilyn_Torff_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
+
+    .Marilyn_Torff_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+
+    .Marilyn_Torff_5 {
+        margin-top: 19px;
+    }
+
+    /* 19 cu ***************************** */
+
+    .Skylar_Levin {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Skylar_Levin_1 {
+        background-color: var(--Background-Secondary);
+        top: 15px;
+    }
+
+    .Skylar_Levin_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Skylar_Levin_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+
+    .Skylar_Levin_4 {
+        display: none;
+    }
+
+    .Skylar_Levin_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
+
+    .Skylar_Levin_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+
+    .Skylar_Levin_5 {
+        margin-top: 19px;
+    }
+
+    /* 20 ci *************************************** */
+
+    .Terry_Dorwart {
+        width: 720px;
+        height: 60px;
+    }
+
+    .Terry_Dorwart_1 {
+        background-color: var(--Background-Secondary);
+        top: 15px;
+    }
+
+    .Terry_Dorwart_img {
+        width: 24px;
+        height: 24px;
+        margin-left: 45px;
+        margin-top: 17px;
+    }
+
+    .Terry_Dorwart_img img {
+        width: 24px;
+        height: 24px;
+    }
+
+
+    .Terry_Dorwart_4 {
+        display: none;
+    }
+
+    .Terry_Dorwart_2 {
+        margin-top: 13px;
+        width: 189px;
+    }
+
+
+    .Terry_Dorwart_3 {
+        margin-top: 19px;
+        margin-left: 23.5%;
+    }
+
+    .Terry_Dorwart_5 {
+        margin-top: 19px;
+    }
 
 
 
@@ -2161,9 +2233,11 @@
         margin: auto;
         margin-top: 10%;
     }
-.TopCreators{
-    margin-top: 20%;
-}
+
+    .TopCreators {
+        margin-top: 20%;
+    }
+
     .ContainerTopCreators1 {
         width: 99%;
         margin-top: 0;
@@ -2205,9 +2279,11 @@
         margin-left: 8.5%;
         margin-top: 3%;
     }
+
     .CheckoutTopRated p {
         margin-top: 5%;
     }
+
     .Juanie {
         margin-top: 3%;
     }
@@ -2216,21 +2292,26 @@
         margin-right: 6%;
     }
 
-    .navbar_number1{
+    .navbar_number1 {
         margin-right: 40px;
     }
-    .navbar_number2{
+
+    .navbar_number2 {
         margin-right: 50px;
     }
-    .walletIcon{
+
+    .walletIcon {
         margin-left: 3%;
     }
-    .MusicIcon{
+
+    .MusicIcon {
         margin-left: 3%;
     }
-    .pannierIcon{
+
+    .pannierIcon {
         margin-left: 3%;
     }
+
     /* 3 cu seyfe bitish --------------------------------- */
 
     /* 1 ci seyfe mobile */
@@ -3070,613 +3151,738 @@
     }
 
 
-/* ! ******************* Rankings **************************** */
+    /* ! ******************* Rankings **************************** */
 
-.TodayThisWeek{
-    display: none;
-}
-.TodayThisWeek_media{
-    display: flex;
-}
-.TodayThisWeek_media .Today{
-    width: 80px;
-    margin-left: 5%;
-}
-.TodayThisWeek_media .This_Week{
-    margin-left: 10%;
-}
-.TodayThisWeek_media .This_Month{
-    margin-left: 10%;
-}
-.TodayThisWeek_media .All_Time{
-    margin-left: 10%;
-}
-.ChangeNFTsVolume li:nth-child(1){
-    display: none;
-}
-.ChangeNFTsVolume li:nth-child(3){
-    margin-left: 23%;
-}
-.ArtistChangeSoldVolume{
-    width: 338px;
-}
-.Artist {
-    margin-top: 3%;
-}
-.ChangeNFTsVolume {
-    margin-top: 3%;
-}
+    .TodayThisWeek {
+        display: none;
+    }
 
-/* 1 ci ******************************* */
-.Jaydon_Ekstrom_Bothman_1{
-    left: 4px;
-}
-.Jaydon_Ekstrom_Bothman{
-    width: 338px;
-}
-.Jaydon_Ekstrom_{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Jaydon_Ekstrom_ p{
-    font-size: 16px;
-}
-.Jaydon_Ekstrom_141{
-    display: none;
-}
-.Jaydon_Ekstrom_Bothman_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
-.Jaydon_Ekstrom_124 p{
-    font-size: 12px;
-    width: 80px;
-}
+    .TodayThisWeek_media {
+        display: flex;
+    }
 
-/* 2 ci ************************ */
+    .TodayThisWeek_media .Today {
+        width: 80px;
+        margin-left: 5%;
+    }
 
-.Ruben_Carder_1{
-    left: 4px;
-}
-.Ruben_Carder{
-    width: 338px;
-}
-.Ruben_Carder_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Ruben_Carder_2 p{
-    font-size: 16px;
-}
-.Ruben_Carder_3{
-    display: none;
-}
-.Ruben_Carder_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    .TodayThisWeek_media .This_Week {
+        margin-left: 10%;
+    }
 
-.Ruben_Carder_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 30px;
-}
+    .TodayThisWeek_media .This_Month {
+        margin-left: 10%;
+    }
 
-/* 3 cu *********************** */
+    .TodayThisWeek_media .All_Time {
+        margin-left: 10%;
+    }
 
-.Alfredo_Septimus_1{
-    left: 4px;
-}
-.Alfredo_Septimus{
-    width: 338px;
-}
-.Alfredo_Septimus_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Alfredo_Septimus_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Alfredo_Septimus_3{
-    display: none;
-}
-.Alfredo_Septimus_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    .ChangeNFTsVolume li:nth-child(1) {
+        display: none;
+    }
 
-.Alfredo_Septimus_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
-/* 4 cu ************************ */
+    .ChangeNFTsVolume li:nth-child(3) {
+        margin-left: 23%;
+    }
 
-.Davis_Franci_1{
-    left: 4px;
-}
-.Davis_Franci{
-    width: 338px;
-}
-.Davis_Franci_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Davis_Franci_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Davis_Franci_3{
-    display: none;
-}
-.Davis_Franci_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    .ArtistChangeSoldVolume {
+        width: 338px;
+    }
 
-.Davis_Franci_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
-/* 5 ci *************************************** */
-.Livia_Rosser_1{
-    left: 4px;
-}
-.Livia_Rosser{
-    width: 338px;
-}
-.Livia_Rosser_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Livia_Rosser_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Livia_Rosser_3{
-    display: none;
-}
-.Livia_Rosser_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    .Artist {
+        margin-top: 3%;
+    }
 
-.Livia_Rosser_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
-/* 6 ci ***************** */
-.Kianna_Donin_1{
-    left: 4px;
-}
-.Kianna_Donin{
-    width: 338px;
-}
-.Kianna_Donin_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Kianna_Donin_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Kianna_Donin_3{
-    display: none;
-}
-.Kianna_Donin_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    .ChangeNFTsVolume {
+        margin-top: 3%;
+    }
 
-.Kianna_Donin_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
-/* 7 ci ********************* */
+    /* 1 ci ******************************* */
+    .Jaydon_Ekstrom_Bothman_1 {
+        left: 4px;
+    }
 
-.Phillip_Lipshutz_1{
-    left: 4px;
-}
-.Phillip_Lipshutz{
-    width: 338px;
-}
-.Phillip_Lipshutz_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Phillip_Lipshutz_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Phillip_Lipshutz_3{
-    display: none;
-}
-.Phillip_Lipshutz_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    .Jaydon_Ekstrom_Bothman {
+        width: 338px;
+    }
 
-.Phillip_Lipshutz_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
+    .Jaydon_Ekstrom_ {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
 
-/* 8 ci *************************** */
+    .Jaydon_Ekstrom_ p {
+        font-size: 16px;
+    }
+
+    .Jaydon_Ekstrom_141 {
+        display: none;
+    }
+
+    .Jaydon_Ekstrom_Bothman_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Jaydon_Ekstrom_124 p {
+        font-size: 12px;
+        width: 80px;
+    }
+
+    /* 2 ci ************************ */
+
+    .Ruben_Carder_1 {
+        left: 4px;
+    }
+
+    .Ruben_Carder {
+        width: 338px;
+    }
+
+    .Ruben_Carder_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
+    .Ruben_Carder_2 p {
+        font-size: 16px;
+    }
+
+    .Ruben_Carder_3 {
+        display: none;
+    }
+
+    .Ruben_Carder_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Ruben_Carder_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 30px;
+    }
+
+    /* 3 cu *********************** */
+
+    .Alfredo_Septimus_1 {
+        left: 4px;
+    }
+
+    .Alfredo_Septimus {
+        width: 338px;
+    }
+
+    .Alfredo_Septimus_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
+    .Alfredo_Septimus_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
+
+    .Alfredo_Septimus_3 {
+        display: none;
+    }
+
+    .Alfredo_Septimus_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Alfredo_Septimus_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
+
+    /* 4 cu ************************ */
+
+    .Davis_Franci_1 {
+        left: 4px;
+    }
+
+    .Davis_Franci {
+        width: 338px;
+    }
+
+    .Davis_Franci_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
+    .Davis_Franci_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
+
+    .Davis_Franci_3 {
+        display: none;
+    }
+
+    .Davis_Franci_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Davis_Franci_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
+
+    /* 5 ci *************************************** */
+    .Livia_Rosser_1 {
+        left: 4px;
+    }
+
+    .Livia_Rosser {
+        width: 338px;
+    }
+
+    .Livia_Rosser_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
+    .Livia_Rosser_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
+
+    .Livia_Rosser_3 {
+        display: none;
+    }
+
+    .Livia_Rosser_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Livia_Rosser_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
+
+    /* 6 ci ***************** */
+    .Kianna_Donin_1 {
+        left: 4px;
+    }
+
+    .Kianna_Donin {
+        width: 338px;
+    }
+
+    .Kianna_Donin_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
+    .Kianna_Donin_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
+
+    .Kianna_Donin_3 {
+        display: none;
+    }
+
+    .Kianna_Donin_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Kianna_Donin_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
+
+    /* 7 ci ********************* */
+
+    .Phillip_Lipshutz_1 {
+        left: 4px;
+    }
+
+    .Phillip_Lipshutz {
+        width: 338px;
+    }
+
+    .Phillip_Lipshutz_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
+    .Phillip_Lipshutz_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
+
+    .Phillip_Lipshutz_3 {
+        display: none;
+    }
+
+    .Phillip_Lipshutz_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Phillip_Lipshutz_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
+
+    /* 8 ci *************************** */
 
 
-.Maria_Rosser_1{
-    left: 4px;
-}
-.Maria_Rosser{
-    width: 338px;
-}
-.Maria_Rosser_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Maria_Rosser_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Maria_Rosser_3{
-    display: none;
-}
-.Maria_Rosser_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    .Maria_Rosser_1 {
+        left: 4px;
+    }
 
-.Maria_Rosser_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
-/* 9 cu ****************************** */
-.Kianna_Stanton_1{
-    left: 4px;
-}
-.Kianna_Stanton{
-    width: 338px;
-}
-.Kianna_Stanton_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Kianna_Stanton_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Kianna_Stanton_3{
-    display: none;
-}
-.Kianna_Stanton_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    .Maria_Rosser {
+        width: 338px;
+    }
 
-.Kianna_Stanton_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
-/* 10 cu ************************** */
-.Angel_Lubin_1{
-    left: 4px;
-}
-.Angel_Lubin{
-    width: 338px;
-}
-.Angel_Lubin_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Angel_Lubin_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Angel_Lubin_3{
-    display: none;
-}
-.Angel_Lubin_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    .Maria_Rosser_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
 
-.Angel_Lubin_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
-/* 11 ci ********************** */
-.Allison_Torff_1{
-    left: 4px;
-}
-.Allison_Torff{
-    width: 338px;
-}
-.Allison_Torff_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Allison_Torff_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Allison_Torff_3{
-    display: none;
-}
-.Allison_Torff_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    .Maria_Rosser_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
 
-.Allison_Torff_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
-/* 12 ci ********************* */
-.Davis_Workman_1{
-    left: 4px;
-}
-.Davis_Workman{
-    width: 338px;
-}
-.Davis_Workman_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Davis_Workman_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Davis_Workman_3{
-    display: none;
-}
-.Davis_Workman_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    .Maria_Rosser_3 {
+        display: none;
+    }
 
-.Davis_Workman_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
+    .Maria_Rosser_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
 
-/* 13 cu ************************************* */
+    .Maria_Rosser_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
 
-.Lindsey_Lipshutz_1{
-    left: 4px;
-}
-.Lindsey_Lipshutz{
-    width: 338px;
-}
-.Lindsey_Lipshutz_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Lindsey_Lipshutz_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Lindsey_Lipshutz_3{
-    display: none;
-}
-.Lindsey_Lipshutz_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    /* 9 cu ****************************** */
+    .Kianna_Stanton_1 {
+        left: 4px;
+    }
 
-.Lindsey_Lipshutz_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
-/* 14 cu *********************** */
-.Randy_Carder_1{
-    left: 4px;
-}
-.Randy_Carder{
-    width: 338px;
-}
-.Randy_Carder_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Randy_Carder_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Randy_Carder_3{
-    display: none;
-}
-.Randy_Carder_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    .Kianna_Stanton {
+        width: 338px;
+    }
 
-.Randy_Carder_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
-/* 15 ci **************************** */
-.Lydia_Culhane_1{
-    left: 4px;
-}
-.Lydia_Culhane{
-    width: 338px;
-}
-.Lydia_Culhane_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Lydia_Culhane_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Lydia_Culhane_3{
-    display: none;
-}
-.Lydia_Culhane_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    .Kianna_Stanton_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
 
-.Lydia_Culhane_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
-/* 16 ci *********************************** */
-.Rayna_Bator_1{
-    left: 4px;
-}
-.Rayna_Bator{
-    width: 338px;
-}
-.Rayna_Bator_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Rayna_Bator_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Rayna_Bator_3{
-    display: none;
-}
-.Rayna_Bator_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    .Kianna_Stanton_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
 
-.Rayna_Bator_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
+    .Kianna_Stanton_3 {
+        display: none;
+    }
 
-/* 17 ci ********************************** */
-.Jocelyn_Westervelt_1{
-    left: 4px;
-}
-.Jocelyn_Westervelt{
-    width: 338px;
-}
-.Jocelyn_Westervelt_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Jocelyn_Westervelt_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Jocelyn_Westervelt_3{
-    display: none;
-}
-.Jocelyn_Westervelt_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    .Kianna_Stanton_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
 
-.Jocelyn_Westervelt_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
-/* 18 ci ****************************** */
+    .Kianna_Stanton_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
 
-.Marilyn_Torff_1{
-    left: 4px;
-}
-.Marilyn_Torff{
-    width: 338px;
-}
-.Marilyn_Torff_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Marilyn_Torff_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Marilyn_Torff_3{
-    display: none;
-}
-.Marilyn_Torff_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    /* 10 cu ************************** */
+    .Angel_Lubin_1 {
+        left: 4px;
+    }
 
-.Marilyn_Torff_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
-/* 19 cu ***************************** */
-.Skylar_Levin_1{
-    left: 4px;
-}
-.Skylar_Levin{
-    width: 338px;
-}
-.Skylar_Levin_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Skylar_Levin_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Skylar_Levin_3{
-    display: none;
-}
-.Skylar_Levin_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    .Angel_Lubin {
+        width: 338px;
+    }
 
-.Skylar_Levin_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
-/* 20 ci ************************** */
+    .Angel_Lubin_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
 
-.Terry_Dorwart_1{
-    left: 4px;
-}
-.Terry_Dorwart{
-    width: 338px;
-}
-.Terry_Dorwart_2{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.Terry_Dorwart_2 p{
-    font-size: 16px;
-    width: max-content;
-}
-.Terry_Dorwart_3{
-    display: none;
-}
-.Terry_Dorwart_img{
-    margin-top: 18px;
-    margin-left: 34px;
-}
+    .Angel_Lubin_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
 
-.Terry_Dorwart_5 p{
-    font-size: 12px;
-    width: 80px;
-    margin-left: 4px;
-}
+    .Angel_Lubin_3 {
+        display: none;
+    }
+
+    .Angel_Lubin_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Angel_Lubin_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
+
+    /* 11 ci ********************** */
+    .Allison_Torff_1 {
+        left: 4px;
+    }
+
+    .Allison_Torff {
+        width: 338px;
+    }
+
+    .Allison_Torff_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
+    .Allison_Torff_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
+
+    .Allison_Torff_3 {
+        display: none;
+    }
+
+    .Allison_Torff_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Allison_Torff_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
+
+    /* 12 ci ********************* */
+    .Davis_Workman_1 {
+        left: 4px;
+    }
+
+    .Davis_Workman {
+        width: 338px;
+    }
+
+    .Davis_Workman_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
+    .Davis_Workman_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
+
+    .Davis_Workman_3 {
+        display: none;
+    }
+
+    .Davis_Workman_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Davis_Workman_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
+
+    /* 13 cu ************************************* */
+
+    .Lindsey_Lipshutz_1 {
+        left: 4px;
+    }
+
+    .Lindsey_Lipshutz {
+        width: 338px;
+    }
+
+    .Lindsey_Lipshutz_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
+    .Lindsey_Lipshutz_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
+
+    .Lindsey_Lipshutz_3 {
+        display: none;
+    }
+
+    .Lindsey_Lipshutz_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Lindsey_Lipshutz_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
+
+    /* 14 cu *********************** */
+    .Randy_Carder_1 {
+        left: 4px;
+    }
+
+    .Randy_Carder {
+        width: 338px;
+    }
+
+    .Randy_Carder_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
+    .Randy_Carder_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
+
+    .Randy_Carder_3 {
+        display: none;
+    }
+
+    .Randy_Carder_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Randy_Carder_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
+
+    /* 15 ci **************************** */
+    .Lydia_Culhane_1 {
+        left: 4px;
+    }
+
+    .Lydia_Culhane {
+        width: 338px;
+    }
+
+    .Lydia_Culhane_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
+    .Lydia_Culhane_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
+
+    .Lydia_Culhane_3 {
+        display: none;
+    }
+
+    .Lydia_Culhane_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Lydia_Culhane_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
+
+    /* 16 ci *********************************** */
+    .Rayna_Bator_1 {
+        left: 4px;
+    }
+
+    .Rayna_Bator {
+        width: 338px;
+    }
+
+    .Rayna_Bator_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
+    .Rayna_Bator_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
+
+    .Rayna_Bator_3 {
+        display: none;
+    }
+
+    .Rayna_Bator_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Rayna_Bator_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
+
+    /* 17 ci ********************************** */
+    .Jocelyn_Westervelt_1 {
+        left: 4px;
+    }
+
+    .Jocelyn_Westervelt {
+        width: 338px;
+    }
+
+    .Jocelyn_Westervelt_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
+    .Jocelyn_Westervelt_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
+
+    .Jocelyn_Westervelt_3 {
+        display: none;
+    }
+
+    .Jocelyn_Westervelt_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Jocelyn_Westervelt_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
+
+    /* 18 ci ****************************** */
+
+    .Marilyn_Torff_1 {
+        left: 4px;
+    }
+
+    .Marilyn_Torff {
+        width: 338px;
+    }
+
+    .Marilyn_Torff_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
+    .Marilyn_Torff_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
+
+    .Marilyn_Torff_3 {
+        display: none;
+    }
+
+    .Marilyn_Torff_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Marilyn_Torff_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
+
+    /* 19 cu ***************************** */
+    .Skylar_Levin_1 {
+        left: 4px;
+    }
+
+    .Skylar_Levin {
+        width: 338px;
+    }
+
+    .Skylar_Levin_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
+    .Skylar_Levin_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
+
+    .Skylar_Levin_3 {
+        display: none;
+    }
+
+    .Skylar_Levin_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Skylar_Levin_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
+
+    /* 20 ci ************************** */
+
+    .Terry_Dorwart_1 {
+        left: 4px;
+    }
+
+    .Terry_Dorwart {
+        width: 338px;
+    }
+
+    .Terry_Dorwart_2 {
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
+    .Terry_Dorwart_2 p {
+        font-size: 16px;
+        width: max-content;
+    }
+
+    .Terry_Dorwart_3 {
+        display: none;
+    }
+
+    .Terry_Dorwart_img {
+        margin-top: 18px;
+        margin-left: 34px;
+    }
+
+    .Terry_Dorwart_5 p {
+        font-size: 12px;
+        width: 80px;
+        margin-left: 4px;
+    }
 
 
 
